@@ -1,0 +1,1999 @@
+_CASE_KEY,Variant,Customer_ID,Revenue,Costs,Pizza Type,Pizza Size,Customer Satisfaction,Cost Factor,Weekday,Daytime,Distribution Channel,Customer Location,Customer Type
+895,1,175,17,13,Funghi,Medium,3,Chef 2,Sunday,14,Feedera SE,Munich District One,Student
+426,1,13,19,10,Salami,Small,3,Chef 2,Sunday,13,Deliver Now Holding,Munich District One,Student
+690,1,47,9,16,Calzone,Large,0,Chef 1,Sunday,12,Feedera SE,Munich District One,Teenager
+185,1,123,36,56,Calzone,Large,1,Chef 1,Sunday,18,Deliveruu Inc.,Munich District One,Adult
+1721,1,269,5,35,Salami,Small,5,Ingredients,Sunday,14,Feedera SE,Munich District One,Student
+1742,1,244,16,35,Speciale,Large,2,Chef 2,Sunday,12,Feedera SE,Munich District Three,Student
+1074,1,38,10,35,Magherita,Medium,5,Delivery Scooters ,Tuesday,12,Orderly SE,Munich District Three,Student
+1955,1,216,10,2,Magherita,Large,2,Chef 1,Sunday,17,Deliver Now Holding,Munich District One,Adult
+276,1,257,47,8,Salami,Large,5,Phone Bill,Friday,12,Deliver Now Holding,Munich District One,Student
+1188,1,84,6,3,Salami,Small,1,Ingredients,Friday,12,Deliver Now Holding,Munich District One,Teenager
+1397,1,42,23,10,Calzone,Medium,3,Chef 2,Sunday,12,BestOrder Inc.,Munich District Three,Student
+1269,1,243,34,10,Calzone,Large,1,Delivery Guy 2,Friday,18,Orderly SE,Munich District One,Adult
+723,1,245,36,5,Salami,Medium,2,Distribution channel fees,Sunday,18,Feedera SE,Munich District Three,Student
+1136,1,267,8,4,Magherita,Small,3,Delivery Scooters ,Tuesday,19,TownExpress Inc. ,Munich District One,Teenager
+1945,1,74,11,8,Funghi,Medium,0,Chef 1,Sunday,12,BestOrder Inc.,Munich District One,Teenager
+1859,1,109,10,11,Salami,Large,3,Waiter,Saturday,12,Feedera SE,Munich District Two,Student
+259,1,216,6,8,Calzone,Medium,0,Waiter,Wednesday,17,Deliveruu Inc.,Munich District Three,Student
+915,1,195,6,10,Paprika,Small,1,Delivery Scooters ,Monday,18,BestOrder Inc.,Munich District Four,Student
+1915,1,248,47,4,Salami,Small,4,Chef 1,Sunday,21,BestOrder Inc.,Munich District Four,Student
+1920,1,36,29,44,Magherita,Medium,3,Phone Bill,Wednesday,18,Deliver Now Holding,Munich District Four,Student
+290,1,173,29,5,Magherita,Medium,0,Delivery Guy 1 ,Saturday,12,Deliver Now Holding,Munich District One,Teenager
+963,1,34,11,10,Funghi,Large,5,Delivery Guy 2,Saturday,16,Heropizza Lmtd.,Munich District Two,Student
+197,1,230,28,7,Magherita,Small,0,Delivery Guy 2,Saturday,16,Deliver Now Holding,Munich District Three,Student
+1592,1,235,24,9,Funghi,Small,1,Waiter,Friday,21,Feedera SE,Munich District One,Student
+567,1,230,6,33,Salami,Medium,2,Delivery Scooters ,Sunday,14,Deliver Now Holding,Munich District Two,Adult
+754,1,38,19,10,Salami,Small,3,Chef 1,Saturday,13,Deliver Now Holding,Munich District Three,Student
+512,1,178,6,9,Funghi,Medium,1,Chef 2,Wednesday,11,Deliver Now Holding,Munich District Two,Student
+1988,1,78,9,60,Salami,Medium,3,Chef 1,Saturday,12,Deliver Now Holding,Munich District Two,Teenager
+1914,1,17,10,7,Paprika,Small,3,Chef 1,Sunday,18,Heropizza Lmtd.,Munich District Two,Student
+183,1,226,10,7,Magherita,Small,0,Waiter,Friday,19,Feedera SE,Munich District Three,Adult
+584,1,225,36,10,Salami,Medium,4,Chef 1,Tuesday,13,Heropizza Lmtd.,Munich District One,Teenager
+950,1,52,10,1,Speciale,Large,2,Chef 2,Sunday,19,TownExpress Inc. ,Munich District One,Student
+298,1,204,29,7,Magherita,Small,0,Chef 1,Sunday,13,Deliveruu Inc.,Munich District One,Adult
+1158,1,148,6,4,Salami,Medium,3,Delivery Guy 2,Saturday,13,BestOrder Inc.,Munich District Three,Student
+1024,1,49,8,4,Speciale,Small,1,Chef 1,Friday,19,Feedera SE,Munich District Five,Student
+137,1,168,55,1,Calzone,Large,1,Delivery Guy 2,Friday,15,Heropizza Lmtd.,Munich District Three,Teenager
+409,1,36,21,56,Magherita,Large,4,Ingredients,Friday,19,Feedera SE,Munich District One,Student
+505,1,270,9,5,Magherita,Large,3,Chef 2,Friday,20,Deliveruu Inc.,Munich District Five,Student
+1290,1,102,9,11,Funghi,Small,0,Chef 1,Sunday,11,Feedera SE,Munich District Five,Student
+1650,1,121,5,10,Salami,Small,4,Chef 1,Sunday,21,Deliver Now Holding,Munich District Five,Senior
+390,1,243,8,10,Funghi,Small,1,Chef 2,Saturday,12,TownExpress Inc. ,Munich District Two,Student
+123,1,89,30,13,Salami,Large,1,Delivery Scooters ,Sunday,14,BestOrder Inc.,Munich District Two,Teenager
+1861,1,258,9,11,Magherita,Small,1,Ingredients,Saturday,19,Feedera SE,Munich District One,Teenager
+541,1,282,4,1,Funghi,Large,1,Ingredients,Friday,14,Deliveruu Inc.,Munich District Three,Student
+1904,1,230,51,1,Salami,Large,3,Ingredients,Friday,13,BestOrder Inc.,Munich District Two,Student
+33,1,192,29,47,Salami,Medium,4,Delivery Scooters ,Saturday,15,Deliver Now Holding,Munich District One,Teenager
+1506,1,110,22,10,Speciale,Large,0,Chef 2,Saturday,18,Deliveruu Inc.,Munich District One,Teenager
+951,1,104,9,10,Speciale,Small,3,Delivery Guy 1 ,Saturday,18,Deliveruu Inc.,Munich District Three,Student
+490,1,166,18,11,Magherita,Large,3,Waiter,Sunday,15,Feedera SE,Munich District One,Senior
+556,1,180,32,5,Calzone,Large,5,Chef 2,Monday,21,Feedera SE,Munich District Two,Student
+1560,1,110,32,10,Magherita,Small,5,Ingredients,Friday,19,Deliveruu Inc.,Munich District Two,Student
+511,1,204,10,7,Calzone,Small,3,Chef 2,Friday,12,Deliver Now Holding,Munich District Five,Student
+911,1,137,31,46,Salami,Small,5,Delivery Scooters ,Sunday,12,Deliver Now Holding,Munich District Three,Teenager
+1378,1,179,15,7,Speciale,Small,2,Chef 2,Sunday,13,Deliver Now Holding,Munich District Two,Teenager
+898,1,54,29,2,Paprika,Medium,1,Ingredients,Saturday,11,Feedera SE,Munich District Three,Student
+1656,1,127,21,13,Salami,Large,1,Chef 1,Sunday,13,Deliver Now Holding,Munich District Two,Student
+479,1,132,5,38,Salami,Medium,1,Chef 2,Monday,12,Feedera SE,Munich District Five,Student
+66,1,260,33,16,Funghi,Large,1,Chef 2,Sunday,13,Orderly SE,Munich District Five,Student
+1784,1,128,21,7,Salami,Medium,3,Ingredients,Saturday,18,BestOrder Inc.,Munich District One,Student
+349,1,82,50,44,Speciale,Medium,4,Delivery Scooters ,Sunday,17,Deliveruu Inc.,Munich District One,Student
+659,1,91,5,46,Funghi,Large,2,Chef 2,Friday,13,BestOrder Inc.,Munich District One,Senior
+1217,1,22,10,7,Salami,Small,1,Ingredients,Wednesday,18,BestOrder Inc.,Munich District Four,Student
+372,1,68,29,7,Veggie,Medium,3,Waiter,Friday,12,Deliver Now Holding,Munich District Four,Student
+264,1,174,36,10,Funghi,Small,3,Chef 1,Saturday,11,Feedera SE,Munich District One,Student
+1250,1,263,4,22,Salami,Large,1,Phone Bill,Wednesday,14,Deliver Now Holding,Munich District One,Adult
+1092,1,250,11,8,Calzone,Large,3,Phone Bill,Sunday,13,BestOrder Inc.,Munich District One,Adult
+709,1,93,5,13,Salami,Small,1,Ingredients,Sunday,12,Feedera SE,Munich District One,Student
+1409,1,206,8,12,Magherita,Small,3,Chef 2,Saturday,13,Feedera SE,Munich District Three,Teenager
+81,1,93,4,10,Paprika,Small,1,Distribution channel fees,Wednesday,12,Deliver Now Holding,Munich District Five,Student
+384,1,184,5,3,Magherita,Medium,2,Delivery Scooters ,Sunday,16,Feedera SE,Munich District One,Adult
+993,1,209,36,5,Magherita,Medium,1,Chef 1,Friday,13,Feedera SE,Munich District Two,Student
+157,1,29,56,8,Speciale,Small,5,Ingredients,Sunday,18,Heropizza Lmtd.,Munich District One,Student
+672,1,235,29,5,Salami,Small,1,Chef 2,Sunday,13,Feedera SE,Munich District One,Adult
+1138,1,128,23,10,Speciale,Small,0,Chef 2,Sunday,18,Deliver Now Holding,Munich District Three,Adult
+788,1,27,36,2,Veggie,Large,3,Chef 1,Sunday,18,Feedera SE,Munich District Two,Student
+196,1,85,10,28,Magherita,Large,3,Delivery Guy 2,Sunday,17,Feedera SE,Munich District Two,Student
+386,1,63,36,56,Paprika,Medium,3,Phone Bill,Wednesday,12,Feedera SE,Munich District Two,Teenager
+702,1,48,9,20,Salami,Small,5,Chef 1,Saturday,13,Feedera SE,Munich District Four,Teenager
+669,1,150,22,7,Speciale,Small,5,Delivery Guy 1 ,Friday,18,Deliver Now Holding,Munich District One,Adult
+54,1,278,60,9,Salami,Small,5,Chef 1,Sunday,12,BestOrder Inc.,Munich District Three,Student
+851,1,167,29,10,Salami,Small,2,Waiter,Wednesday,18,Feedera SE,Munich District Three,Teenager
+852,1,46,6,16,Calzone,Small,4,Delivery Scooters ,Saturday,20,Deliver Now Holding,Munich District Two,Student
+1358,1,81,9,9,Paprika,Medium,1,Delivery Guy 2,Saturday,14,Deliver Now Holding,Munich District One,Adult
+776,1,300,36,2,Magherita,Medium,3,Chef 2,Sunday,18,BestOrder Inc.,Munich District One,Student
+1615,1,195,10,2,Veggie,Small,3,Delivery Guy 2,Wednesday,19,Feedera SE,Munich District Two,Student
+1620,1,300,11,7,Paprika,Small,4,Chef 2,Saturday,19,Deliver Now Holding,Munich District One,Adult
+430,1,145,21,2,Salami,Medium,2,Delivery Scooters ,Saturday,18,Deliver Now Holding,Munich District Three,Teenager
+1049,1,295,21,11,Speciale,Large,0,Chef 2,Saturday,18,Deliver Now Holding,Munich District One,Student
+731,1,218,10,22,Funghi,Large,3,Chef 1,Friday,19,Feedera SE,Munich District One,Teenager
+1553,1,42,6,47,Calzone,Small,3,Ingredients,Wednesday,18,Feedera SE,Munich District Three,Adult
+13,1,35,36,10,Salami,Medium,2,Phone Bill,Saturday,18,Feedera SE,Munich District One,Student
+449,1,15,29,10,Speciale,Small,3,Delivery Scooters ,Sunday,18,Orderly SE,Munich District Two,Student
+875,1,281,10,11,Salami,Medium,5,Chef 1,Friday,12,BestOrder Inc.,Munich District One,Student
+517,1,251,36,9,Salami,Large,3,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Student
+402,1,255,36,50,Veggie,Small,2,Delivery Guy 1 ,Saturday,13,BestOrder Inc.,Munich District Two,Student
+756,1,267,11,15,Calzone,Large,1,Chef 2,Monday,12,Deliver Now Holding,Munich District Three,Student
+906,1,254,46,7,Magherita,Small,1,Ingredients,Saturday,12,Orderly SE,Munich District Four,Student
+887,1,17,36,11,Speciale,Medium,5,Chef 2,Saturday,21,Orderly SE,Munich District Three,Senior
+1858,1,169,8,2,Veggie,Large,5,Chef 2,Sunday,17,Deliver Now Holding,Munich District One,Teenager
+629,1,264,17,2,Salami,Large,3,Phone Bill,Sunday,14,Feedera SE,Munich District Three,Adult
+645,1,145,8,2,Speciale,Small,3,Delivery Guy 2,Sunday,17,Deliveruu Inc.,Munich District Three,Teenager
+1474,1,227,18,2,Paprika,Small,3,Waiter,Sunday,12,Deliver Now Holding,Munich District Five,Student
+1703,1,125,56,11,Calzone,Large,0,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Student
+1856,1,43,36,47,Calzone,Small,4,Delivery Guy 2,Sunday,18,Feedera SE,Munich District One,Student
+1406,1,135,53,8,Funghi,Small,2,Ingredients,Saturday,20,Deliver Now Holding,Munich District One,Senior
+1112,1,177,9,2,Magherita,Small,4,Delivery Scooters ,Thursday,12,Deliver Now Holding,Munich District One,Student
+1414,1,299,39,5,Paprika,Small,2,Delivery Guy 1 ,Sunday,12,Feedera SE,Munich District Four,Student
+1176,1,65,9,17,Funghi,Large,1,Waiter,Sunday,19,Feedera SE,Munich District Four,Student
+1665,1,140,16,9,Magherita,Medium,5,Chef 1,Friday,12,Deliver Now Holding,Munich District Two,Student
+440,1,158,9,60,Magherita,Small,5,Waiter,Sunday,18,Deliver Now Holding,Munich District One,Student
+480,1,181,51,10,Magherita,Small,0,Delivery Scooters ,Friday,13,Feedera SE,Munich District Three,Teenager
+485,1,201,29,9,Calzone,Small,5,Chef 2,Saturday,14,BestOrder Inc.,Munich District One,Student
+1042,1,103,19,16,Salami,Small,3,Chef 1,Sunday,11,Feedera SE,Munich District One,Student
+24,1,184,5,8,Magherita,Medium,4,Chef 1,Saturday,16,Deliver Now Holding,Munich District One,Student
+131,1,224,56,11,Calzone,Medium,2,Waiter,Friday,18,Deliver Now Holding,Munich District Two,Student
+1339,1,72,17,8,Speciale,Small,5,Chef 2,Sunday,15,Deliveruu Inc.,Munich District Four,Senior
+1645,1,155,53,33,Salami,Medium,0,Chef 1,Sunday,19,Deliver Now Holding,Munich District One,Teenager
+1114,1,226,21,35,Speciale,Large,0,Chef 2,Thursday,17,Deliveruu Inc.,Munich District Two,Teenager
+687,1,129,5,16,Magherita,Large,2,Waiter,Sunday,17,Deliveruu Inc.,Munich District One,Student
+17,1,254,35,3,Calzone,Large,3,Phone Bill,Saturday,13,Feedera SE,Munich District Two,Teenager
+50,1,254,9,10,Speciale,Small,5,Chef 2,Saturday,20,Feedera SE,Munich District One,Student
+929,1,26,16,37,Salami,Small,1,Chef 1,Friday,19,BestOrder Inc.,Munich District Five,Student
+492,1,141,8,3,Calzone,Small,1,Chef 1,Saturday,14,Feedera SE,Munich District Two,Student
+1489,1,207,36,23,Salami,Medium,1,Delivery Scooters ,Friday,19,Deliver Now Holding,Munich District Three,Adult
+345,1,123,13,12,Funghi,Medium,1,Ingredients,Sunday,12,Feedera SE,Munich District One,Student
+395,1,14,8,12,Salami,Small,3,Chef 1,Sunday,21,Feedera SE,Munich District Four,Student
+1835,1,81,50,7,Funghi,Large,3,Chef 2,Friday,21,Feedera SE,Munich District Four,Student
+1311,1,139,10,7,Funghi,Small,5,Delivery Guy 2,Thursday,17,Deliver Now Holding,Munich District Three,Adult
+1679,1,279,10,7,Salami,Small,4,Waiter,Sunday,14,Feedera SE,Munich District Three,Student
+1370,1,141,55,11,Magherita,Small,3,Phone Bill,Sunday,14,BestOrder Inc.,Munich District Two,Student
+553,1,202,49,7,Calzone,Small,1,Delivery Scooters ,Sunday,12,BestOrder Inc.,Munich District Four,Student
+1522,1,26,44,12,Salami,Large,4,Chef 2,Friday,14,Feedera SE,Munich District Four,Student
+563,1,154,30,37,Calzone,Small,5,Delivery Scooters ,Sunday,18,Deliver Now Holding,Munich District Four,Teenager
+1282,1,196,54,12,Speciale,Large,4,Chef 1,Sunday,18,Deliver Now Holding,Munich District Three,Teenager
+1077,1,170,20,51,Salami,Large,2,Ingredients,Saturday,19,Feedera SE,Munich District Four,Teenager
+631,1,281,21,2,Salami,Large,4,Chef 1,Friday,12,Orderly SE,Munich District Four,Adult
+1069,1,139,22,10,Salami,Medium,3,Phone Bill,Sunday,17,Deliveruu Inc.,Munich District One,Student
+102,1,222,33,30,Magherita,Large,1,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Student
+743,1,20,29,2,Salami,Small,3,Delivery Scooters ,Friday,14,BestOrder Inc.,Munich District Two,Teenager
+1644,1,175,21,5,Magherita,Large,2,Ingredients,Saturday,19,BestOrder Inc.,Munich District Three,Teenager
+106,1,36,36,56,Paprika,Small,4,Delivery Guy 2,Saturday,12,BestOrder Inc.,Munich District One,Student
+366,1,213,44,7,Magherita,Large,1,Phone Bill,Monday,18,Deliver Now Holding,Munich District One,Student
+431,1,239,36,13,Funghi,Large,5,Phone Bill,Friday,18,Deliveruu Inc.,Munich District One,Student
+439,1,81,60,2,Speciale,Medium,3,Delivery Guy 1 ,Saturday,12,Feedera SE,Munich District One,Student
+353,1,2,36,43,Funghi,Small,3,Waiter,Sunday,18,Feedera SE,Munich District One,Adult
+146,1,59,36,9,Calzone,Small,0,Chef 2,Sunday,17,Feedera SE,Munich District Four,Student
+1348,1,6,54,2,Salami,Large,1,Delivery Scooters ,Sunday,13,BestOrder Inc.,Munich District Three,Teenager
+1696,1,165,36,3,Magherita,Large,2,Distribution channel fees,Friday,20,Deliver Now Holding,Munich District Two,Student
+655,1,282,21,30,Paprika,Large,1,Ingredients,Friday,12,Deliveruu Inc.,Munich District One,Student
+587,1,41,49,16,Salami,Medium,5,Chef 1,Friday,20,Heropizza Lmtd.,Munich District Four,Teenager
+262,1,3,36,13,Funghi,Large,1,Delivery Scooters ,Wednesday,19,Deliver Now Holding,Munich District Two,Teenager
+791,1,31,8,16,Funghi,Medium,1,Chef 1,Sunday,19,Deliver Now Holding,Munich District Five,Student
+1150,1,3,36,5,Funghi,Large,3,Chef 1,Tuesday,20,Orderly SE,Munich District Three,Teenager
+1067,1,24,10,2,Veggie,Medium,3,Chef 2,Monday,10,Deliveruu Inc.,Munich District Three,Student
+1294,1,275,28,8,Magherita,Small,1,Waiter,Monday,18,Deliver Now Holding,Munich District One,Adult
+1278,1,296,17,15,Salami,Medium,0,Chef 1,Friday,11,BestOrder Inc.,Munich District Five,Student
+1604,1,67,11,10,Magherita,Medium,2,Chef 2,Wednesday,18,BestOrder Inc.,Munich District One,Student
+1807,1,114,11,29,Calzone,Small,1,Waiter,Saturday,19,Deliver Now Holding,Munich District One,Adult
+1355,1,300,11,3,Magherita,Large,4,Delivery Guy 2,Friday,19,BestOrder Inc.,Munich District Five,Student
+1305,1,224,44,7,Calzone,Small,4,Ingredients,Friday,18,Feedera SE,Munich District Three,Senior
+1837,1,263,17,10,Salami,Small,2,Delivery Scooters ,Friday,20,Deliver Now Holding,Munich District Four,Student
+1825,1,25,36,16,Magherita,Small,2,Delivery Scooters ,Sunday,10,Deliveruu Inc.,Munich District One,Senior
+180,1,109,10,2,Funghi,Medium,2,Phone Bill,Sunday,13,BestOrder Inc.,Munich District One,Teenager
+1718,1,23,60,11,Paprika,Medium,5,Chef 1,Friday,18,BestOrder Inc.,Munich District One,Senior
+198,1,136,38,5,Salami,Medium,1,Phone Bill,Monday,11,Feedera SE,Munich District Two,Student
+388,1,295,5,10,Calzone,Large,4,Delivery Guy 2,Monday,11,BestOrder Inc.,Munich District One,Adult
+610,1,192,55,2,Funghi,Medium,3,Delivery Scooters ,Sunday,17,Feedera SE,Munich District Three,Teenager
+1384,1,202,21,16,Funghi,Medium,4,Chef 1,Sunday,18,Feedera SE,Munich District One,Student
+1774,1,198,4,7,Funghi,Large,0,Chef 2,Wednesday,13,Deliver Now Holding,Munich District Five,Student
+839,1,193,29,5,Salami,Small,3,Chef 1,Friday,17,TownExpress Inc. ,Munich District Five,Student
+1471,1,123,21,4,Magherita,Large,5,Chef 1,Friday,14,Feedera SE,Munich District Two,Student
+730,1,226,35,13,Calzone,Small,5,Chef 2,Saturday,18,Deliver Now Holding,Munich District Three,Student
+1788,1,212,6,5,Funghi,Small,0,Delivery Guy 2,Saturday,11,Deliveruu Inc.,Munich District Two,Teenager
+1818,1,37,11,8,Salami,Small,5,Delivery Scooters ,Sunday,14,BestOrder Inc.,Munich District Three,Adult
+1187,1,201,36,2,Funghi,Small,5,Chef 1,Friday,12,Deliver Now Holding,Munich District Five,Teenager
+729,1,62,21,1,Magherita,Small,1,Chef 1,Sunday,12,Feedera SE,Munich District One,Student
+1765,1,53,21,7,Calzone,Large,3,Phone Bill,Friday,12,Heropizza Lmtd.,Munich District One,Teenager
+419,1,83,29,22,Speciale,Small,3,Chef 2,Wednesday,19,Deliver Now Holding,Munich District Three,Teenager
+469,1,285,36,2,Salami,Medium,1,Chef 2,Friday,13,BestOrder Inc.,Munich District Four,Student
+994,1,60,52,7,Salami,Small,3,Phone Bill,Saturday,16,Deliver Now Holding,Munich District Two,Teenager
+270,1,89,4,23,Salami,Small,1,Delivery Guy 1 ,Friday,19,Feedera SE,Munich District Two,Adult
+1375,1,4,11,7,Funghi,Large,1,Chef 1,Sunday,20,BestOrder Inc.,Munich District Four,Student
+918,1,70,5,30,Salami,Medium,3,Chef 2,Friday,12,Deliveruu Inc.,Munich District Two,Student
+704,1,47,36,10,Magherita,Medium,3,Delivery Guy 1 ,Wednesday,18,TownExpress Inc. ,Munich District Three,Senior
+1210,1,44,8,8,Salami,Large,3,Waiter,Sunday,13,Feedera SE,Munich District One,Student
+1936,1,150,46,11,Veggie,Small,1,Delivery Guy 1 ,Sunday,21,Feedera SE,Munich District Five,Adult
+682,1,28,36,35,Salami,Small,3,Ingredients,Friday,19,Deliver Now Holding,Munich District Three,Student
+287,1,100,10,10,Salami,Large,1,Waiter,Friday,20,Feedera SE,Munich District Three,Adult
+920,1,105,21,10,Funghi,Small,3,Waiter,Saturday,12,Feedera SE,Munich District Three,Teenager
+661,1,137,6,16,Funghi,Medium,3,Phone Bill,Friday,18,Feedera SE,Munich District One,Student
+589,1,39,25,3,Salami,Medium,3,Delivery Guy 2,Wednesday,19,Deliver Now Holding,Munich District Three,Teenager
+397,1,224,29,29,Magherita,Small,2,Delivery Guy 1 ,Monday,19,TownExpress Inc. ,Munich District Four,Student
+79,1,68,47,7,Salami,Medium,1,Ingredients,Saturday,19,BestOrder Inc.,Munich District Two,Student
+753,1,291,18,12,Veggie,Large,1,Waiter,Sunday,13,Orderly SE,Munich District Two,Adult
+979,1,223,36,38,Magherita,Small,1,Chef 2,Friday,19,Heropizza Lmtd.,Munich District One,Student
+691,1,269,5,4,Veggie,Small,1,Chef 2,Friday,13,BestOrder Inc.,Munich District One,Student
+955,1,138,18,9,Funghi,Small,3,Phone Bill,Friday,18,Orderly SE,Munich District One,Student
+1001,1,20,5,10,Salami,Medium,3,Chef 1,Wednesday,11,Deliver Now Holding,Munich District One,Teenager
+1252,1,195,29,7,Funghi,Small,3,Delivery Scooters ,Saturday,19,Feedera SE,Munich District One,Student
+1562,1,185,21,16,Magherita,Small,1,Delivery Scooters ,Saturday,18,Deliver Now Holding,Munich District Four,Student
+1272,1,111,10,8,Salami,Large,2,Ingredients,Friday,20,Feedera SE,Munich District One,Student
+401,1,290,22,20,Calzone,Small,5,Chef 1,Friday,18,Feedera SE,Munich District Two,Student
+1545,1,190,37,2,Salami,Large,1,Delivery Guy 2,Tuesday,12,BestOrder Inc.,Munich District Five,Student
+606,1,3,10,2,Calzone,Medium,3,Delivery Scooters ,Sunday,13,TownExpress Inc. ,Munich District One,Teenager
+1276,1,115,8,5,Magherita,Small,4,Distribution channel fees,Saturday,21,Feedera SE,Munich District One,Teenager
+459,1,218,29,5,Calzone,Small,5,Chef 2,Friday,15,Feedera SE,Munich District Two,Student
+133,1,212,29,8,Calzone,Small,4,Phone Bill,Sunday,12,BestOrder Inc.,Munich District Three,Student
+1026,1,266,36,13,Calzone,Medium,1,Chef 1,Friday,12,Feedera SE,Munich District One,Student
+795,1,158,12,13,Veggie,Large,3,Delivery Guy 1 ,Friday,19,BestOrder Inc.,Munich District Four,Student
+231,1,282,29,11,Salami,Medium,4,Delivery Guy 1 ,Saturday,11,Feedera SE,Munich District One,Student
+155,1,93,36,31,Salami,Large,2,Chef 1,Sunday,12,Deliver Now Holding,Munich District Two,Student
+1535,1,150,5,10,Funghi,Large,2,Chef 1,Tuesday,18,BestOrder Inc.,Munich District Three,Teenager
+577,1,228,10,5,Salami,Large,3,Waiter,Sunday,21,BestOrder Inc.,Munich District One,Student
+217,1,196,8,7,Magherita,Small,3,Chef 1,Sunday,19,BestOrder Inc.,Munich District Two,Student
+400,1,143,6,16,Funghi,Large,0,Chef 2,Friday,12,Orderly SE,Munich District One,Senior
+982,1,143,50,46,Magherita,Medium,1,Delivery Guy 2,Saturday,18,Deliver Now Holding,Munich District One,Adult
+822,1,13,49,11,Salami,Large,3,Chef 2,Sunday,20,BestOrder Inc.,Munich District Two,Teenager
+269,1,69,8,9,Speciale,Small,0,Chef 1,Saturday,17,BestOrder Inc.,Munich District One,Student
+1430,1,133,56,10,Paprika,Small,3,Ingredients,Wednesday,18,Deliver Now Holding,Munich District Two,Student
+761,1,70,9,2,Funghi,Small,2,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Student
+927,1,137,44,5,Funghi,Large,0,Delivery Guy 1 ,Sunday,13,BestOrder Inc.,Munich District One,Adult
+1682,1,24,5,46,Veggie,Large,3,Chef 1,Wednesday,12,Deliver Now Holding,Munich District Two,Student
+680,1,210,21,10,Salami,Large,0,Waiter,Sunday,21,Feedera SE,Munich District Three,Student
+250,1,8,21,34,Magherita,Large,0,Delivery Scooters ,Friday,17,Deliveruu Inc.,Munich District One,Teenager
+1381,1,243,6,8,Funghi,Medium,1,Delivery Scooters ,Friday,13,TownExpress Inc. ,Munich District One,Student
+1350,1,45,21,43,Speciale,Large,5,Delivery Guy 2,Sunday,18,Deliver Now Holding,Munich District Five,Student
+521,1,183,4,51,Salami,Large,4,Delivery Guy 2,Sunday,19,Heropizza Lmtd.,Munich District Four,Student
+805,1,257,17,16,Magherita,Small,1,Chef 1,Sunday,11,BestOrder Inc.,Munich District Two,Teenager
+1676,1,14,24,7,Salami,Large,4,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Adult
+1440,1,151,10,12,Funghi,Medium,1,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Student
+1791,1,15,51,9,Salami,Small,3,Delivery Scooters ,Saturday,12,BestOrder Inc.,Munich District One,Teenager
+885,1,56,10,7,Salami,Medium,3,Delivery Guy 2,Saturday,18,Feedera SE,Munich District One,Student
+1730,1,210,29,2,Magherita,Large,1,Waiter,Wednesday,13,Deliver Now Holding,Munich District Two,Student
+1981,1,72,15,2,Calzone,Large,1,Chef 1,Saturday,12,Deliveruu Inc.,Munich District One,Student
+639,1,235,6,5,Funghi,Large,3,Ingredients,Thursday,18,BestOrder Inc.,Munich District One,Student
+267,1,80,29,10,Magherita,Small,1,Chef 1,Sunday,11,Deliveruu Inc.,Munich District One,Student
+1839,1,57,38,2,Magherita,Medium,3,Ingredients,Saturday,14,Deliver Now Holding,Munich District One,Teenager
+1179,1,279,21,4,Salami,Small,0,Distribution channel fees,Saturday,18,Feedera SE,Munich District Five,Student
+1065,1,5,53,2,Magherita,Large,1,Ingredients,Sunday,21,Deliver Now Holding,Munich District Five,Adult
+540,1,56,10,7,Paprika,Large,1,Chef 1,Friday,19,Feedera SE,Munich District One,Adult
+923,1,245,15,16,Magherita,Medium,1,Ingredients,Friday,18,BestOrder Inc.,Munich District Two,Adult
+55,1,15,15,10,Veggie,Small,1,Waiter,Thursday,19,Feedera SE,Munich District Three,Student
+222,1,123,29,13,Speciale,Medium,3,Chef 1,Friday,18,BestOrder Inc.,Munich District Four,Adult
+1368,1,46,8,2,Calzone,Medium,5,Delivery Scooters ,Friday,11,Deliveruu Inc.,Munich District Five,Student
+356,1,224,53,13,Magherita,Small,1,Chef 2,Sunday,19,Feedera SE,Munich District One,Student
+1812,1,102,21,8,Funghi,Large,5,Chef 1,Friday,18,Deliver Now Holding,Munich District Three,Adult
+203,1,240,50,10,Calzone,Small,1,Delivery Scooters ,Saturday,18,Feedera SE,Munich District Two,Adult
+1271,1,250,36,50,Funghi,Small,0,Delivery Scooters ,Sunday,15,Feedera SE,Munich District Three,Student
+1398,1,279,6,29,Funghi,Small,5,Ingredients,Sunday,13,Feedera SE,Munich District One,Adult
+774,1,252,11,46,Magherita,Large,3,Delivery Guy 2,Monday,19,BestOrder Inc.,Munich District One,Adult
+1924,1,237,34,10,Magherita,Small,2,Delivery Guy 2,Sunday,18,Deliver Now Holding,Munich District Five,Student
+1028,1,214,9,9,Veggie,Large,3,Chef 2,Sunday,21,Feedera SE,Munich District One,Student
+809,1,296,9,11,Magherita,Large,4,Delivery Scooters ,Friday,13,BestOrder Inc.,Munich District One,Adult
+1860,1,113,35,16,Calzone,Medium,5,Phone Bill,Sunday,13,BestOrder Inc.,Munich District One,Teenager
+1320,1,42,36,8,Paprika,Small,4,Ingredients,Sunday,12,BestOrder Inc.,Munich District One,Student
+1587,1,87,8,8,Funghi,Medium,1,Delivery Scooters ,Friday,12,Feedera SE,Munich District One,Student
+695,1,243,31,2,Salami,Small,4,Chef 2,Sunday,18,BestOrder Inc.,Munich District Five,Student
+526,1,243,29,10,Funghi,Medium,3,Phone Bill,Saturday,18,BestOrder Inc.,Munich District One,Senior
+504,1,253,49,33,Funghi,Large,1,Chef 2,Saturday,17,Deliveruu Inc.,Munich District Two,Adult
+277,1,242,11,30,Funghi,Small,3,Phone Bill,Saturday,13,Deliveruu Inc.,Munich District Three,Student
+1349,1,216,12,5,Salami,Medium,1,Chef 2,Friday,19,Feedera SE,Munich District One,Student
+1113,1,172,21,2,Calzone,Small,1,Delivery Scooters ,Saturday,12,TownExpress Inc. ,Munich District One,Senior
+1536,1,209,29,5,Salami,Medium,5,Phone Bill,Wednesday,18,TownExpress Inc. ,Munich District One,Student
+978,1,113,12,7,Magherita,Small,0,Chef 2,Saturday,18,Deliver Now Holding,Munich District Three,Teenager
+1926,1,300,6,5,Funghi,Small,2,Chef 2,Thursday,13,Deliver Now Holding,Munich District Three,Student
+714,1,128,46,20,Salami,Large,4,Delivery Scooters ,Friday,12,Deliveruu Inc.,Munich District One,Teenager
+30,1,163,11,5,Funghi,Small,1,Chef 2,Wednesday,18,Heropizza Lmtd.,Munich District Two,Student
+1155,1,72,30,2,Speciale,Large,1,Ingredients,Friday,18,Feedera SE,Munich District One,Student
+1851,1,47,35,25,Salami,Small,1,Delivery Scooters ,Tuesday,19,Deliveruu Inc.,Munich District One,Teenager
+1385,1,97,6,38,Magherita,Small,3,Delivery Guy 1 ,Friday,13,Deliver Now Holding,Munich District One,Teenager
+618,1,71,29,29,Magherita,Large,5,Waiter,Sunday,19,Feedera SE,Munich District Four,Student
+966,1,131,6,12,Speciale,Large,1,Chef 2,Friday,11,BestOrder Inc.,Munich District Two,Teenager
+1508,1,294,11,7,Salami,Medium,0,Phone Bill,Saturday,12,BestOrder Inc.,Munich District One,Student
+425,1,296,11,2,Speciale,Small,3,Waiter,Sunday,18,Feedera SE,Munich District Two,Senior
+1387,1,125,10,4,Paprika,Small,3,Chef 1,Friday,10,TownExpress Inc. ,Munich District One,Student
+1221,1,165,51,16,Magherita,Medium,1,Waiter,Friday,12,BestOrder Inc.,Munich District One,Adult
+961,1,60,51,2,Magherita,Large,5,Chef 2,Friday,12,Deliveruu Inc.,Munich District One,Teenager
+1216,1,43,39,22,Salami,Large,5,Chef 1,Friday,18,Deliver Now Holding,Munich District Three,Student
+237,1,286,29,50,Salami,Small,2,Chef 2,Sunday,13,Orderly SE,Munich District Five,Student
+1820,1,227,10,3,Magherita,Medium,3,Delivery Guy 2,Tuesday,17,Feedera SE,Munich District Two,Student
+240,1,153,10,10,Salami,Small,3,Phone Bill,Sunday,18,Feedera SE,Munich District Three,Student
+846,1,143,21,28,Funghi,Large,4,Chef 1,Thursday,12,TownExpress Inc. ,Munich District Two,Student
+1614,1,52,10,9,Calzone,Medium,1,Ingredients,Friday,19,Feedera SE,Munich District Four,Student
+524,1,223,10,5,Calzone,Large,1,Chef 1,Wednesday,13,Deliver Now Holding,Munich District One,Adult
+1793,1,108,21,23,Funghi,Small,1,Ingredients,Sunday,17,BestOrder Inc.,Munich District Three,Student
+1228,1,78,37,2,Funghi,Large,2,Ingredients,Friday,13,Deliveruu Inc.,Munich District One,Teenager
+233,1,39,11,29,Salami,Large,1,Chef 1,Saturday,14,Deliver Now Holding,Munich District Three,Student
+1660,1,275,17,29,Salami,Small,0,Delivery Scooters ,Monday,15,BestOrder Inc.,Munich District One,Student
+1149,1,31,8,5,Magherita,Medium,4,Waiter,Saturday,12,Deliver Now Holding,Munich District Five,Student
+917,1,296,6,60,Salami,Large,3,Waiter,Friday,20,Deliveruu Inc.,Munich District One,Student
+1007,1,265,11,9,Salami,Small,0,Waiter,Saturday,18,Feedera SE,Munich District One,Student
+77,1,149,35,16,Magherita,Small,1,Delivery Scooters ,Wednesday,12,Feedera SE,Munich District Five,Adult
+1775,1,161,54,2,Salami,Large,3,Chef 1,Thursday,19,Deliver Now Holding,Munich District One,Teenager
+110,1,94,5,51,Magherita,Small,1,Ingredients,Saturday,16,Deliveruu Inc.,Munich District One,Student
+1174,1,185,10,5,Speciale,Medium,3,Ingredients,Saturday,20,BestOrder Inc.,Munich District One,Student
+1578,1,185,10,10,Funghi,Medium,3,Phone Bill,Saturday,18,BestOrder Inc.,Munich District Four,Adult
+323,1,259,12,60,Speciale,Large,3,Waiter,Saturday,12,Deliver Now Holding,Munich District Four,Student
+1800,1,15,8,8,Magherita,Large,5,Delivery Guy 2,Thursday,18,Deliver Now Holding,Munich District One,Student
+758,1,287,11,7,Salami,Large,0,Ingredients,Wednesday,14,BestOrder Inc.,Munich District Two,Teenager
+888,1,112,10,16,Magherita,Small,5,Chef 1,Sunday,13,BestOrder Inc.,Munich District One,Student
+243,1,13,21,60,Funghi,Small,0,Chef 2,Saturday,18,BestOrder Inc.,Munich District Three,Adult
+1843,1,113,37,10,Salami,Large,3,Phone Bill,Wednesday,20,Feedera SE,Munich District Two,Student
+1639,1,45,24,11,Salami,Small,3,Chef 1,Sunday,18,Heropizza Lmtd.,Munich District Five,Student
+477,1,66,38,3,Magherita,Small,0,Phone Bill,Saturday,12,TownExpress Inc. ,Munich District Three,Student
+1177,1,296,38,28,Paprika,Medium,2,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Adult
+229,1,17,36,3,Speciale,Medium,1,Chef 1,Sunday,21,Feedera SE,Munich District Five,Student
+1881,1,35,32,5,Salami,Small,1,Phone Bill,Saturday,12,Feedera SE,Munich District Five,Student
+1184,1,263,8,11,Salami,Large,3,Chef 2,Sunday,14,Feedera SE,Munich District Two,Adult
+1882,1,45,37,2,Calzone,Medium,5,Chef 2,Thursday,21,BestOrder Inc.,Munich District Two,Student
+1509,1,300,25,10,Salami,Large,1,Ingredients,Sunday,18,Deliver Now Holding,Munich District One,Adult
+513,1,291,8,16,Calzone,Large,3,Phone Bill,Saturday,18,Feedera SE,Munich District Three,Student
+1420,1,285,36,13,Salami,Small,3,Chef 1,Friday,12,Deliver Now Holding,Munich District One,Teenager
+1426,1,60,36,32,Magherita,Large,3,Chef 1,Saturday,18,Deliver Now Holding,Munich District Two,Student
+1805,1,131,9,2,Calzone,Medium,2,Chef 2,Saturday,12,BestOrder Inc.,Munich District One,Student
+1586,1,99,18,10,Salami,Small,0,Delivery Guy 2,Friday,20,Deliver Now Holding,Munich District Three,Adult
+1251,1,56,16,12,Funghi,Medium,4,Chef 1,Friday,18,Feedera SE,Munich District One,Senior
+1325,1,200,9,2,Paprika,Small,0,Delivery Scooters ,Sunday,14,Deliveruu Inc.,Munich District Three,Student
+1043,1,104,11,28,Salami,Small,1,Waiter,Saturday,20,Deliveruu Inc.,Munich District One,Student
+719,1,63,8,2,Funghi,Large,2,Chef 2,Friday,12,TownExpress Inc. ,Munich District Two,Senior
+706,1,226,47,46,Paprika,Large,1,Delivery Scooters ,Sunday,19,BestOrder Inc.,Munich District Four,Senior
+1579,1,188,46,13,Salami,Small,3,Ingredients,Wednesday,12,BestOrder Inc.,Munich District One,Adult
+1219,1,193,43,56,Funghi,Large,5,Chef 2,Saturday,12,BestOrder Inc.,Munich District Four,Senior
+679,1,237,5,2,Calzone,Medium,3,Chef 2,Sunday,13,Deliver Now Holding,Munich District One,Student
+1884,1,123,9,7,Veggie,Large,3,Chef 2,Friday,14,Feedera SE,Munich District Three,Student
+1338,1,275,29,35,Salami,Large,5,Chef 1,Saturday,21,Feedera SE,Munich District Five,Teenager
+1993,1,85,9,10,Funghi,Medium,5,Delivery Scooters ,Sunday,21,Feedera SE,Munich District One,Student
+1472,1,278,6,11,Salami,Medium,5,Phone Bill,Sunday,13,BestOrder Inc.,Munich District Three,Teenager
+931,1,213,10,9,Salami,Large,1,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Student
+568,1,155,10,7,Salami,Small,4,Chef 1,Sunday,12,Deliver Now Holding,Munich District Two,Teenager
+681,1,15,10,30,Salami,Large,1,Phone Bill,Saturday,19,Deliver Now Holding,Munich District One,Adult
+144,1,253,11,43,Magherita,Small,3,Phone Bill,Saturday,11,Deliver Now Holding,Munich District One,Teenager
+1726,1,109,29,9,Speciale,Small,3,Chef 2,Friday,13,Heropizza Lmtd.,Munich District Three,Teenager
+135,1,216,36,2,Salami,Small,1,Waiter,Wednesday,17,Deliver Now Holding,Munich District Three,Student
+340,1,244,36,7,Magherita,Small,3,Delivery Guy 2,Sunday,14,Feedera SE,Munich District One,Teenager
+814,1,118,29,2,Veggie,Medium,2,Waiter,Wednesday,12,Deliveruu Inc.,Munich District One,Adult
+192,1,243,36,50,Magherita,Small,3,Delivery Scooters ,Friday,13,Deliveruu Inc.,Munich District Three,Teenager
+281,1,167,31,9,Magherita,Small,3,Phone Bill,Saturday,18,Deliver Now Holding,Munich District One,Teenager
+1353,1,233,29,5,Funghi,Large,3,Chef 2,Saturday,12,Deliver Now Holding,Munich District Five,Student
+1254,1,63,47,5,Calzone,Medium,3,Delivery Guy 2,Saturday,12,BestOrder Inc.,Munich District Two,Adult
+1317,1,107,60,11,Veggie,Large,3,Chef 2,Friday,17,Feedera SE,Munich District One,Student
+1755,1,239,15,5,Salami,Large,4,Waiter,Friday,18,Deliver Now Holding,Munich District Four,Teenager
+1175,1,120,49,56,Magherita,Large,4,Chef 1,Sunday,11,Deliver Now Holding,Munich District Five,Student
+2,1,78,11,7,Magherita,Large,4,Chef 1,Friday,12,BestOrder Inc.,Munich District One,Student
+1554,1,297,8,7,Salami,Small,3,Ingredients,Friday,14,Feedera SE,Munich District Three,Adult
+305,1,251,44,28,Magherita,Medium,5,Chef 2,Saturday,14,Feedera SE,Munich District One,Student
+1683,1,219,11,4,Salami,Small,1,Chef 1,Sunday,21,Feedera SE,Munich District One,Adult
+1664,1,35,8,32,Speciale,Small,1,Ingredients,Tuesday,18,Feedera SE,Munich District Three,Student
+1401,1,97,36,11,Speciale,Medium,1,Ingredients,Saturday,12,Feedera SE,Munich District One,Senior
+733,1,15,18,33,Calzone,Small,3,Chef 1,Sunday,19,Feedera SE,Munich District Two,Student
+1896,1,55,44,7,Salami,Small,3,Chef 1,Saturday,13,BestOrder Inc.,Munich District One,Student
+1371,1,282,36,7,Calzone,Small,2,Distribution channel fees,Sunday,16,Deliver Now Holding,Munich District Three,Student
+836,1,70,21,10,Salami,Large,1,Chef 2,Saturday,17,Deliveruu Inc.,Munich District Three,Student
+1705,1,44,18,2,Magherita,Small,3,Waiter,Sunday,18,Feedera SE,Munich District Two,Student
+975,1,51,9,29,Paprika,Small,5,Chef 2,Friday,18,Feedera SE,Munich District Five,Senior
+394,1,199,32,3,Paprika,Medium,5,Delivery Scooters ,Sunday,13,BestOrder Inc.,Munich District One,Senior
+1944,1,224,11,5,Magherita,Small,1,Chef 1,Thursday,13,Deliver Now Holding,Munich District One,Adult
+1079,1,2,6,3,Calzone,Small,3,Delivery Guy 2,Thursday,15,Deliver Now Holding,Munich District Three,Student
+1543,1,287,46,38,Funghi,Large,5,Ingredients,Sunday,20,Feedera SE,Munich District Five,Student
+1875,1,2,36,43,Paprika,Medium,4,Ingredients,Sunday,18,TownExpress Inc. ,Munich District One,Student
+1906,1,5,21,16,Speciale,Large,1,Phone Bill,Saturday,12,Feedera SE,Munich District Two,Teenager
+423,1,19,29,10,Calzone,Small,1,Chef 1,Saturday,13,Feedera SE,Munich District Five,Adult
+189,1,197,36,2,Salami,Large,3,Phone Bill,Saturday,21,BestOrder Inc.,Munich District One,Teenager
+857,1,164,37,2,Magherita,Large,0,Chef 2,Saturday,19,Deliver Now Holding,Munich District One,Student
+99,1,195,5,9,Magherita,Large,4,Chef 2,Friday,13,TownExpress Inc. ,Munich District Three,Adult
+1389,1,148,11,30,Veggie,Small,3,Ingredients,Friday,14,Feedera SE,Munich District One,Student
+1503,1,208,4,22,Speciale,Small,4,Delivery Scooters ,Friday,16,Deliveruu Inc.,Munich District One,Student
+829,1,214,9,3,Calzone,Small,1,Chef 2,Saturday,18,TownExpress Inc. ,Munich District One,Adult
+1962,1,261,36,46,Salami,Medium,1,Delivery Guy 2,Tuesday,18,Orderly SE,Munich District One,Adult
+1427,1,205,21,46,Funghi,Small,3,Ingredients,Sunday,19,BestOrder Inc.,Munich District Five,Student
+981,1,228,21,29,Calzone,Large,5,Chef 1,Saturday,12,BestOrder Inc.,Munich District One,Teenager
+644,1,251,20,2,Paprika,Large,1,Phone Bill,Sunday,13,BestOrder Inc.,Munich District Two,Teenager
+154,1,14,20,3,Funghi,Large,0,Chef 2,Saturday,13,Deliver Now Holding,Munich District One,Adult
+937,1,137,23,7,Calzone,Medium,3,Chef 1,Friday,16,Deliver Now Holding,Munich District One,Teenager
+73,1,287,36,11,Funghi,Small,2,Delivery Guy 2,Saturday,19,Feedera SE,Munich District Two,Teenager
+1122,1,108,6,43,Salami,Small,3,Chef 2,Saturday,12,Deliver Now Holding,Munich District One,Student
+1473,1,283,36,8,Funghi,Small,1,Phone Bill,Sunday,13,TownExpress Inc. ,Munich District One,Teenager
+1102,1,262,9,4,Speciale,Large,3,Chef 2,Saturday,18,Feedera SE,Munich District Five,Student
+1464,1,121,22,10,Funghi,Large,3,Waiter,Sunday,13,BestOrder Inc.,Munich District One,Teenager
+1678,1,126,55,13,Salami,Small,1,Chef 2,Sunday,19,Deliver Now Holding,Munich District Five,Adult
+1709,1,173,29,10,Paprika,Large,5,Chef 2,Saturday,15,BestOrder Inc.,Munich District Four,Student
+1244,1,283,36,10,Funghi,Large,5,Ingredients,Sunday,21,BestOrder Inc.,Munich District Four,Student
+578,1,300,47,10,Funghi,Large,3,Delivery Guy 2,Friday,14,Feedera SE,Munich District Two,Adult
+318,1,156,36,5,Calzone,Large,5,Chef 1,Friday,17,BestOrder Inc.,Munich District One,Student
+1292,1,134,17,7,Salami,Large,5,Delivery Scooters ,Saturday,12,Feedera SE,Munich District Three,Student
+1031,1,177,6,13,Funghi,Small,0,Delivery Guy 2,Sunday,18,Feedera SE,Munich District One,Student
+216,1,169,17,17,Speciale,Small,2,Ingredients,Sunday,18,Feedera SE,Munich District One,Student
+998,1,276,54,4,Funghi,Small,3,Delivery Guy 2,Saturday,12,Deliveruu Inc.,Munich District One,Student
+1591,1,233,36,3,Paprika,Medium,1,Waiter,Friday,13,Deliver Now Holding,Munich District One,Teenager
+87,1,144,10,2,Salami,Large,5,Ingredients,Saturday,18,Deliver Now Holding,Munich District Three,Student
+1967,1,183,9,8,Speciale,Small,4,Ingredients,Sunday,19,Deliver Now Holding,Munich District Three,Student
+527,1,223,36,51,Salami,Large,1,Phone Bill,Saturday,13,BestOrder Inc.,Munich District Five,Senior
+781,1,26,11,2,Funghi,Medium,1,Waiter,Sunday,17,Deliveruu Inc.,Munich District One,Student
+1968,1,255,29,2,Funghi,Large,5,Phone Bill,Saturday,11,Deliver Now Holding,Munich District Five,Student
+742,1,4,35,13,Salami,Small,5,Waiter,Sunday,12,BestOrder Inc.,Munich District Three,Student
+327,1,298,29,38,Paprika,Small,1,Chef 1,Saturday,12,Deliver Now Holding,Munich District One,Student
+1965,1,56,9,7,Magherita,Large,3,Chef 2,Saturday,18,BestOrder Inc.,Munich District Two,Teenager
+1367,1,110,36,47,Salami,Large,2,Chef 2,Saturday,12,Feedera SE,Munich District Four,Student
+1937,1,102,29,44,Magherita,Small,3,Chef 1,Saturday,14,Orderly SE,Munich District One,Teenager
+770,1,88,10,7,Funghi,Small,0,Chef 1,Friday,11,Deliver Now Holding,Munich District One,Adult
+1490,1,122,36,2,Salami,Medium,5,Phone Bill,Friday,18,Feedera SE,Munich District Three,Student
+1864,1,60,5,10,Magherita,Small,1,Delivery Scooters ,Friday,12,Deliver Now Holding,Munich District One,Teenager
+1215,1,72,13,7,Calzone,Small,3,Phone Bill,Sunday,20,Deliveruu Inc.,Munich District Four,Student
+46,1,271,16,5,Paprika,Large,3,Chef 2,Monday,18,Deliver Now Holding,Munich District One,Adult
+928,1,74,10,1,Magherita,Small,0,Phone Bill,Friday,18,Orderly SE,Munich District Two,Student
+1087,1,272,28,8,Speciale,Medium,1,Ingredients,Friday,13,Orderly SE,Munich District One,Teenager
+424,1,76,33,16,Paprika,Small,1,Chef 2,Thursday,17,BestOrder Inc.,Munich District One,Student
+1698,1,110,12,3,Veggie,Large,1,Delivery Guy 2,Wednesday,18,Feedera SE,Munich District One,Student
+368,1,71,8,13,Speciale,Medium,3,Delivery Scooters ,Saturday,12,Feedera SE,Munich District Two,Student
+1118,1,13,60,50,Salami,Small,1,Phone Bill,Sunday,12,TownExpress Inc. ,Munich District Three,Student
+61,1,168,21,1,Funghi,Small,0,Delivery Guy 1 ,Saturday,19,Feedera SE,Munich District One,Student
+622,1,98,11,56,Paprika,Medium,0,Chef 2,Sunday,12,Feedera SE,Munich District Five,Student
+275,1,272,8,9,Salami,Medium,1,Chef 1,Saturday,17,Orderly SE,Munich District One,Teenager
+347,1,72,60,3,Speciale,Small,0,Phone Bill,Sunday,19,Deliveruu Inc.,Munich District One,Student
+1321,1,34,10,47,Speciale,Large,1,Chef 2,Friday,16,Feedera SE,Munich District One,Student
+579,1,61,50,60,Magherita,Large,1,Chef 2,Saturday,18,BestOrder Inc.,Munich District Two,Adult
+1902,1,80,21,56,Speciale,Medium,0,Phone Bill,Friday,18,TownExpress Inc. ,Munich District Two,Student
+435,1,297,23,7,Magherita,Small,3,Chef 1,Friday,10,Feedera SE,Munich District One,Adult
+1196,1,175,37,7,Funghi,Large,4,Chef 2,Wednesday,19,BestOrder Inc.,Munich District Three,Student
+856,1,47,11,9,Speciale,Medium,5,Ingredients,Sunday,14,Deliver Now Holding,Munich District One,Adult
+456,1,262,34,9,Funghi,Large,1,Delivery Scooters ,Saturday,13,Feedera SE,Munich District One,Teenager
+1722,1,161,54,5,Speciale,Large,1,Delivery Guy 2,Wednesday,18,Feedera SE,Munich District One,Student
+387,1,86,5,2,Speciale,Small,0,Chef 2,Monday,19,Deliver Now Holding,Munich District One,Student
+210,1,142,8,50,Funghi,Medium,3,Delivery Guy 2,Sunday,18,Heropizza Lmtd.,Munich District Four,Adult
+474,1,87,28,44,Salami,Small,0,Distribution channel fees,Friday,15,Deliveruu Inc.,Munich District One,Student
+1484,1,261,9,7,Funghi,Small,3,Waiter,Saturday,12,Feedera SE,Munich District Four,Teenager
+241,1,92,11,10,Funghi,Small,3,Ingredients,Saturday,18,BestOrder Inc.,Munich District One,Teenager
+266,1,39,5,39,Paprika,Medium,5,Phone Bill,Sunday,11,Feedera SE,Munich District One,Teenager
+1829,1,105,44,20,Magherita,Large,1,Ingredients,Friday,18,BestOrder Inc.,Munich District Two,Student
+446,1,9,12,12,Funghi,Medium,2,Waiter,Thursday,19,Orderly SE,Munich District One,Student
+1084,1,169,5,7,Salami,Large,1,Chef 1,Sunday,16,BestOrder Inc.,Munich District Four,Student
+1986,1,55,29,5,Salami,Small,1,Chef 1,Saturday,17,TownExpress Inc. ,Munich District One,Student
+132,1,218,18,9,Speciale,Small,5,Waiter,Sunday,13,Feedera SE,Munich District Three,Student
+156,1,284,31,7,Salami,Large,1,Ingredients,Friday,20,Feedera SE,Munich District Four,Teenager
+1033,1,297,5,8,Funghi,Large,1,Chef 1,Sunday,19,Deliver Now Holding,Munich District One,Teenager
+1202,1,139,21,9,Funghi,Small,5,Delivery Scooters ,Sunday,17,Deliver Now Holding,Munich District Two,Student
+91,1,89,8,25,Salami,Small,5,Phone Bill,Saturday,19,Deliver Now Holding,Munich District Five,Teenager
+84,1,27,21,2,Funghi,Large,5,Chef 2,Tuesday,21,Deliver Now Holding,Munich District Five,Student
+1751,1,264,9,8,Speciale,Large,3,Chef 2,Thursday,12,Feedera SE,Munich District One,Teenager
+16,1,218,20,10,Salami,Medium,3,Chef 1,Saturday,14,BestOrder Inc.,Munich District One,Student
+1580,1,281,8,7,Calzone,Medium,3,Chef 1,Tuesday,12,BestOrder Inc.,Munich District One,Teenager
+1601,1,12,21,5,Salami,Small,0,Delivery Guy 1 ,Sunday,19,Feedera SE,Munich District Three,Adult
+862,1,108,11,2,Salami,Medium,5,Delivery Scooters ,Sunday,21,BestOrder Inc.,Munich District One,Teenager
+380,1,56,28,11,Magherita,Small,0,Delivery Scooters ,Sunday,14,Deliveruu Inc.,Munich District Four,Student
+1313,1,297,36,28,Calzone,Small,1,Waiter,Sunday,13,Feedera SE,Munich District Three,Student
+583,1,255,10,7,Paprika,Small,4,Ingredients,Friday,12,Heropizza Lmtd.,Munich District Two,Student
+1208,1,282,9,29,Speciale,Large,4,Waiter,Sunday,19,BestOrder Inc.,Munich District Four,Student
+448,1,253,6,9,Veggie,Small,0,Phone Bill,Thursday,11,Deliver Now Holding,Munich District Four,Student
+1435,1,291,9,11,Veggie,Medium,3,Phone Bill,Tuesday,19,BestOrder Inc.,Munich District One,Student
+230,1,295,47,8,Salami,Small,4,Phone Bill,Saturday,14,Deliver Now Holding,Munich District One,Student
+501,1,206,21,3,Salami,Small,3,Chef 2,Wednesday,18,BestOrder Inc.,Munich District One,Student
+1439,1,240,29,1,Funghi,Medium,3,Delivery Scooters ,Thursday,19,TownExpress Inc. ,Munich District Three,Student
+1257,1,224,6,8,Funghi,Medium,3,Delivery Guy 2,Sunday,19,Deliver Now Holding,Munich District One,Teenager
+607,1,298,6,7,Salami,Small,5,Phone Bill,Saturday,14,BestOrder Inc.,Munich District One,Student
+1365,1,2,23,16,Magherita,Large,3,Waiter,Sunday,19,Orderly SE,Munich District One,Student
+1854,1,225,11,51,Funghi,Large,3,Delivery Scooters ,Saturday,13,BestOrder Inc.,Munich District One,Teenager
+352,1,25,36,5,Speciale,Large,3,Waiter,Friday,18,Feedera SE,Munich District One,Student
+575,1,54,29,17,Paprika,Large,1,Chef 2,Saturday,19,Deliver Now Holding,Munich District Four,Student
+593,1,273,36,33,Salami,Small,0,Ingredients,Sunday,18,Feedera SE,Munich District One,Adult
+1960,1,216,12,49,Salami,Large,5,Chef 2,Friday,19,Deliver Now Holding,Munich District One,Teenager
+1890,1,282,36,28,Magherita,Large,5,Chef 2,Friday,12,BestOrder Inc.,Munich District One,Student
+251,1,131,23,37,Funghi,Large,0,Waiter,Sunday,14,Feedera SE,Munich District One,Teenager
+1885,1,211,24,2,Salami,Small,3,Delivery Guy 1 ,Sunday,13,BestOrder Inc.,Munich District Five,Adult
+576,1,79,29,5,Salami,Large,3,Ingredients,Friday,19,Feedera SE,Munich District Four,Adult
+962,1,176,10,2,Magherita,Small,1,Ingredients,Friday,13,Feedera SE,Munich District Two,Student
+244,1,207,31,11,Speciale,Medium,5,Chef 1,Saturday,19,Orderly SE,Munich District One,Student
+122,1,176,17,47,Magherita,Large,3,Phone Bill,Saturday,11,Deliver Now Holding,Munich District One,Adult
+1198,1,40,32,29,Calzone,Small,3,Chef 2,Sunday,14,Feedera SE,Munich District One,Teenager
+497,1,49,39,9,Salami,Small,4,Waiter,Saturday,10,Feedera SE,Munich District One,Student
+476,1,291,36,16,Funghi,Small,3,Delivery Guy 1 ,Sunday,20,Deliveruu Inc.,Munich District Three,Student
+234,1,72,11,49,Speciale,Large,3,Chef 2,Tuesday,20,BestOrder Inc.,Munich District One,Student
+940,1,130,6,7,Paprika,Large,3,Ingredients,Friday,11,Deliver Now Holding,Munich District Two,Student
+900,1,157,21,12,Salami,Small,1,Delivery Guy 1 ,Sunday,18,Feedera SE,Munich District Four,Teenager
+151,1,267,5,46,Funghi,Small,0,Ingredients,Sunday,19,TownExpress Inc. ,Munich District One,Adult
+1172,1,53,24,2,Magherita,Small,3,Chef 2,Friday,13,BestOrder Inc.,Munich District Four,Adult
+278,1,147,11,25,Magherita,Medium,0,Chef 2,Wednesday,20,BestOrder Inc.,Munich District One,Senior
+1582,1,50,10,47,Salami,Small,1,Delivery Scooters ,Friday,11,Deliver Now Holding,Munich District One,Student
+1654,1,12,44,9,Magherita,Large,4,Waiter,Friday,14,BestOrder Inc.,Munich District Two,Student
+782,1,49,29,47,Salami,Small,5,Delivery Guy 2,Friday,13,Orderly SE,Munich District Three,Student
+1638,1,264,38,3,Salami,Medium,1,Ingredients,Friday,21,Feedera SE,Munich District Three,Teenager
+1571,1,200,10,8,Salami,Large,2,Ingredients,Saturday,18,TownExpress Inc. ,Munich District Four,Adult
+1008,1,148,44,37,Magherita,Small,1,Chef 2,Thursday,11,BestOrder Inc.,Munich District One,Student
+1677,1,139,60,2,Calzone,Large,0,Phone Bill,Friday,19,BestOrder Inc.,Munich District One,Senior
+1140,1,198,55,44,Speciale,Medium,3,Chef 2,Saturday,12,BestOrder Inc.,Munich District One,Student
+1262,1,222,29,2,Funghi,Small,5,Phone Bill,Monday,12,Deliver Now Holding,Munich District Five,Student
+1570,1,185,20,25,Funghi,Large,5,Delivery Scooters ,Saturday,17,Deliver Now Holding,Munich District One,Student
+1524,1,62,21,4,Funghi,Small,4,Phone Bill,Friday,11,TownExpress Inc. ,Munich District Two,Teenager
+1173,1,48,46,9,Veggie,Small,5,Waiter,Friday,15,BestOrder Inc.,Munich District One,Teenager
+1559,1,300,16,2,Speciale,Medium,3,Waiter,Saturday,14,BestOrder Inc.,Munich District One,Student
+1803,1,258,16,35,Funghi,Large,5,Delivery Guy 2,Saturday,18,BestOrder Inc.,Munich District One,Student
+31,1,109,9,10,Magherita,Medium,3,Delivery Scooters ,Monday,19,Deliveruu Inc.,Munich District One,Adult
+1050,1,184,29,22,Salami,Small,1,Chef 2,Sunday,12,Feedera SE,Munich District One,Student
+1994,1,4,11,8,Magherita,Large,1,Chef 1,Sunday,14,Deliveruu Inc.,Munich District One,Student
+1640,1,156,47,9,Funghi,Large,1,Waiter,Friday,11,BestOrder Inc.,Munich District Three,Student
+585,1,282,12,37,Salami,Medium,1,Delivery Guy 2,Thursday,21,Deliver Now Holding,Munich District Two,Teenager
+912,1,57,51,16,Funghi,Small,1,Chef 2,Saturday,14,Feedera SE,Munich District One,Student
+1641,1,68,37,17,Salami,Small,5,Delivery Scooters ,Friday,12,Deliver Now Holding,Munich District One,Student
+96,1,293,8,15,Calzone,Small,1,Delivery Guy 2,Sunday,17,BestOrder Inc.,Munich District One,Adult
+638,1,291,21,7,Salami,Large,3,Delivery Scooters ,Thursday,11,BestOrder Inc.,Munich District Two,Student
+1767,1,170,5,1,Calzone,Small,3,Delivery Guy 1 ,Friday,13,TownExpress Inc. ,Munich District One,Teenager
+1849,1,187,9,2,Funghi,Large,4,Chef 1,Saturday,11,BestOrder Inc.,Munich District Two,Student
+1923,1,214,8,10,Funghi,Large,3,Chef 2,Friday,18,Deliver Now Holding,Munich District One,Adult
+664,1,286,8,35,Funghi,Small,1,Delivery Guy 2,Saturday,18,Deliver Now Holding,Munich District Five,Student
+636,1,130,13,25,Calzone,Small,1,Ingredients,Sunday,12,Deliver Now Holding,Munich District Three,Teenager
+1382,1,177,38,13,Funghi,Small,3,Delivery Guy 1 ,Sunday,19,TownExpress Inc. ,Munich District Three,Student
+500,1,275,29,10,Salami,Large,3,Ingredients,Saturday,10,Deliver Now Holding,Munich District One,Student
+191,1,272,9,2,Magherita,Small,5,Ingredients,Sunday,18,Feedera SE,Munich District Three,Teenager
+1595,1,258,54,8,Funghi,Medium,0,Chef 1,Wednesday,18,BestOrder Inc.,Munich District Two,Teenager
+554,1,190,10,8,Calzone,Small,1,Phone Bill,Saturday,12,BestOrder Inc.,Munich District One,Adult
+1534,1,206,24,5,Magherita,Large,3,Delivery Scooters ,Tuesday,12,BestOrder Inc.,Munich District Five,Student
+508,1,223,33,50,Salami,Large,4,Phone Bill,Sunday,11,Deliveruu Inc.,Munich District One,Student
+1581,1,217,35,10,Funghi,Medium,4,Ingredients,Sunday,21,Heropizza Lmtd.,Munich District One,Student
+1451,1,220,30,16,Funghi,Large,3,Chef 2,Sunday,20,Deliver Now Holding,Munich District One,Student
+573,1,40,21,7,Calzone,Small,5,Ingredients,Friday,15,Feedera SE,Munich District One,Student
+1032,1,235,43,10,Funghi,Large,5,Chef 2,Sunday,20,Feedera SE,Munich District Three,Student
+1333,1,255,21,16,Salami,Small,3,Chef 2,Saturday,21,BestOrder Inc.,Munich District One,Adult
+1565,1,78,8,9,Salami,Large,3,Ingredients,Saturday,19,Feedera SE,Munich District Three,Student
+1423,1,210,21,1,Paprika,Large,1,Waiter,Sunday,15,Deliver Now Holding,Munich District One,Teenager
+56,1,167,43,8,Salami,Large,4,Delivery Guy 2,Sunday,21,Deliver Now Holding,Munich District One,Adult
+548,1,158,22,2,Funghi,Small,3,Ingredients,Sunday,12,Feedera SE,Munich District Four,Adult
+658,1,189,31,13,Magherita,Small,1,Ingredients,Saturday,12,Deliver Now Holding,Munich District One,Teenager
+70,1,295,21,56,Speciale,Medium,1,Phone Bill,Tuesday,18,Deliver Now Holding,Munich District One,Student
+475,1,225,36,11,Veggie,Large,4,Waiter,Monday,17,Feedera SE,Munich District Four,Student
+142,1,231,13,7,Calzone,Small,2,Waiter,Friday,21,Orderly SE,Munich District One,Student
+1850,1,253,6,25,Funghi,Medium,1,Chef 2,Saturday,20,BestOrder Inc.,Munich District One,Senior
+1596,1,222,36,10,Funghi,Small,5,Delivery Scooters ,Wednesday,12,BestOrder Inc.,Munich District One,Senior
+1297,1,204,25,20,Salami,Small,1,Chef 1,Sunday,15,Deliveruu Inc.,Munich District Two,Student
+671,1,131,21,60,Calzone,Small,4,Chef 2,Sunday,14,Deliveruu Inc.,Munich District One,Teenager
+167,1,79,36,46,Salami,Small,3,Ingredients,Friday,19,Deliver Now Holding,Munich District One,Student
+1935,1,260,29,13,Magherita,Small,1,Chef 1,Friday,13,Deliver Now Holding,Munich District Five,Teenager
+1525,1,18,9,29,Funghi,Small,3,Chef 1,Wednesday,18,Feedera SE,Munich District One,Student
+1424,1,103,5,17,Magherita,Large,3,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Student
+663,1,94,11,16,Funghi,Medium,4,Delivery Scooters ,Friday,12,Deliveruu Inc.,Munich District Three,Student
+1694,1,208,44,2,Funghi,Large,3,Chef 1,Saturday,18,Feedera SE,Munich District Three,Adult
+1047,1,222,21,2,Veggie,Medium,3,Delivery Scooters ,Monday,14,Feedera SE,Munich District Two,Student
+1598,1,129,11,3,Speciale,Medium,1,Waiter,Friday,11,TownExpress Inc. ,Munich District Four,Adult
+1345,1,169,9,22,Funghi,Large,1,Delivery Guy 2,Wednesday,12,Deliver Now Holding,Munich District One,Student
+1982,1,248,36,32,Magherita,Large,3,Chef 2,Friday,19,Feedera SE,Munich District One,Student
+999,2,29,28,16,Salami,Small,4,Ingredients,Tuesday,18,BestOrder Inc.,Munich District One,Adult
+351,2,59,11,11,Salami,Small,5,Delivery Scooters ,Saturday,19,Deliver Now Holding,Munich District Two,Student
+890,2,204,9,1,Speciale,Small,3,Ingredients,Monday,12,Deliver Now Holding,Munich District One,Adult
+820,2,206,21,8,Veggie,Small,4,Delivery Guy 1 ,Saturday,13,BestOrder Inc.,Munich District One,Student
+1532,2,151,39,47,Calzone,Small,4,Ingredients,Thursday,14,Heropizza Lmtd.,Munich District Four,Student
+1014,2,56,29,13,Funghi,Small,4,Ingredients,Sunday,12,BestOrder Inc.,Munich District One,Teenager
+684,2,24,30,2,Speciale,Small,3,Waiter,Friday,12,Feedera SE,Munich District Four,Student
+653,2,129,36,8,Salami,Large,5,Chef 1,Friday,19,Deliver Now Holding,Munich District Five,Teenager
+649,2,152,21,16,Funghi,Small,3,Distribution channel fees,Friday,13,Deliver Now Holding,Munich District One,Adult
+1128,2,71,32,7,Calzone,Large,3,Waiter,Friday,18,Deliveruu Inc.,Munich District One,Student
+1732,2,79,31,13,Salami,Small,4,Delivery Scooters ,Thursday,18,BestOrder Inc.,Munich District One,Student
+1873,2,221,11,46,Magherita,Small,3,Chef 2,Sunday,13,Feedera SE,Munich District Two,Student
+271,2,274,10,7,Magherita,Medium,4,Waiter,Friday,12,BestOrder Inc.,Munich District Four,Student
+646,2,276,36,10,Salami,Small,4,Ingredients,Sunday,12,Deliveruu Inc.,Munich District Three,Teenager
+1455,2,150,11,29,Funghi,Medium,3,Waiter,Tuesday,19,Deliveruu Inc.,Munich District Five,Student
+601,2,250,21,13,Salami,Large,3,Chef 2,Saturday,12,Feedera SE,Munich District One,Teenager
+718,2,61,36,11,Calzone,Small,4,Chef 2,Sunday,11,BestOrder Inc.,Munich District One,Student
+1778,2,124,11,10,Funghi,Small,5,Delivery Scooters ,Saturday,15,Deliver Now Holding,Munich District One,Student
+1048,2,84,21,16,Magherita,Large,2,Chef 1,Sunday,12,Feedera SE,Munich District Three,Adult
+1289,2,259,5,15,Funghi,Small,4,Delivery Guy 2,Sunday,12,Feedera SE,Munich District One,Teenager
+1574,2,274,5,2,Salami,Small,3,Delivery Guy 1 ,Saturday,11,Feedera SE,Munich District Three,Teenager
+187,2,72,11,31,Salami,Small,5,Delivery Guy 2,Sunday,16,Deliver Now Holding,Munich District One,Adult
+1434,2,163,35,9,Funghi,Large,4,Waiter,Friday,21,BestOrder Inc.,Munich District One,Teenager
+1633,2,74,10,4,Calzone,Small,4,Waiter,Sunday,12,BestOrder Inc.,Munich District Two,Teenager
+1246,2,81,10,12,Salami,Small,4,Delivery Scooters ,Friday,18,Heropizza Lmtd.,Munich District One,Adult
+443,2,216,9,2,Magherita,Small,3,Ingredients,Friday,14,BestOrder Inc.,Munich District Four,Senior
+488,2,162,36,7,Funghi,Medium,4,Waiter,Saturday,15,Deliver Now Holding,Munich District One,Student
+1054,2,24,38,38,Magherita,Large,3,Chef 2,Friday,13,Deliver Now Holding,Munich District Four,Student
+1152,2,106,10,17,Salami,Small,4,Phone Bill,Wednesday,18,Deliver Now Holding,Munich District One,Student
+292,2,83,36,13,Calzone,Small,5,Ingredients,Saturday,12,Feedera SE,Munich District One,Student
+495,2,154,10,3,Speciale,Small,5,Waiter,Sunday,11,Deliveruu Inc.,Munich District One,Student
+938,2,126,4,3,Salami,Medium,3,Chef 2,Thursday,18,Deliver Now Holding,Munich District Five,Student
+749,2,229,24,44,Funghi,Small,3,Chef 2,Sunday,19,Feedera SE,Munich District One,Student
+1488,2,108,21,5,Salami,Small,4,Ingredients,Sunday,14,Feedera SE,Munich District Four,Teenager
+546,2,247,6,5,Veggie,Large,4,Chef 1,Sunday,13,Deliver Now Holding,Munich District One,Student
+445,2,178,55,16,Calzone,Medium,3,Waiter,Sunday,11,Deliver Now Holding,Munich District One,Student
+1051,2,50,29,2,Salami,Large,4,Delivery Scooters ,Monday,19,Deliveruu Inc.,Munich District One,Student
+564,2,229,47,5,Speciale,Small,4,Ingredients,Sunday,18,BestOrder Inc.,Munich District One,Teenager
+705,2,215,8,43,Salami,Small,4,Ingredients,Sunday,18,Feedera SE,Munich District Three,Student
+148,2,55,6,13,Salami,Small,5,Waiter,Friday,19,Orderly SE,Munich District One,Adult
+1749,2,101,21,2,Salami,Medium,4,Ingredients,Saturday,13,Deliveruu Inc.,Munich District One,Student
+689,2,143,10,2,Salami,Small,3,Chef 2,Friday,18,BestOrder Inc.,Munich District Four,Student
+1010,2,285,11,11,Salami,Small,4,Delivery Scooters ,Sunday,21,BestOrder Inc.,Munich District One,Teenager
+1617,2,51,36,11,Calzone,Medium,3,Delivery Scooters ,Sunday,12,Feedera SE,Munich District Three,Student
+1879,2,275,6,39,Salami,Large,4,Ingredients,Sunday,13,BestOrder Inc.,Munich District One,Adult
+392,2,251,21,5,Salami,Small,3,Ingredients,Saturday,18,TownExpress Inc. ,Munich District Five,Student
+1997,2,276,9,11,Magherita,Small,5,Ingredients,Sunday,12,Feedera SE,Munich District One,Adult
+261,2,262,36,7,Calzone,Medium,3,Chef 2,Friday,13,Feedera SE,Munich District One,Student
+263,2,293,9,51,Magherita,Small,3,Chef 2,Wednesday,10,BestOrder Inc.,Munich District Three,Student
+371,2,43,36,5,Funghi,Small,3,Chef 1,Saturday,17,BestOrder Inc.,Munich District One,Student
+1279,2,281,36,35,Paprika,Small,3,Delivery Guy 2,Sunday,12,BestOrder Inc.,Munich District Two,Student
+916,2,188,9,7,Salami,Small,3,Chef 1,Sunday,12,Deliveruu Inc.,Munich District Four,Student
+1130,2,127,29,28,Magherita,Small,3,Chef 2,Friday,21,Deliver Now Holding,Munich District Three,Student
+1071,2,22,10,2,Speciale,Large,4,Delivery Guy 2,Sunday,18,Feedera SE,Munich District Two,Student
+1821,2,215,9,9,Salami,Large,3,Delivery Guy 2,Saturday,12,Deliver Now Holding,Munich District One,Adult
+1780,2,15,11,23,Speciale,Medium,5,Chef 1,Friday,19,TownExpress Inc. ,Munich District One,Student
+2000,2,127,10,11,Salami,Small,3,Waiter,Saturday,18,Heropizza Lmtd.,Munich District Four,Teenager
+516,2,261,36,13,Speciale,Medium,4,Phone Bill,Sunday,15,Deliver Now Holding,Munich District One,Student
+1421,2,119,21,16,Salami,Large,4,Delivery Guy 1 ,Sunday,18,Deliver Now Holding,Munich District Five,Senior
+566,2,173,10,3,Funghi,Small,3,Chef 2,Friday,12,Deliver Now Holding,Munich District Two,Adult
+897,2,169,32,9,Magherita,Small,2,Delivery Scooters ,Saturday,19,BestOrder Inc.,Munich District Three,Student
+487,2,232,10,10,Salami,Large,3,Delivery Scooters ,Sunday,13,Feedera SE,Munich District One,Teenager
+1512,2,115,11,11,Veggie,Small,4,Ingredients,Sunday,12,BestOrder Inc.,Munich District Three,Teenager
+8,2,280,50,9,Funghi,Large,4,Chef 1,Saturday,13,Deliveruu Inc.,Munich District Four,Student
+700,2,284,44,13,Calzone,Medium,3,Delivery Guy 2,Sunday,13,BestOrder Inc.,Munich District Four,Teenager
+1816,2,134,36,22,Funghi,Small,4,Delivery Scooters ,Sunday,14,Deliver Now Holding,Munich District One,Student
+528,2,151,36,29,Calzone,Large,4,Delivery Guy 2,Sunday,21,Feedera SE,Munich District One,Teenager
+1081,2,166,12,9,Funghi,Small,4,Distribution channel fees,Tuesday,13,Feedera SE,Munich District One,Adult
+447,2,232,5,43,Salami,Large,4,Distribution channel fees,Thursday,12,Deliveruu Inc.,Munich District Five,Student
+12,2,148,5,11,Funghi,Small,3,Chef 1,Sunday,14,BestOrder Inc.,Munich District Three,Teenager
+793,2,188,5,7,Salami,Small,3,Delivery Scooters ,Friday,14,BestOrder Inc.,Munich District Three,Student
+329,2,182,36,7,Calzone,Small,4,Chef 1,Wednesday,13,Deliver Now Holding,Munich District Two,Student
+1485,2,189,32,2,Magherita,Large,3,Waiter,Wednesday,11,BestOrder Inc.,Munich District One,Student
+161,2,275,28,10,Salami,Medium,2,Delivery Guy 2,Saturday,12,Feedera SE,Munich District One,Teenager
+1844,2,121,8,10,Magherita,Small,4,Chef 2,Saturday,18,TownExpress Inc. ,Munich District One,Student
+1098,2,34,11,7,Veggie,Large,4,Waiter,Sunday,15,Deliveruu Inc.,Munich District Three,Student
+1689,2,294,44,5,Veggie,Medium,5,Chef 2,Wednesday,12,Deliver Now Holding,Munich District One,Adult
+369,2,129,4,25,Magherita,Large,2,Waiter,Friday,12,Feedera SE,Munich District Three,Teenager
+208,2,137,29,11,Magherita,Small,3,Chef 1,Saturday,18,Feedera SE,Munich District Four,Teenager
+1611,2,74,39,8,Salami,Small,3,Chef 2,Thursday,18,Feedera SE,Munich District Five,Student
+599,2,46,29,31,Paprika,Medium,5,Waiter,Tuesday,12,Deliver Now Holding,Munich District Two,Adult
+891,2,33,9,2,Magherita,Small,5,Delivery Scooters ,Sunday,19,BestOrder Inc.,Munich District Two,Teenager
+1853,2,214,21,8,Salami,Small,4,Waiter,Monday,11,Deliver Now Holding,Munich District One,Senior
+602,2,20,8,56,Calzone,Small,3,Chef 2,Wednesday,12,Orderly SE,Munich District One,Student
+841,2,126,11,10,Magherita,Medium,2,Delivery Scooters ,Saturday,21,Deliver Now Holding,Munich District One,Student
+1891,2,248,6,10,Calzone,Large,5,Delivery Scooters ,Friday,13,Feedera SE,Munich District Five,Student
+864,2,30,20,23,Funghi,Small,4,Phone Bill,Sunday,19,BestOrder Inc.,Munich District Three,Student
+1750,2,184,21,10,Funghi,Large,4,Waiter,Friday,18,TownExpress Inc. ,Munich District Two,Student
+943,2,93,11,29,Speciale,Small,3,Delivery Scooters ,Saturday,13,Deliveruu Inc.,Munich District One,Teenager
+6,2,101,10,5,Magherita,Large,3,Chef 1,Friday,11,BestOrder Inc.,Munich District Two,Adult
+722,2,35,10,3,Speciale,Medium,4,Delivery Scooters ,Saturday,18,Feedera SE,Munich District One,Teenager
+1970,2,259,10,29,Magherita,Small,2,Phone Bill,Sunday,21,Deliver Now Holding,Munich District Five,Teenager
+1064,2,148,29,7,Magherita,Small,4,Waiter,Sunday,11,Deliver Now Holding,Munich District Two,Teenager
+225,2,125,9,7,Speciale,Large,3,Chef 1,Sunday,12,BestOrder Inc.,Munich District Three,Senior
+787,2,287,19,11,Veggie,Large,4,Delivery Scooters ,Friday,17,BestOrder Inc.,Munich District Three,Teenager
+572,2,50,5,7,Calzone,Large,4,Delivery Guy 2,Wednesday,13,BestOrder Inc.,Munich District Five,Student
+95,2,176,29,2,Salami,Medium,4,Chef 1,Monday,13,BestOrder Inc.,Munich District Four,Senior
+1295,2,276,36,2,Salami,Small,4,Delivery Scooters ,Monday,14,Deliver Now Holding,Munich District One,Student
+1783,2,150,21,7,Magherita,Large,2,Chef 2,Sunday,17,Feedera SE,Munich District Three,Teenager
+871,2,40,5,10,Funghi,Small,3,Waiter,Tuesday,20,Orderly SE,Munich District Two,Teenager
+1225,2,277,8,46,Salami,Large,3,Ingredients,Friday,12,TownExpress Inc. ,Munich District One,Teenager
+1327,2,239,53,10,Salami,Large,3,Chef 2,Sunday,10,BestOrder Inc.,Munich District Two,Student
+1299,2,148,8,11,Speciale,Medium,4,Delivery Scooters ,Friday,20,BestOrder Inc.,Munich District One,Student
+1063,2,198,21,2,Salami,Small,5,Waiter,Saturday,10,Feedera SE,Munich District Two,Student
+212,2,61,60,11,Funghi,Large,5,Chef 2,Friday,20,Deliveruu Inc.,Munich District Two,Student
+1245,2,285,43,38,Salami,Large,4,Chef 1,Saturday,14,Deliver Now Holding,Munich District One,Teenager
+1588,2,132,37,16,Salami,Medium,3,Delivery Guy 2,Wednesday,14,Feedera SE,Munich District Two,Student
+36,2,183,10,8,Funghi,Medium,3,Delivery Guy 1 ,Saturday,13,Deliver Now Holding,Munich District Four,Student
+1328,2,136,56,11,Funghi,Small,3,Delivery Guy 1 ,Wednesday,12,Deliveruu Inc.,Munich District One,Adult
+201,2,253,10,3,Salami,Small,2,Delivery Guy 2,Saturday,20,Feedera SE,Munich District Four,Teenager
+1260,2,275,24,9,Salami,Small,5,Chef 1,Friday,17,Orderly SE,Munich District Five,Senior
+1249,2,138,10,8,Speciale,Medium,3,Waiter,Saturday,20,Feedera SE,Munich District Two,Teenager
+126,2,293,11,10,Funghi,Small,3,Waiter,Friday,13,BestOrder Inc.,Munich District One,Student
+1347,2,272,43,9,Funghi,Large,3,Chef 2,Sunday,12,Deliver Now Holding,Munich District One,Student
+322,2,191,5,32,Paprika,Small,5,Chef 1,Wednesday,20,BestOrder Inc.,Munich District Five,Teenager
+1886,2,177,5,4,Salami,Small,4,Ingredients,Friday,19,BestOrder Inc.,Munich District One,Teenager
+1044,2,90,8,4,Salami,Small,4,Waiter,Saturday,18,Deliver Now Holding,Munich District Two,Student
+1100,2,259,50,9,Veggie,Small,4,Chef 1,Saturday,11,Feedera SE,Munich District Three,Teenager
+38,2,240,34,10,Calzone,Small,5,Chef 2,Monday,11,BestOrder Inc.,Munich District Four,Teenager
+558,2,223,11,43,Funghi,Medium,4,Ingredients,Saturday,18,Deliveruu Inc.,Munich District Two,Teenager
+883,2,164,6,49,Salami,Large,3,Delivery Scooters ,Sunday,13,Deliveruu Inc.,Munich District Five,Student
+1156,2,187,31,35,Paprika,Large,3,Delivery Scooters ,Saturday,11,Deliveruu Inc.,Munich District Three,Senior
+1171,2,269,12,10,Funghi,Medium,4,Ingredients,Friday,18,BestOrder Inc.,Munich District One,Student
+1061,2,142,21,7,Calzone,Small,4,Ingredients,Saturday,19,Deliver Now Holding,Munich District One,Student
+1126,2,285,15,5,Calzone,Small,4,Phone Bill,Sunday,19,Feedera SE,Munich District One,Student
+1827,2,46,36,10,Magherita,Small,5,Delivery Guy 2,Sunday,18,BestOrder Inc.,Munich District Four,Student
+1727,2,212,10,7,Salami,Large,3,Delivery Scooters ,Friday,19,Orderly SE,Munich District Two,Teenager
+1964,2,162,10,50,Veggie,Large,5,Waiter,Friday,13,BestOrder Inc.,Munich District One,Student
+1116,2,236,9,9,Funghi,Small,4,Chef 1,Wednesday,12,Deliveruu Inc.,Munich District One,Adult
+114,2,94,60,28,Paprika,Small,2,Chef 1,Sunday,12,Feedera SE,Munich District Five,Teenager
+383,2,172,11,2,Speciale,Small,3,Ingredients,Saturday,11,BestOrder Inc.,Munich District One,Student
+1763,2,97,47,3,Salami,Medium,4,Delivery Scooters ,Thursday,15,Feedera SE,Munich District Three,Teenager
+581,2,190,9,8,Funghi,Large,3,Delivery Guy 1 ,Sunday,18,BestOrder Inc.,Munich District One,Student
+1704,2,240,56,2,Salami,Small,4,Chef 2,Sunday,14,Deliveruu Inc.,Munich District Four,Adult
+1770,2,239,8,11,Funghi,Small,4,Chef 1,Friday,18,Deliveruu Inc.,Munich District Five,Student
+1392,2,178,9,43,Salami,Small,4,Delivery Scooters ,Saturday,17,Orderly SE,Munich District Three,Adult
+1460,2,286,10,13,Salami,Medium,4,Ingredients,Sunday,11,Deliver Now Holding,Munich District One,Teenager
+1045,2,6,15,29,Speciale,Medium,4,Chef 2,Sunday,20,Deliveruu Inc.,Munich District Four,Student
+1646,2,172,21,9,Salami,Large,3,Waiter,Thursday,12,BestOrder Inc.,Munich District Four,Adult
+543,2,43,11,50,Funghi,Large,4,Delivery Guy 1 ,Saturday,14,Deliver Now Holding,Munich District One,Student
+1121,2,98,21,2,Magherita,Medium,4,Chef 1,Sunday,19,BestOrder Inc.,Munich District One,Student
+375,2,48,9,5,Funghi,Small,2,Chef 1,Sunday,19,Deliver Now Holding,Munich District Two,Student
+1461,2,103,55,3,Magherita,Medium,2,Chef 1,Saturday,20,Feedera SE,Munich District Two,Teenager
+896,2,92,5,22,Funghi,Medium,2,Chef 2,Friday,13,BestOrder Inc.,Munich District One,Student
+967,2,273,60,7,Veggie,Small,4,Delivery Guy 2,Sunday,12,BestOrder Inc.,Munich District One,Student
+1181,2,67,33,35,Magherita,Large,3,Delivery Guy 1 ,Monday,18,TownExpress Inc. ,Munich District One,Student
+925,2,263,29,9,Calzone,Medium,3,Waiter,Sunday,21,Deliver Now Holding,Munich District Two,Teenager
+296,2,171,38,7,Salami,Large,3,Chef 2,Sunday,12,BestOrder Inc.,Munich District Two,Teenager
+965,2,245,21,11,Veggie,Medium,3,Waiter,Tuesday,13,Deliver Now Holding,Munich District One,Senior
+547,2,294,6,7,Speciale,Medium,4,Phone Bill,Thursday,14,Orderly SE,Munich District Three,Adult
+378,2,57,36,11,Magherita,Medium,4,Chef 2,Sunday,12,Deliveruu Inc.,Munich District Four,Student
+1407,2,129,38,10,Veggie,Large,3,Delivery Scooters ,Saturday,12,Deliver Now Holding,Munich District Two,Teenager
+518,2,134,10,7,Salami,Medium,4,Waiter,Friday,12,Deliver Now Holding,Munich District Three,Student
+235,2,35,9,8,Funghi,Small,4,Delivery Scooters ,Sunday,12,Feedera SE,Munich District Five,Student
+1980,2,299,4,2,Salami,Small,3,Chef 1,Sunday,18,Feedera SE,Munich District One,Teenager
+1312,2,133,36,10,Calzone,Large,4,Delivery Scooters ,Friday,11,Deliveruu Inc.,Munich District Four,Adult
+1362,2,224,21,3,Magherita,Large,4,Phone Bill,Friday,12,Feedera SE,Munich District Three,Teenager
+213,2,90,29,44,Veggie,Large,4,Waiter,Sunday,20,Deliveruu Inc.,Munich District One,Teenager
+850,2,189,36,9,Salami,Small,4,Delivery Scooters ,Tuesday,19,Deliver Now Holding,Munich District Two,Adult
+656,2,198,29,8,Calzone,Small,4,Chef 2,Friday,21,BestOrder Inc.,Munich District One,Teenager
+291,2,293,29,4,Speciale,Large,3,Chef 2,Wednesday,18,Feedera SE,Munich District Three,Adult
+1809,2,284,51,29,Salami,Medium,4,Ingredients,Friday,18,Feedera SE,Munich District Two,Teenager
+1541,2,197,6,3,Speciale,Medium,3,Chef 1,Sunday,12,Deliver Now Holding,Munich District Three,Student
+1101,2,267,29,50,Magherita,Small,5,Chef 2,Sunday,13,TownExpress Inc. ,Munich District Three,Student
+1687,2,170,29,8,Salami,Small,4,Chef 1,Saturday,16,BestOrder Inc.,Munich District One,Adult
+810,2,159,30,5,Veggie,Medium,3,Delivery Guy 2,Saturday,19,Deliveruu Inc.,Munich District Four,Student
+1741,2,142,16,22,Speciale,Medium,4,Delivery Guy 2,Sunday,12,BestOrder Inc.,Munich District One,Student
+1725,2,248,10,60,Salami,Small,4,Chef 2,Thursday,19,Feedera SE,Munich District One,Teenager
+580,2,238,23,11,Salami,Large,4,Waiter,Saturday,16,Deliver Now Holding,Munich District Four,Student
+535,2,33,21,4,Funghi,Medium,4,Ingredients,Saturday,13,Orderly SE,Munich District Four,Senior
+954,2,290,8,16,Magherita,Small,3,Chef 2,Saturday,13,Deliver Now Holding,Munich District One,Teenager
+769,2,231,29,51,Salami,Medium,4,Chef 1,Saturday,19,Deliver Now Holding,Munich District One,Student
+1857,2,296,8,9,Magherita,Small,4,Delivery Guy 2,Sunday,14,BestOrder Inc.,Munich District Three,Adult
+594,2,243,6,5,Funghi,Small,3,Chef 2,Sunday,19,Deliveruu Inc.,Munich District Four,Teenager
+1575,2,286,29,10,Magherita,Medium,4,Phone Bill,Monday,12,BestOrder Inc.,Munich District One,Teenager
+615,2,253,21,28,Funghi,Small,5,Chef 1,Saturday,17,Deliver Now Holding,Munich District Two,Student
+1951,2,197,6,8,Veggie,Medium,4,Delivery Guy 1 ,Saturday,18,Orderly SE,Munich District Two,Senior
+166,2,293,13,51,Veggie,Medium,4,Distribution channel fees,Sunday,19,BestOrder Inc.,Munich District One,Student
+1015,2,200,32,2,Funghi,Large,4,Chef 2,Saturday,14,Deliveruu Inc.,Munich District Three,Teenager
+1080,2,111,32,13,Calzone,Medium,3,Delivery Scooters ,Wednesday,18,Deliveruu Inc.,Munich District One,Adult
+1284,2,278,29,29,Magherita,Medium,4,Phone Bill,Saturday,14,Orderly SE,Munich District One,Student
+1905,2,258,29,5,Salami,Medium,3,Chef 1,Wednesday,17,Deliver Now Holding,Munich District Three,Teenager
+1157,2,220,56,2,Calzone,Small,4,Chef 2,Sunday,15,Deliver Now Holding,Munich District Two,Student
+1342,2,93,56,50,Magherita,Small,3,Chef 2,Friday,18,Deliver Now Holding,Munich District One,Teenager
+1318,2,9,6,10,Calzone,Medium,3,Chef 2,Friday,20,Feedera SE,Munich District Three,Student
+1023,2,78,21,9,Salami,Small,3,Delivery Scooters ,Sunday,12,Feedera SE,Munich District One,Student
+1549,2,252,30,16,Funghi,Medium,3,Chef 2,Wednesday,11,Deliveruu Inc.,Munich District One,Adult
+1066,2,54,21,8,Magherita,Small,5,Chef 2,Sunday,15,Orderly SE,Munich District One,Teenager
+1989,2,170,10,10,Funghi,Small,4,Chef 1,Saturday,13,Feedera SE,Munich District Four,Student
+997,2,142,10,2,Funghi,Medium,4,Chef 2,Friday,18,BestOrder Inc.,Munich District Two,Teenager
+662,2,132,9,7,Salami,Small,5,Phone Bill,Friday,18,BestOrder Inc.,Munich District Two,Adult
+190,2,15,8,2,Magherita,Medium,5,Chef 2,Friday,13,BestOrder Inc.,Munich District Four,Student
+280,2,39,36,8,Funghi,Medium,3,Waiter,Sunday,16,TownExpress Inc. ,Munich District Four,Student
+1909,2,259,6,11,Salami,Small,3,Chef 2,Saturday,19,Feedera SE,Munich District Three,Senior
+1776,2,213,29,3,Salami,Medium,3,Ingredients,Wednesday,18,Deliver Now Holding,Munich District One,Student
+404,2,25,29,29,Salami,Large,4,Waiter,Sunday,20,Deliver Now Holding,Munich District Five,Senior
+467,2,253,28,39,Magherita,Medium,4,Chef 1,Friday,19,Deliver Now Holding,Munich District Three,Student
+1232,2,94,17,2,Magherita,Medium,4,Chef 2,Sunday,13,BestOrder Inc.,Munich District Four,Teenager
+673,2,276,6,8,Salami,Large,3,Delivery Guy 2,Sunday,13,Deliveruu Inc.,Munich District One,Adult
+796,2,46,8,2,Salami,Small,4,Delivery Guy 1 ,Wednesday,19,BestOrder Inc.,Munich District One,Teenager
+1412,2,141,29,10,Calzone,Large,3,Delivery Guy 2,Monday,18,Deliver Now Holding,Munich District One,Student
+462,2,31,21,8,Funghi,Large,5,Delivery Scooters ,Saturday,12,Feedera SE,Munich District One,Senior
+1966,2,196,16,23,Salami,Medium,5,Delivery Scooters ,Friday,14,Feedera SE,Munich District One,Teenager
+285,2,85,49,10,Salami,Small,4,Delivery Scooters ,Monday,19,Deliver Now Holding,Munich District Three,Student
+1107,2,85,6,11,Salami,Medium,3,Ingredients,Friday,19,Feedera SE,Munich District Five,Student
+944,2,220,6,13,Salami,Large,4,Phone Bill,Sunday,14,BestOrder Inc.,Munich District One,Student
+1544,2,227,29,3,Calzone,Small,4,Chef 2,Thursday,18,Feedera SE,Munich District Five,Student
+798,2,148,25,7,Funghi,Medium,3,Delivery Scooters ,Saturday,17,BestOrder Inc.,Munich District Three,Student
+1547,2,251,36,5,Calzone,Small,5,Ingredients,Sunday,17,Feedera SE,Munich District Two,Teenager
+1838,2,158,15,10,Paprika,Small,4,Delivery Guy 1 ,Saturday,13,Feedera SE,Munich District Five,Teenager
+34,2,161,22,7,Salami,Medium,4,Phone Bill,Thursday,20,TownExpress Inc. ,Munich District Three,Student
+1976,2,49,21,22,Paprika,Large,4,Waiter,Sunday,11,Feedera SE,Munich District Two,Student
+223,2,151,16,5,Paprika,Large,3,Chef 2,Saturday,19,BestOrder Inc.,Munich District Two,Student
+1925,2,232,15,10,Paprika,Small,3,Waiter,Friday,18,BestOrder Inc.,Munich District Three,Teenager
+89,2,275,25,33,Veggie,Small,4,Chef 1,Friday,20,Deliver Now Holding,Munich District Two,Adult
+1298,2,40,6,8,Magherita,Large,3,Delivery Guy 2,Friday,18,Feedera SE,Munich District One,Teenager
+1542,2,58,32,2,Magherita,Small,5,Chef 1,Saturday,12,Deliver Now Holding,Munich District One,Adult
+118,2,48,38,2,Magherita,Large,4,Delivery Guy 2,Sunday,13,Deliveruu Inc.,Munich District One,Student
+1609,2,152,21,10,Paprika,Small,4,Ingredients,Friday,12,Deliver Now Holding,Munich District Four,Student
+506,2,76,29,16,Funghi,Medium,5,Waiter,Friday,18,Deliver Now Holding,Munich District Three,Student
+678,2,36,6,7,Salami,Small,4,Delivery Scooters ,Saturday,12,Deliveruu Inc.,Munich District Three,Student
+1781,2,184,29,5,Calzone,Large,4,Delivery Scooters ,Friday,19,Deliveruu Inc.,Munich District Three,Adult
+698,2,29,34,7,Speciale,Small,4,Waiter,Saturday,19,Deliver Now Holding,Munich District One,Student
+330,2,116,50,9,Veggie,Medium,3,Chef 2,Sunday,12,Feedera SE,Munich District One,Student
+1764,2,206,34,23,Funghi,Small,4,Chef 2,Tuesday,12,Feedera SE,Munich District One,Student
+1627,2,192,44,10,Calzone,Small,3,Delivery Guy 2,Sunday,18,BestOrder Inc.,Munich District One,Adult
+832,2,112,46,3,Veggie,Small,4,Waiter,Wednesday,13,Feedera SE,Munich District One,Teenager
+311,2,225,8,10,Paprika,Medium,3,Ingredients,Wednesday,20,Feedera SE,Munich District One,Student
+498,2,298,16,17,Speciale,Small,4,Chef 2,Saturday,11,Deliver Now Holding,Munich District Four,Student
+1376,2,121,6,7,Funghi,Small,3,Ingredients,Sunday,12,Deliver Now Holding,Munich District Four,Teenager
+153,2,208,5,10,Salami,Large,4,Phone Bill,Saturday,18,Deliver Now Holding,Munich District One,Student
+483,2,227,29,22,Funghi,Large,4,Chef 1,Wednesday,12,Deliveruu Inc.,Munich District Four,Student
+255,2,81,11,11,Magherita,Large,4,Delivery Guy 2,Friday,18,BestOrder Inc.,Munich District Four,Teenager
+272,2,128,20,29,Funghi,Large,3,Waiter,Saturday,12,Deliver Now Holding,Munich District Three,Student
+1830,2,44,25,33,Salami,Medium,4,Chef 2,Sunday,12,BestOrder Inc.,Munich District One,Adult
+1523,2,44,10,11,Funghi,Small,5,Waiter,Wednesday,19,Heropizza Lmtd.,Munich District Three,Teenager
+71,2,300,5,10,Calzone,Large,5,Delivery Scooters ,Friday,14,Feedera SE,Munich District Four,Senior
+1399,2,245,16,56,Salami,Small,3,Chef 2,Friday,19,Deliver Now Holding,Munich District One,Student
+239,2,282,11,39,Salami,Medium,4,Chef 1,Friday,18,Deliver Now Holding,Munich District One,Student
+1192,2,92,36,7,Magherita,Small,5,Chef 2,Friday,18,Deliveruu Inc.,Munich District One,Student
+1422,2,134,52,10,Salami,Small,3,Chef 1,Saturday,14,Feedera SE,Munich District One,Student
+113,2,281,9,29,Salami,Large,3,Chef 2,Sunday,13,BestOrder Inc.,Munich District Five,Teenager
+1817,2,71,5,23,Calzone,Medium,3,Chef 2,Sunday,12,Feedera SE,Munich District Four,Student
+1147,2,9,29,9,Magherita,Small,4,Waiter,Friday,18,Feedera SE,Munich District One,Adult
+1531,2,69,29,11,Veggie,Small,5,Phone Bill,Friday,17,BestOrder Inc.,Munich District One,Student
+1383,2,18,16,9,Speciale,Small,5,Chef 1,Saturday,12,Orderly SE,Munich District One,Adult
+1241,2,150,11,22,Magherita,Small,4,Chef 1,Sunday,14,Deliveruu Inc.,Munich District One,Adult
+433,2,167,51,5,Salami,Large,4,Delivery Scooters ,Saturday,19,BestOrder Inc.,Munich District Four,Student
+289,2,180,9,38,Funghi,Medium,4,Ingredients,Sunday,18,BestOrder Inc.,Munich District One,Student
+1220,2,284,9,23,Salami,Small,2,Chef 2,Monday,16,Feedera SE,Munich District One,Adult
+1091,2,51,29,2,Magherita,Large,5,Phone Bill,Friday,19,Orderly SE,Munich District Three,Senior
+945,2,261,29,16,Salami,Small,3,Delivery Scooters ,Sunday,18,Deliver Now Holding,Munich District Three,Student
+188,2,295,11,10,Veggie,Small,4,Phone Bill,Sunday,19,Feedera SE,Munich District Three,Adult
+460,2,27,11,11,Speciale,Large,3,Phone Bill,Friday,19,Heropizza Lmtd.,Munich District One,Teenager
+152,2,69,6,7,Salami,Large,3,Distribution channel fees,Sunday,18,Deliver Now Holding,Munich District Three,Teenager
+49,2,291,38,13,Salami,Medium,3,Chef 1,Wednesday,12,BestOrder Inc.,Munich District Four,Teenager
+848,2,229,29,16,Calzone,Small,4,Chef 2,Saturday,19,BestOrder Inc.,Munich District One,Student
+325,2,81,29,7,Calzone,Small,5,Ingredients,Sunday,16,TownExpress Inc. ,Munich District One,Teenager
+1759,2,257,9,10,Calzone,Medium,5,Chef 1,Sunday,14,BestOrder Inc.,Munich District Four,Student
+973,2,19,43,25,Speciale,Medium,4,Delivery Guy 2,Wednesday,13,Feedera SE,Munich District One,Adult
+815,2,191,12,5,Funghi,Large,3,Delivery Guy 2,Saturday,21,Deliver Now Holding,Munich District Two,Teenager
+359,2,85,8,7,Calzone,Small,5,Chef 1,Sunday,17,Deliveruu Inc.,Munich District Two,Student
+1701,2,181,11,2,Magherita,Large,5,Ingredients,Saturday,18,BestOrder Inc.,Munich District Two,Adult
+1612,2,20,19,2,Funghi,Small,3,Chef 1,Wednesday,20,Feedera SE,Munich District One,Student
+688,2,192,13,32,Calzone,Medium,4,Distribution channel fees,Wednesday,10,Feedera SE,Munich District Three,Teenager
+294,2,62,8,9,Paprika,Medium,3,Phone Bill,Saturday,18,Deliver Now Holding,Munich District Four,Teenager
+341,2,206,21,7,Calzone,Medium,5,Ingredients,Friday,21,BestOrder Inc.,Munich District Three,Student
+1686,2,173,29,4,Magherita,Small,4,Delivery Guy 1 ,Sunday,17,BestOrder Inc.,Munich District Five,Adult
+1526,2,2,10,44,Salami,Small,5,Delivery Scooters ,Monday,18,Feedera SE,Munich District One,Teenager
+168,2,214,38,13,Calzone,Small,5,Distribution channel fees,Friday,13,Deliveruu Inc.,Munich District Four,Student
+1341,2,94,11,5,Funghi,Small,3,Ingredients,Saturday,12,Deliver Now Holding,Munich District Five,Teenager
+503,2,74,51,9,Salami,Large,2,Phone Bill,Sunday,19,Deliver Now Holding,Munich District One,Adult
+1957,2,202,5,11,Salami,Medium,4,Phone Bill,Saturday,13,Deliver Now Holding,Munich District Three,Teenager
+1006,2,272,21,12,Salami,Small,5,Ingredients,Sunday,17,BestOrder Inc.,Munich District Four,Teenager
+612,2,208,29,16,Salami,Small,3,Waiter,Wednesday,14,Heropizza Lmtd.,Munich District Three,Student
+1626,2,74,36,13,Funghi,Large,4,Chef 1,Saturday,14,Feedera SE,Munich District Two,Student
+751,2,108,49,13,Funghi,Small,3,Waiter,Wednesday,18,Deliver Now Holding,Munich District Three,Student
+150,2,222,29,37,Magherita,Small,3,Chef 2,Sunday,13,TownExpress Inc. ,Munich District One,Student
+1335,2,220,35,3,Speciale,Medium,5,Delivery Scooters ,Sunday,13,BestOrder Inc.,Munich District Four,Student
+934,2,65,25,2,Magherita,Medium,4,Delivery Guy 2,Saturday,13,Deliveruu Inc.,Munich District Four,Adult
+481,2,124,30,8,Salami,Small,5,Chef 1,Sunday,18,BestOrder Inc.,Munich District One,Student
+450,2,131,36,29,Magherita,Large,4,Phone Bill,Friday,12,TownExpress Inc. ,Munich District Two,Adult
+1975,2,239,10,43,Funghi,Small,4,Ingredients,Saturday,12,Deliveruu Inc.,Munich District Two,Student
+797,2,12,9,7,Paprika,Large,3,Phone Bill,Wednesday,18,Deliver Now Holding,Munich District One,Student
+42,2,125,36,2,Funghi,Small,3,Waiter,Tuesday,11,Deliver Now Holding,Munich District One,Student
+903,2,55,52,3,Magherita,Large,5,Ingredients,Sunday,19,TownExpress Inc. ,Munich District Two,Teenager
+1693,2,35,23,11,Magherita,Large,3,Chef 1,Saturday,11,BestOrder Inc.,Munich District Two,Student
+1492,2,80,21,10,Salami,Medium,4,Chef 1,Sunday,13,Feedera SE,Munich District One,Student
+499,2,56,5,37,Funghi,Large,4,Delivery Scooters ,Sunday,13,Feedera SE,Munich District Three,Teenager
+1239,2,242,28,8,Funghi,Large,3,Delivery Scooters ,Thursday,19,Feedera SE,Munich District Four,Student
+1082,2,110,35,2,Funghi,Medium,4,Delivery Scooters ,Saturday,19,Feedera SE,Munich District Three,Student
+1180,2,51,4,16,Speciale,Small,3,Waiter,Sunday,13,Deliver Now Holding,Munich District Three,Student
+1070,2,47,21,44,Funghi,Medium,4,Chef 1,Friday,13,Orderly SE,Munich District Three,Student
+4,2,242,5,8,Calzone,Small,4,Delivery Guy 2,Sunday,18,BestOrder Inc.,Munich District One,Student
+654,2,284,37,9,Magherita,Small,5,Chef 2,Saturday,12,Deliver Now Holding,Munich District Two,Student
+1224,2,291,11,10,Funghi,Small,4,Chef 2,Saturday,19,Deliveruu Inc.,Munich District One,Teenager
+1324,2,241,13,31,Speciale,Medium,5,Chef 1,Sunday,13,Deliver Now Holding,Munich District One,Student
+641,2,163,10,43,Magherita,Medium,2,Chef 1,Thursday,19,Deliver Now Holding,Munich District One,Student
+1777,2,2,10,32,Funghi,Medium,5,Delivery Scooters ,Sunday,21,Feedera SE,Munich District One,Student
+1758,2,213,29,9,Funghi,Large,5,Chef 2,Saturday,12,BestOrder Inc.,Munich District Five,Student
+1277,2,4,9,1,Funghi,Small,3,Chef 2,Friday,18,Deliver Now Holding,Munich District One,Adult
+65,2,64,10,16,Magherita,Small,3,Chef 1,Sunday,13,Deliver Now Holding,Munich District Two,Teenager
+317,2,179,8,3,Salami,Large,3,Waiter,Saturday,12,Deliver Now Holding,Munich District Three,Adult
+1186,2,250,36,17,Funghi,Small,3,Ingredients,Saturday,12,Feedera SE,Munich District Two,Student
+1035,2,102,51,29,Funghi,Large,4,Delivery Scooters ,Sunday,19,Feedera SE,Munich District One,Adult
+1436,2,40,11,51,Salami,Medium,3,Delivery Guy 1 ,Saturday,10,Heropizza Lmtd.,Munich District Four,Student
+1744,2,177,10,13,Funghi,Small,3,Distribution channel fees,Saturday,15,BestOrder Inc.,Munich District One,Adult
+219,2,156,55,2,Funghi,Large,4,Phone Bill,Sunday,14,Feedera SE,Munich District Two,Adult
+1868,2,205,23,12,Magherita,Medium,4,Delivery Guy 2,Friday,18,Orderly SE,Munich District One,Teenager
+1185,2,150,50,5,Calzone,Small,3,Chef 2,Saturday,14,TownExpress Inc. ,Munich District One,Teenager
+590,2,209,36,10,Magherita,Small,4,Chef 1,Friday,10,Feedera SE,Munich District Three,Senior
+105,2,181,15,7,Magherita,Small,5,Phone Bill,Sunday,21,Deliver Now Holding,Munich District Two,Teenager
+892,2,254,21,8,Funghi,Medium,4,Ingredients,Saturday,13,Heropizza Lmtd.,Munich District One,Student
+1200,2,69,11,10,Funghi,Small,5,Chef 1,Wednesday,20,Deliver Now Holding,Munich District Four,Student
+1453,2,41,11,39,Salami,Small,5,Delivery Guy 2,Sunday,21,Deliver Now Holding,Munich District Two,Student
+1204,2,74,43,47,Salami,Medium,4,Chef 2,Sunday,18,Feedera SE,Munich District One,Student
+1129,2,41,6,20,Paprika,Large,4,Chef 2,Friday,12,Feedera SE,Munich District One,Student
+707,2,157,19,28,Paprika,Large,4,Chef 2,Friday,13,Deliver Now Holding,Munich District Three,Student
+1537,2,236,36,7,Salami,Large,3,Distribution channel fees,Sunday,21,Deliveruu Inc.,Munich District One,Student
+1908,2,154,25,4,Salami,Small,4,Ingredients,Sunday,12,Deliver Now Holding,Munich District One,Student
+1288,2,101,36,5,Salami,Small,4,Chef 1,Thursday,17,Deliveruu Inc.,Munich District One,Student
+1973,2,13,43,32,Funghi,Small,4,Ingredients,Friday,20,Feedera SE,Munich District One,Teenager
+1772,2,185,21,46,Salami,Large,4,Chef 1,Friday,14,BestOrder Inc.,Munich District One,Student
+785,2,241,8,46,Calzone,Small,5,Delivery Guy 1 ,Thursday,19,Feedera SE,Munich District One,Student
+1546,2,125,36,7,Funghi,Large,3,Delivery Guy 2,Saturday,17,Deliver Now Holding,Munich District Four,Student
+844,2,84,21,39,Magherita,Large,2,Delivery Scooters ,Friday,18,Feedera SE,Munich District Three,Teenager
+1166,2,172,21,5,Funghi,Medium,4,Phone Bill,Tuesday,16,Feedera SE,Munich District One,Student
+565,2,132,11,7,Veggie,Small,4,Chef 1,Saturday,14,Heropizza Lmtd.,Munich District One,Adult
+996,2,240,29,2,Magherita,Large,4,Phone Bill,Wednesday,10,Feedera SE,Munich District Three,Student
+995,2,242,10,38,Funghi,Medium,2,Ingredients,Friday,17,BestOrder Inc.,Munich District One,Student
+1057,2,146,8,8,Funghi,Small,4,Delivery Guy 2,Friday,15,Feedera SE,Munich District Three,Adult
+942,2,163,29,2,Funghi,Medium,4,Ingredients,Friday,12,Deliver Now Holding,Munich District One,Teenager
+876,2,99,10,3,Salami,Medium,4,Waiter,Saturday,13,Deliver Now Holding,Munich District One,Adult
+1206,2,46,11,3,Veggie,Small,5,Delivery Scooters ,Wednesday,12,Feedera SE,Munich District One,Teenager
+1563,2,107,10,16,Funghi,Large,4,Ingredients,Sunday,12,Deliver Now Holding,Munich District Four,Student
+675,2,141,11,11,Magherita,Small,4,Ingredients,Saturday,19,BestOrder Inc.,Munich District One,Student
+1340,2,62,11,7,Veggie,Large,4,Chef 2,Friday,18,Deliver Now Holding,Munich District Three,Student
+711,2,197,11,5,Salami,Small,5,Delivery Scooters ,Saturday,14,Deliver Now Holding,Munich District Five,Teenager
+1576,2,91,6,11,Calzone,Small,4,Chef 1,Saturday,21,Feedera SE,Munich District One,Student
+623,2,13,55,15,Funghi,Medium,3,Chef 2,Saturday,18,Feedera SE,Munich District Four,Adult
+717,2,273,29,2,Funghi,Medium,3,Chef 2,Monday,12,Deliveruu Inc.,Munich District Two,Student
+220,2,171,35,56,Calzone,Large,4,Delivery Scooters ,Saturday,17,Deliver Now Holding,Munich District Three,Teenager
+1747,2,26,6,30,Calzone,Medium,4,Ingredients,Friday,14,BestOrder Inc.,Munich District Four,Teenager
+1465,2,200,12,2,Funghi,Medium,5,Chef 1,Wednesday,18,Feedera SE,Munich District Two,Teenager
+1842,2,247,11,3,Speciale,Large,4,Phone Bill,Saturday,17,Feedera SE,Munich District One,Student
+1556,2,56,21,7,Funghi,Large,4,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Adult
+1991,2,79,28,10,Speciale,Small,3,Chef 2,Sunday,13,Deliver Now Holding,Munich District Three,Student
+147,2,227,55,15,Magherita,Small,3,Delivery Guy 1 ,Friday,21,Deliver Now Holding,Munich District One,Teenager
+1017,2,49,52,2,Funghi,Large,4,Phone Bill,Friday,19,Deliver Now Holding,Munich District Three,Student
+738,2,229,25,9,Calzone,Medium,4,Delivery Scooters ,Sunday,18,Deliver Now Holding,Munich District One,Student
+1949,2,286,21,60,Calzone,Small,5,Chef 1,Saturday,18,Feedera SE,Munich District Two,Student
+1836,2,153,52,49,Salami,Large,4,Chef 1,Sunday,19,Feedera SE,Munich District Three,Student
+1594,2,101,10,2,Funghi,Small,3,Delivery Guy 2,Wednesday,18,BestOrder Inc.,Munich District One,Student
+1900,2,252,36,51,Speciale,Large,4,Waiter,Sunday,12,Deliver Now Holding,Munich District Two,Student
+1590,2,221,6,10,Funghi,Medium,3,Chef 1,Sunday,12,Deliver Now Holding,Munich District One,Student
+1191,2,156,52,1,Salami,Medium,3,Chef 1,Saturday,11,Deliver Now Holding,Munich District One,Adult
+1308,2,30,11,11,Speciale,Small,3,Chef 2,Sunday,12,Deliver Now Holding,Munich District Two,Adult
+620,2,133,6,31,Speciale,Medium,3,Chef 1,Sunday,19,Deliveruu Inc.,Munich District One,Teenager
+959,2,54,6,49,Funghi,Small,5,Delivery Guy 1 ,Friday,17,BestOrder Inc.,Munich District One,Teenager
+1756,2,142,18,11,Magherita,Medium,4,Ingredients,Sunday,13,BestOrder Inc.,Munich District Two,Student
+310,2,152,19,56,Salami,Large,3,Waiter,Sunday,18,Deliver Now Holding,Munich District One,Teenager
+1408,2,248,50,2,Salami,Small,3,Delivery Scooters ,Thursday,18,BestOrder Inc.,Munich District Two,Student
+1105,2,213,31,2,Salami,Large,3,Chef 2,Saturday,12,BestOrder Inc.,Munich District Five,Teenager
+971,2,178,10,39,Veggie,Small,3,Waiter,Sunday,13,Feedera SE,Munich District Five,Student
+232,2,15,10,16,Salami,Small,3,Delivery Guy 2,Saturday,13,BestOrder Inc.,Munich District Four,Teenager
+393,2,95,10,10,Magherita,Medium,3,Delivery Guy 2,Sunday,13,Feedera SE,Munich District One,Student
+715,2,100,6,30,Magherita,Large,4,Delivery Guy 1 ,Thursday,18,Deliver Now Holding,Munich District Two,Student
+616,2,61,36,8,Funghi,Small,4,Chef 1,Saturday,19,Deliver Now Holding,Munich District Five,Student
+412,2,12,36,9,Salami,Small,3,Chef 2,Friday,12,Deliver Now Holding,Munich District Two,Senior
+1467,2,8,36,46,Salami,Medium,5,Phone Bill,Friday,12,Feedera SE,Munich District One,Adult
+957,2,199,5,10,Funghi,Small,5,Chef 1,Monday,19,BestOrder Inc.,Munich District One,Teenager
+48,2,63,10,1,Salami,Small,3,Ingredients,Saturday,10,Feedera SE,Munich District Three,Student
+879,2,254,33,20,Magherita,Medium,4,Chef 2,Saturday,18,Feedera SE,Munich District One,Student
+283,2,70,11,2,Salami,Large,4,Chef 1,Friday,18,Feedera SE,Munich District Three,Student
+980,2,300,10,29,Magherita,Large,3,Ingredients,Sunday,18,BestOrder Inc.,Munich District Three,Student
+1628,2,152,29,13,Calzone,Large,4,Waiter,Tuesday,13,Deliveruu Inc.,Munich District One,Senior
+1168,2,247,29,1,Veggie,Medium,5,Waiter,Sunday,17,Orderly SE,Munich District Three,Student
+1088,2,116,5,20,Salami,Large,3,Ingredients,Sunday,12,BestOrder Inc.,Munich District One,Adult
+452,2,143,11,10,Speciale,Large,4,Distribution channel fees,Saturday,12,Deliveruu Inc.,Munich District One,Student
+1125,2,280,11,16,Speciale,Medium,3,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District Three,Student
+1405,2,279,29,11,Calzone,Large,5,Chef 1,Saturday,13,Deliver Now Holding,Munich District Five,Student
+760,2,86,29,43,Salami,Small,3,Chef 1,Sunday,18,Feedera SE,Munich District One,Student
+385,2,46,25,44,Veggie,Medium,3,Chef 2,Sunday,18,Feedera SE,Munich District One,Student
+293,2,287,33,35,Magherita,Medium,4,Waiter,Saturday,12,Orderly SE,Munich District Four,Student
+608,2,236,9,3,Speciale,Medium,3,Waiter,Tuesday,13,BestOrder Inc.,Munich District Two,Student
+1161,2,270,6,2,Speciale,Small,3,Distribution channel fees,Monday,19,Feedera SE,Munich District One,Teenager
+1517,2,96,18,29,Salami,Large,3,Chef 2,Friday,19,Deliveruu Inc.,Munich District Two,Adult
+741,3,82,54,35,Funghi,Medium,0,Chef 1,Sunday,18,BestOrder Inc.,Munich District Four,Teenager
+1395,3,201,29,10,Salami,Small,0,Chef 1,Friday,12,BestOrder Inc.,Munich District Three,Student
+300,3,213,36,10,Salami,Large,1,Delivery Guy 2,Sunday,18,Deliver Now Holding,Munich District Two,Student
+1169,3,133,21,9,Magherita,Small,1,Delivery Guy 1 ,Wednesday,19,Feedera SE,Munich District Three,Teenager
+1862,3,97,9,9,Magherita,Small,0,Phone Bill,Wednesday,21,Feedera SE,Munich District Two,Student
+1307,3,262,29,33,Salami,Large,2,Waiter,Saturday,12,Heropizza Lmtd.,Munich District Five,Teenager
+274,3,74,21,33,Magherita,Small,0,Delivery Scooters ,Sunday,19,BestOrder Inc.,Munich District One,Student
+398,3,8,36,34,Magherita,Small,0,Waiter,Sunday,12,Heropizza Lmtd.,Munich District One,Student
+1610,3,63,10,32,Veggie,Medium,2,Chef 2,Tuesday,14,Deliver Now Holding,Munich District One,Teenager
+861,3,156,29,29,Salami,Small,4,Delivery Scooters ,Wednesday,19,TownExpress Inc. ,Munich District One,Senior
+1165,3,194,17,3,Calzone,Small,2,Phone Bill,Wednesday,18,Orderly SE,Munich District Three,Adult
+1899,3,102,11,11,Magherita,Large,2,Chef 2,Sunday,12,Feedera SE,Munich District Four,Student
+1956,3,65,5,5,Speciale,Small,0,Delivery Guy 1 ,Wednesday,21,Deliver Now Holding,Munich District One,Student
+1700,3,229,10,13,Veggie,Small,0,Ingredients,Saturday,18,Deliveruu Inc.,Munich District One,Student
+1123,3,196,55,16,Salami,Small,1,Ingredients,Wednesday,12,BestOrder Inc.,Munich District Five,Adult
+1792,3,264,21,13,Salami,Small,2,Phone Bill,Friday,11,BestOrder Inc.,Munich District One,Teenager
+574,3,284,11,15,Veggie,Medium,5,Chef 1,Saturday,13,Deliveruu Inc.,Munich District One,Teenager
+1199,3,190,5,31,Speciale,Medium,0,Phone Bill,Sunday,12,Heropizza Lmtd.,Munich District Four,Student
+1845,3,40,30,16,Salami,Medium,0,Waiter,Saturday,18,TownExpress Inc. ,Munich District One,Senior
+1411,3,77,55,3,Magherita,Medium,1,Ingredients,Thursday,18,Deliver Now Holding,Munich District One,Senior
+202,3,31,31,5,Salami,Small,1,Chef 2,Sunday,17,BestOrder Inc.,Munich District Four,Student
+1600,3,101,35,7,Funghi,Medium,1,Delivery Scooters ,Wednesday,12,TownExpress Inc. ,Munich District One,Student
+1738,3,14,5,11,Funghi,Small,1,Chef 1,Sunday,14,Deliver Now Holding,Munich District One,Student
+1261,3,218,36,37,Magherita,Small,0,Waiter,Sunday,17,BestOrder Inc.,Munich District Three,Adult
+1258,3,95,31,29,Salami,Small,2,Delivery Guy 2,Sunday,14,BestOrder Inc.,Munich District Five,Student
+1647,3,139,18,7,Magherita,Small,0,Chef 2,Saturday,19,Deliveruu Inc.,Munich District One,Student
+39,3,206,33,5,Paprika,Large,1,Chef 2,Wednesday,14,BestOrder Inc.,Munich District One,Student
+86,3,73,8,2,Salami,Large,1,Chef 1,Sunday,13,Deliver Now Holding,Munich District Two,Student
+407,3,60,21,13,Magherita,Large,2,Chef 1,Monday,13,Feedera SE,Munich District Three,Teenager
+987,3,248,10,10,Calzone,Large,1,Delivery Scooters ,Sunday,19,BestOrder Inc.,Munich District One,Student
+552,3,268,23,2,Speciale,Small,0,Chef 1,Saturday,20,BestOrder Inc.,Munich District Five,Student
+588,3,216,21,10,Funghi,Small,0,Waiter,Friday,19,Feedera SE,Munich District Two,Adult
+451,3,106,24,10,Magherita,Large,1,Delivery Guy 2,Sunday,18,Deliver Now Holding,Munich District Three,Adult
+827,3,271,5,1,Funghi,Small,4,Chef 2,Wednesday,17,BestOrder Inc.,Munich District Three,Student
+326,3,183,36,7,Salami,Medium,2,Delivery Scooters ,Saturday,17,BestOrder Inc.,Munich District Two,Teenager
+1002,3,89,21,35,Speciale,Large,4,Ingredients,Sunday,16,BestOrder Inc.,Munich District One,Teenager
+1814,3,300,21,33,Funghi,Small,4,Phone Bill,Friday,13,Deliver Now Holding,Munich District Two,Student
+138,3,96,11,3,Funghi,Small,5,Delivery Scooters ,Sunday,11,TownExpress Inc. ,Munich District One,Student
+676,3,125,5,10,Veggie,Small,0,Ingredients,Friday,12,Feedera SE,Munich District Four,Student
+1940,3,284,39,1,Calzone,Medium,0,Chef 2,Friday,20,Heropizza Lmtd.,Munich District Four,Student
+1255,3,98,36,9,Funghi,Medium,0,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Student
+117,3,174,36,30,Salami,Small,0,Chef 1,Saturday,16,Feedera SE,Munich District Two,Teenager
+882,3,264,6,28,Funghi,Medium,1,Chef 1,Sunday,18,Deliver Now Holding,Munich District One,Student
+1351,3,47,9,30,Salami,Small,1,Phone Bill,Friday,19,Deliveruu Inc.,Munich District One,Student
+1354,3,108,10,4,Salami,Large,0,Delivery Guy 2,Wednesday,18,Feedera SE,Munich District One,Teenager
+842,3,2,11,29,Paprika,Small,1,Chef 2,Thursday,18,Feedera SE,Munich District Four,Adult
+1723,3,281,10,4,Magherita,Large,2,Waiter,Thursday,13,Deliveruu Inc.,Munich District One,Student
+710,3,104,19,4,Funghi,Small,1,Phone Bill,Friday,12,Deliver Now Holding,Munich District Two,Teenager
+913,3,72,28,12,Speciale,Medium,0,Chef 1,Sunday,13,TownExpress Inc. ,Munich District Three,Student
+728,3,77,11,16,Speciale,Small,0,Chef 1,Saturday,13,Deliver Now Holding,Munich District One,Adult
+1468,3,79,36,25,Funghi,Medium,1,Delivery Scooters ,Sunday,17,Orderly SE,Munich District Two,Teenager
+104,3,178,10,7,Veggie,Small,1,Phone Bill,Friday,18,Deliver Now Holding,Munich District One,Student
+835,3,129,55,2,Salami,Large,1,Delivery Guy 2,Saturday,13,BestOrder Inc.,Munich District One,Teenager
+609,3,58,11,2,Paprika,Small,1,Chef 2,Friday,19,Deliver Now Holding,Munich District One,Student
+727,3,219,56,1,Funghi,Medium,0,Chef 2,Friday,12,Orderly SE,Munich District Two,Adult
+354,3,39,36,10,Salami,Medium,0,Chef 1,Sunday,13,Deliver Now Holding,Munich District Three,Teenager
+1608,3,113,11,2,Funghi,Small,1,Delivery Guy 2,Sunday,18,Feedera SE,Munich District Five,Teenager
+363,3,255,21,2,Salami,Large,0,Chef 1,Wednesday,12,Feedera SE,Munich District One,Teenager
+332,3,80,5,8,Magherita,Small,2,Distribution channel fees,Thursday,11,Deliver Now Holding,Munich District One,Student
+51,3,13,9,22,Magherita,Small,5,Delivery Scooters ,Friday,18,Orderly SE,Munich District Three,Student
+1760,3,137,34,29,Funghi,Medium,1,Chef 2,Friday,12,Heropizza Lmtd.,Munich District One,Student
+870,3,270,38,13,Speciale,Small,1,Ingredients,Wednesday,18,BestOrder Inc.,Munich District One,Student
+37,3,211,35,47,Funghi,Small,0,Ingredients,Friday,19,Feedera SE,Munich District One,Adult
+1519,3,75,52,10,Magherita,Medium,0,Chef 2,Saturday,17,Deliver Now Holding,Munich District Three,Student
+69,3,24,5,8,Funghi,Large,4,Chef 1,Saturday,12,Feedera SE,Munich District One,Student
+1034,3,101,6,1,Funghi,Small,2,Chef 1,Saturday,18,Deliver Now Holding,Munich District One,Student
+1303,3,132,6,5,Funghi,Small,0,Chef 2,Saturday,20,BestOrder Inc.,Munich District Two,Student
+637,3,242,9,11,Funghi,Small,1,Chef 1,Wednesday,12,Deliver Now Holding,Munich District One,Student
+1194,3,64,20,2,Salami,Small,1,Chef 2,Tuesday,14,Deliveruu Inc.,Munich District One,Adult
+1022,3,136,36,7,Speciale,Medium,0,Delivery Scooters ,Tuesday,17,BestOrder Inc.,Munich District Two,Student
+1218,3,274,33,22,Calzone,Medium,2,Ingredients,Thursday,11,Orderly SE,Munich District One,Student
+309,3,275,28,5,Speciale,Small,0,Chef 2,Monday,13,BestOrder Inc.,Munich District Two,Student
+1977,3,197,36,7,Calzone,Medium,4,Ingredients,Friday,20,BestOrder Inc.,Munich District Four,Student
+57,3,283,34,38,Magherita,Medium,1,Phone Bill,Saturday,18,Feedera SE,Munich District Three,Student
+1004,3,281,16,32,Funghi,Small,1,Waiter,Saturday,12,Feedera SE,Munich District One,Student
+1901,3,129,8,8,Funghi,Small,0,Chef 1,Sunday,12,Deliveruu Inc.,Munich District One,Student
+1754,3,222,36,13,Calzone,Large,2,Phone Bill,Sunday,12,Deliveruu Inc.,Munich District Three,Student
+1029,3,284,11,3,Magherita,Small,5,Ingredients,Monday,18,BestOrder Inc.,Munich District One,Teenager
+1841,3,183,10,8,Magherita,Large,0,Waiter,Tuesday,12,BestOrder Inc.,Munich District Two,Teenager
+1787,3,41,55,44,Speciale,Medium,0,Waiter,Sunday,20,Feedera SE,Munich District Two,Student
+1663,3,187,10,2,Paprika,Large,1,Chef 1,Saturday,17,BestOrder Inc.,Munich District Three,Teenager
+200,3,81,10,5,Paprika,Large,0,Chef 1,Thursday,13,Heropizza Lmtd.,Munich District Four,Senior
+789,3,193,36,44,Magherita,Large,1,Waiter,Sunday,18,BestOrder Inc.,Munich District Three,Student
+1606,3,41,21,15,Funghi,Medium,0,Ingredients,Wednesday,18,Feedera SE,Munich District One,Student
+1801,3,77,11,56,Calzone,Large,2,Chef 1,Sunday,10,Feedera SE,Munich District Two,Student
+44,3,272,36,60,Salami,Medium,1,Delivery Scooters ,Wednesday,18,Feedera SE,Munich District Five,Student
+831,3,113,11,60,Salami,Small,2,Chef 2,Sunday,16,Deliver Now Holding,Munich District Two,Adult
+1393,3,141,5,1,Magherita,Small,2,Chef 2,Sunday,14,BestOrder Inc.,Munich District Five,Student
+1629,3,173,10,9,Speciale,Large,1,Ingredients,Sunday,13,TownExpress Inc. ,Munich District Three,Student
+1927,3,92,29,11,Salami,Small,1,Delivery Scooters ,Sunday,17,BestOrder Inc.,Munich District One,Student
+339,3,27,24,50,Calzone,Small,2,Ingredients,Sunday,19,BestOrder Inc.,Munich District Four,Student
+472,3,13,47,5,Magherita,Small,2,Delivery Guy 1 ,Thursday,10,BestOrder Inc.,Munich District One,Teenager
+88,3,124,11,13,Magherita,Large,4,Chef 2,Sunday,13,BestOrder Inc.,Munich District One,Student
+1635,3,295,8,56,Magherita,Small,1,Waiter,Tuesday,14,Feedera SE,Munich District One,Student
+1985,3,190,24,16,Calzone,Small,0,Waiter,Friday,18,Feedera SE,Munich District Five,Student
+1771,3,283,10,1,Magherita,Small,0,Delivery Guy 1 ,Monday,19,Feedera SE,Munich District Five,Student
+947,3,174,11,5,Magherita,Small,0,Chef 1,Sunday,20,Deliver Now Holding,Munich District One,Student
+302,3,204,11,10,Magherita,Small,1,Delivery Scooters ,Wednesday,19,Feedera SE,Munich District One,Student
+1950,3,211,29,7,Magherita,Medium,1,Waiter,Sunday,14,Deliver Now Holding,Munich District Two,Student
+1462,3,265,6,2,Salami,Medium,1,Ingredients,Saturday,20,Orderly SE,Munich District One,Student
+121,3,33,9,11,Funghi,Large,1,Phone Bill,Saturday,12,Deliver Now Holding,Munich District Three,Student
+1558,3,76,10,10,Funghi,Medium,4,Waiter,Saturday,19,Feedera SE,Munich District One,Adult
+783,3,200,29,8,Speciale,Medium,1,Chef 1,Friday,17,TownExpress Inc. ,Munich District One,Student
+1802,3,121,29,8,Speciale,Small,4,Delivery Guy 2,Sunday,19,Feedera SE,Munich District One,Teenager
+1443,3,8,24,9,Speciale,Large,0,Chef 2,Sunday,12,Feedera SE,Munich District Three,Teenager
+1334,3,68,21,16,Magherita,Medium,1,Chef 2,Friday,14,BestOrder Inc.,Munich District One,Student
+1668,3,83,36,16,Magherita,Large,0,Ingredients,Sunday,12,BestOrder Inc.,Munich District Two,Teenager
+1479,3,260,20,2,Magherita,Medium,1,Chef 2,Sunday,14,BestOrder Inc.,Munich District One,Adult
+436,3,279,34,33,Magherita,Small,0,Chef 1,Saturday,19,Feedera SE,Munich District Five,Teenager
+828,3,243,9,9,Funghi,Small,0,Delivery Guy 2,Sunday,12,Deliver Now Holding,Munich District One,Student
+370,3,171,29,31,Salami,Medium,0,Chef 2,Saturday,18,BestOrder Inc.,Munich District Three,Student
+1178,3,148,10,10,Funghi,Small,1,Chef 2,Wednesday,21,Feedera SE,Munich District One,Student
+1674,3,62,6,5,Funghi,Medium,0,Waiter,Sunday,19,Feedera SE,Munich District Two,Student
+1425,3,26,5,7,Salami,Medium,1,Delivery Guy 1 ,Sunday,18,Heropizza Lmtd.,Munich District Two,Student
+420,3,286,10,7,Salami,Small,3,Phone Bill,Friday,17,BestOrder Inc.,Munich District Four,Teenager
+1266,3,202,53,9,Magherita,Medium,2,Delivery Scooters ,Saturday,18,BestOrder Inc.,Munich District One,Student
+1391,3,258,12,2,Salami,Small,1,Waiter,Sunday,17,Feedera SE,Munich District Two,Student
+482,3,180,8,10,Magherita,Large,1,Ingredients,Saturday,20,Heropizza Lmtd.,Munich District Two,Adult
+40,3,87,12,7,Salami,Large,1,Chef 2,Saturday,12,Deliver Now Holding,Munich District One,Student
+1373,3,28,21,29,Funghi,Small,0,Chef 2,Friday,20,Heropizza Lmtd.,Munich District Two,Teenager
+1894,3,181,11,29,Veggie,Small,1,Ingredients,Monday,13,Deliver Now Holding,Munich District Four,Student
+399,3,230,5,7,Salami,Small,0,Chef 2,Saturday,13,Deliver Now Holding,Munich District One,Student
+1714,3,209,49,2,Salami,Large,2,Chef 1,Friday,12,Deliveruu Inc.,Munich District One,Student
+1870,3,135,21,33,Salami,Large,0,Ingredients,Sunday,19,BestOrder Inc.,Munich District Four,Student
+1911,3,172,44,5,Calzone,Small,4,Chef 1,Sunday,13,BestOrder Inc.,Munich District Three,Adult
+1685,3,141,50,1,Paprika,Small,2,Waiter,Friday,20,Feedera SE,Munich District One,Senior
+778,3,32,6,12,Salami,Medium,3,Delivery Guy 2,Saturday,14,BestOrder Inc.,Munich District Two,Teenager
+1505,3,278,38,49,Funghi,Large,0,Chef 2,Sunday,13,Deliver Now Holding,Munich District Two,Adult
+149,3,30,39,16,Calzone,Large,1,Chef 2,Friday,13,Feedera SE,Munich District Five,Student
+169,3,283,11,5,Magherita,Small,0,Chef 2,Friday,18,BestOrder Inc.,Munich District Three,Student
+1892,3,201,29,8,Funghi,Medium,0,Chef 1,Saturday,13,Feedera SE,Munich District Two,Student
+93,3,159,51,23,Speciale,Small,2,Ingredients,Tuesday,11,Feedera SE,Munich District Four,Teenager
+1939,3,133,6,30,Calzone,Large,1,Phone Bill,Sunday,13,Deliver Now Holding,Munich District One,Teenager
+974,3,215,39,11,Salami,Large,1,Delivery Guy 1 ,Sunday,21,Orderly SE,Munich District Three,Adult
+1213,3,117,36,29,Funghi,Small,0,Waiter,Sunday,14,Deliver Now Holding,Munich District Four,Student
+867,3,155,5,38,Funghi,Large,2,Chef 1,Sunday,13,TownExpress Inc. ,Munich District Two,Student
+514,3,222,36,7,Salami,Medium,1,Delivery Scooters ,Saturday,19,Heropizza Lmtd.,Munich District One,Student
+859,3,122,11,28,Salami,Large,1,Delivery Scooters ,Friday,21,Heropizza Lmtd.,Munich District Four,Teenager
+1205,3,125,4,7,Veggie,Small,0,Delivery Scooters ,Friday,14,Deliver Now Holding,Munich District Two,Student
+1060,3,241,30,2,Salami,Small,0,Chef 2,Wednesday,12,Deliver Now Holding,Munich District One,Teenager
+1237,3,62,11,16,Magherita,Medium,5,Chef 1,Sunday,18,Deliver Now Holding,Munich District One,Adult
+215,3,218,11,29,Speciale,Medium,2,Ingredients,Sunday,17,BestOrder Inc.,Munich District Three,Student
+496,3,116,11,7,Salami,Small,2,Delivery Guy 1 ,Sunday,13,TownExpress Inc. ,Munich District Two,Teenager
+1223,3,183,36,2,Magherita,Small,1,Phone Bill,Saturday,14,BestOrder Inc.,Munich District Three,Student
+1527,3,20,32,10,Funghi,Medium,1,Chef 1,Saturday,18,Deliveruu Inc.,Munich District One,Teenager
+1922,3,213,8,10,Magherita,Small,3,Delivery Guy 1 ,Friday,12,Feedera SE,Munich District Two,Student
+989,3,4,9,47,Funghi,Small,0,Waiter,Saturday,13,BestOrder Inc.,Munich District Three,Student
+652,3,189,5,44,Salami,Large,0,Delivery Guy 1 ,Sunday,19,Feedera SE,Munich District Five,Teenager
+209,3,42,29,7,Funghi,Small,1,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Student
+1865,3,208,17,35,Magherita,Small,0,Chef 2,Friday,11,Feedera SE,Munich District Three,Student
+970,3,26,36,10,Magherita,Large,1,Delivery Guy 1 ,Sunday,13,Feedera SE,Munich District Three,Teenager
+1247,3,163,10,28,Salami,Small,0,Chef 2,Wednesday,18,BestOrder Inc.,Munich District Three,Student
+10,3,182,29,2,Calzone,Small,2,Phone Bill,Sunday,12,Feedera SE,Munich District Two,Student
+635,3,128,53,9,Funghi,Small,0,Chef 2,Tuesday,14,Orderly SE,Munich District One,Adult
+14,3,164,21,50,Salami,Small,1,Waiter,Friday,12,Deliver Now Holding,Munich District One,Teenager
+1533,3,114,9,2,Salami,Large,2,Ingredients,Sunday,12,BestOrder Inc.,Munich District Four,Student
+418,3,96,46,8,Speciale,Large,2,Delivery Guy 2,Friday,15,Feedera SE,Munich District Three,Student
+1170,3,122,37,2,Salami,Large,1,Delivery Guy 1 ,Sunday,17,Orderly SE,Munich District One,Adult
+799,3,27,17,25,Salami,Small,1,Chef 1,Friday,18,Deliveruu Inc.,Munich District Three,Teenager
+1332,3,183,25,7,Funghi,Small,1,Waiter,Friday,18,Deliveruu Inc.,Munich District Two,Student
+1681,3,203,9,7,Funghi,Small,1,Delivery Guy 1 ,Saturday,12,BestOrder Inc.,Munich District One,Teenager
+914,3,167,5,60,Calzone,Small,1,Ingredients,Friday,14,Orderly SE,Munich District One,Student
+519,3,180,5,7,Funghi,Large,1,Chef 1,Friday,13,Deliver Now Holding,Munich District Five,Student
+1737,3,121,11,5,Speciale,Medium,1,Chef 1,Tuesday,19,BestOrder Inc.,Munich District One,Adult
+1336,3,43,36,8,Funghi,Large,0,Waiter,Sunday,12,Deliver Now Holding,Munich District Two,Student
+464,3,152,21,35,Salami,Small,1,Chef 2,Monday,21,Feedera SE,Munich District One,Teenager
+1618,3,219,11,16,Speciale,Medium,0,Chef 2,Saturday,12,Feedera SE,Munich District One,Student
+752,3,19,22,10,Salami,Medium,0,Phone Bill,Friday,12,Feedera SE,Munich District One,Teenager
+1649,3,139,16,10,Magherita,Small,3,Waiter,Friday,17,Orderly SE,Munich District One,Adult
+1497,3,56,6,8,Calzone,Small,0,Delivery Scooters ,Friday,21,Feedera SE,Munich District Two,Adult
+1493,3,84,5,1,Funghi,Medium,0,Chef 2,Sunday,18,Feedera SE,Munich District Three,Adult
+765,3,183,9,2,Magherita,Medium,4,Chef 1,Sunday,14,Deliveruu Inc.,Munich District Four,Student
+1564,3,202,8,22,Funghi,Medium,0,Chef 2,Friday,17,Deliver Now Holding,Munich District Three,Adult
+854,3,14,10,13,Salami,Medium,0,Chef 1,Saturday,21,Feedera SE,Munich District Four,Teenager
+1752,3,247,8,13,Funghi,Medium,5,Delivery Guy 2,Saturday,14,Feedera SE,Munich District One,Student
+257,3,87,6,2,Salami,Small,0,Chef 1,Saturday,20,Feedera SE,Munich District Two,Student
+1062,3,144,36,4,Calzone,Small,2,Waiter,Saturday,14,BestOrder Inc.,Munich District One,Student
+1625,3,117,10,5,Funghi,Large,3,Chef 1,Sunday,17,BestOrder Inc.,Munich District One,Student
+1998,3,48,29,56,Calzone,Medium,1,Delivery Guy 2,Sunday,18,BestOrder Inc.,Munich District One,Student
+1046,3,52,11,8,Calzone,Small,0,Ingredients,Friday,19,TownExpress Inc. ,Munich District Two,Student
+76,3,62,10,9,Salami,Large,2,Chef 2,Friday,12,Feedera SE,Munich District One,Student
+1139,3,207,17,10,Calzone,Small,0,Phone Bill,Sunday,12,Deliver Now Holding,Munich District Four,Adult
+238,3,73,19,10,Calzone,Large,0,Chef 1,Friday,17,Deliver Now Holding,Munich District One,Student
+1762,3,4,11,2,Funghi,Small,4,Waiter,Sunday,21,Deliver Now Holding,Munich District One,Student
+1480,3,208,23,39,Funghi,Medium,0,Ingredients,Saturday,11,BestOrder Inc.,Munich District Five,Senior
+939,3,207,6,22,Funghi,Large,2,Waiter,Tuesday,12,Feedera SE,Munich District One,Teenager
+1933,3,199,36,51,Funghi,Small,0,Chef 1,Wednesday,12,Feedera SE,Munich District Three,Student
+1540,3,163,22,16,Funghi,Medium,5,Chef 1,Sunday,13,Deliver Now Holding,Munich District One,Student
+391,3,235,29,11,Magherita,Medium,3,Chef 2,Friday,14,BestOrder Inc.,Munich District One,Adult
+63,3,274,37,39,Salami,Medium,0,Ingredients,Sunday,19,Feedera SE,Munich District One,Teenager
+414,3,164,36,37,Funghi,Large,1,Ingredients,Friday,12,BestOrder Inc.,Munich District Two,Adult
+1089,3,216,60,2,Salami,Large,3,Delivery Guy 1 ,Friday,12,Deliver Now Holding,Munich District Two,Student
+1137,3,27,18,2,Funghi,Small,5,Delivery Guy 1 ,Sunday,19,Feedera SE,Munich District One,Teenager
+1476,3,49,23,5,Salami,Small,0,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Senior
+598,3,200,35,2,Paprika,Large,0,Waiter,Saturday,13,BestOrder Inc.,Munich District One,Student
+1907,3,253,47,3,Magherita,Large,4,Delivery Guy 1 ,Sunday,18,Deliver Now Holding,Munich District Four,Student
+840,3,69,36,5,Funghi,Medium,1,Chef 2,Wednesday,13,Feedera SE,Munich District Five,Student
+716,3,183,8,11,Magherita,Large,4,Chef 1,Thursday,12,Feedera SE,Munich District One,Teenager
+303,3,126,36,8,Magherita,Small,1,Chef 2,Friday,12,BestOrder Inc.,Munich District Two,Student
+569,3,109,33,4,Salami,Large,0,Chef 2,Saturday,17,Deliveruu Inc.,Munich District One,Student
+953,3,201,10,3,Magherita,Medium,0,Delivery Guy 1 ,Sunday,18,Deliver Now Holding,Munich District One,Student
+502,3,210,10,2,Magherita,Small,2,Phone Bill,Saturday,12,Deliveruu Inc.,Munich District Five,Teenager
+1133,3,25,10,31,Magherita,Medium,4,Chef 2,Sunday,21,Feedera SE,Munich District Two,Student
+737,3,14,6,10,Paprika,Small,0,Chef 2,Sunday,19,BestOrder Inc.,Munich District Five,Student
+907,3,208,21,2,Salami,Medium,2,Chef 1,Friday,18,Feedera SE,Munich District One,Teenager
+833,3,85,52,11,Calzone,Small,1,Chef 2,Wednesday,21,Feedera SE,Munich District Two,Teenager
+748,3,293,13,13,Funghi,Medium,0,Delivery Scooters ,Thursday,12,Deliver Now Holding,Munich District Three,Adult
+1448,3,173,36,34,Magherita,Medium,0,Phone Bill,Wednesday,18,BestOrder Inc.,Munich District One,Student
+1094,3,111,21,11,Salami,Large,1,Delivery Scooters ,Sunday,13,Deliver Now Holding,Munich District One,Student
+968,3,104,33,8,Salami,Large,5,Ingredients,Friday,18,Deliver Now Holding,Munich District One,Student
+1893,3,73,43,47,Calzone,Small,0,Chef 2,Monday,14,BestOrder Inc.,Munich District Four,Adult
+533,3,79,6,5,Magherita,Small,4,Phone Bill,Saturday,13,TownExpress Inc. ,Munich District One,Teenager
+18,3,3,21,10,Salami,Small,0,Delivery Guy 2,Friday,12,Deliver Now Holding,Munich District Three,Student
+621,3,2,35,11,Funghi,Small,1,Ingredients,Friday,13,Deliver Now Holding,Munich District Five,Student
+767,3,137,5,5,Speciale,Medium,1,Delivery Scooters ,Monday,14,Deliveruu Inc.,Munich District Four,Adult
+442,3,20,11,7,Funghi,Large,2,Chef 1,Tuesday,13,Feedera SE,Munich District One,Teenager
+1996,3,23,11,4,Salami,Large,4,Waiter,Saturday,12,Deliveruu Inc.,Munich District Three,Teenager
+1959,3,249,11,12,Magherita,Small,2,Delivery Scooters ,Monday,12,Feedera SE,Munich District Four,Student
+26,3,238,28,50,Funghi,Small,2,Chef 1,Thursday,18,Heropizza Lmtd.,Munich District Three,Teenager
+1131,3,220,25,7,Paprika,Small,2,Ingredients,Thursday,12,Heropizza Lmtd.,Munich District Three,Student
+1513,3,220,49,7,Funghi,Small,0,Phone Bill,Friday,18,Deliver Now Holding,Munich District Four,Student
+1757,3,28,10,10,Magherita,Large,2,Chef 2,Sunday,18,BestOrder Inc.,Munich District Two,Adult
+1697,3,72,35,2,Magherita,Small,0,Chef 2,Saturday,21,Feedera SE,Munich District Three,Student
+52,3,297,17,10,Salami,Medium,0,Chef 1,Saturday,21,Deliver Now Holding,Munich District Five,Student
+1030,3,142,5,10,Paprika,Large,0,Ingredients,Wednesday,14,Feedera SE,Munich District Three,Student
+523,3,295,12,30,Funghi,Small,1,Delivery Scooters ,Sunday,13,Feedera SE,Munich District One,Student
+1372,3,159,18,8,Magherita,Medium,0,Delivery Guy 1 ,Sunday,14,BestOrder Inc.,Munich District Three,Adult
+1275,3,209,17,9,Magherita,Large,1,Chef 1,Sunday,12,Feedera SE,Munich District One,Student
+772,3,84,29,7,Magherita,Medium,0,Delivery Guy 2,Friday,10,TownExpress Inc. ,Munich District One,Student
+701,3,280,20,28,Paprika,Small,3,Chef 2,Friday,19,Deliver Now Holding,Munich District Three,Student
+768,3,217,36,16,Calzone,Large,0,Phone Bill,Wednesday,12,Deliveruu Inc.,Munich District One,Student
+545,3,232,9,7,Magherita,Medium,0,Phone Bill,Friday,19,Deliveruu Inc.,Munich District One,Teenager
+964,3,70,10,7,Magherita,Medium,2,Phone Bill,Friday,11,Orderly SE,Munich District Four,Student
+845,3,244,21,8,Salami,Large,2,Delivery Guy 2,Saturday,13,Deliver Now Holding,Munich District Three,Student
+1329,3,20,10,7,Salami,Small,2,Phone Bill,Sunday,12,Feedera SE,Munich District Two,Adult
+744,3,210,17,28,Salami,Medium,1,Chef 2,Sunday,14,BestOrder Inc.,Munich District Two,Teenager
+855,3,50,21,5,Salami,Small,1,Chef 2,Friday,11,Deliver Now Holding,Munich District Two,Student
+549,3,119,29,7,Salami,Medium,0,Chef 2,Saturday,19,Deliveruu Inc.,Munich District Four,Student
+1291,3,199,29,2,Magherita,Large,4,Delivery Guy 2,Sunday,20,Feedera SE,Munich District One,Student
+1813,3,281,5,3,Veggie,Small,0,Delivery Scooters ,Thursday,21,Deliveruu Inc.,Munich District One,Student
+1053,3,72,28,3,Salami,Medium,1,Chef 2,Friday,13,Feedera SE,Munich District Three,Student
+1584,3,215,5,25,Paprika,Small,1,Delivery Guy 2,Saturday,14,Deliver Now Holding,Munich District One,Student
+930,3,102,9,2,Funghi,Medium,0,Chef 2,Friday,18,BestOrder Inc.,Munich District Three,Student
+1504,3,232,12,35,Salami,Small,0,Ingredients,Sunday,12,Deliver Now Holding,Munich District Three,Teenager
+823,3,19,46,2,Salami,Medium,5,Waiter,Sunday,13,Feedera SE,Munich District Three,Adult
+784,3,269,21,11,Magherita,Large,2,Ingredients,Sunday,18,Deliver Now Holding,Munich District One,Student
+712,3,197,12,2,Salami,Small,0,Waiter,Thursday,13,BestOrder Inc.,Munich District Four,Teenager
+807,3,257,24,4,Veggie,Large,0,Chef 2,Wednesday,18,Deliver Now Holding,Munich District Two,Adult
+53,3,259,10,13,Funghi,Medium,0,Chef 2,Sunday,14,BestOrder Inc.,Munich District Two,Adult
+288,3,93,11,25,Salami,Large,0,Chef 2,Friday,21,Heropizza Lmtd.,Munich District One,Adult
+762,3,144,47,51,Calzone,Medium,2,Chef 1,Sunday,12,BestOrder Inc.,Munich District Two,Student
+1799,3,273,32,10,Salami,Small,3,Ingredients,Thursday,18,BestOrder Inc.,Munich District One,Student
+1487,3,24,10,9,Funghi,Medium,1,Ingredients,Friday,18,Orderly SE,Munich District One,Student
+1083,3,22,6,3,Paprika,Medium,2,Waiter,Saturday,14,Deliver Now Holding,Munich District One,Student
+22,3,222,11,20,Magherita,Small,1,Ingredients,Friday,17,Feedera SE,Munich District One,Student
+538,3,181,28,16,Speciale,Medium,0,Ingredients,Sunday,20,Feedera SE,Munich District One,Student
+991,3,181,10,4,Calzone,Large,0,Delivery Scooters ,Sunday,18,Feedera SE,Munich District One,Teenager
+1019,3,241,5,11,Salami,Medium,3,Delivery Scooters ,Friday,18,BestOrder Inc.,Munich District Five,Student
+406,3,215,32,3,Salami,Medium,0,Phone Bill,Sunday,19,BestOrder Inc.,Munich District One,Student
+41,3,208,36,5,Magherita,Small,2,Delivery Scooters ,Friday,18,Deliver Now Holding,Munich District One,Student
+1748,3,77,29,38,Salami,Small,0,Chef 1,Sunday,19,Feedera SE,Munich District Two,Senior
+595,3,128,29,7,Funghi,Medium,1,Phone Bill,Sunday,16,BestOrder Inc.,Munich District Two,Student
+647,3,35,10,1,Funghi,Medium,5,Delivery Scooters ,Friday,21,Feedera SE,Munich District One,Student
+1520,3,67,10,10,Salami,Medium,1,Chef 2,Saturday,17,Deliveruu Inc.,Munich District One,Adult
+1969,3,87,60,16,Speciale,Small,0,Ingredients,Sunday,12,TownExpress Inc. ,Munich District Three,Student
+1729,3,234,17,50,Salami,Small,4,Chef 2,Sunday,12,Orderly SE,Munich District Three,Student
+1501,3,292,10,29,Magherita,Small,1,Chef 2,Saturday,12,TownExpress Inc. ,Munich District Four,Student
+195,3,239,15,16,Funghi,Small,1,Ingredients,Sunday,12,BestOrder Inc.,Munich District Four,Student
+1153,3,270,8,5,Paprika,Large,0,Chef 1,Friday,12,BestOrder Inc.,Munich District One,Student
+510,3,42,8,9,Salami,Medium,1,Chef 1,Friday,18,Orderly SE,Munich District One,Adult
+582,3,53,34,5,Veggie,Medium,0,Phone Bill,Saturday,20,Deliver Now Holding,Munich District One,Adult
+1027,3,63,36,7,Salami,Small,0,Delivery Guy 1 ,Wednesday,10,BestOrder Inc.,Munich District One,Student
+111,3,245,11,5,Speciale,Large,0,Chef 1,Friday,11,Feedera SE,Munich District One,Adult
+160,3,260,36,2,Calzone,Large,1,Ingredients,Saturday,12,TownExpress Inc. ,Munich District One,Student
+1833,3,50,54,10,Funghi,Large,0,Ingredients,Saturday,18,Deliveruu Inc.,Munich District One,Student
+1456,3,5,29,12,Salami,Small,2,Ingredients,Friday,13,Orderly SE,Munich District Five,Teenager
+174,3,157,5,50,Funghi,Large,1,Delivery Scooters ,Friday,19,BestOrder Inc.,Munich District One,Student
+1201,3,293,28,7,Paprika,Small,1,Delivery Guy 2,Tuesday,14,Feedera SE,Munich District Five,Student
+1097,3,268,54,7,Speciale,Small,1,Delivery Scooters ,Thursday,12,TownExpress Inc. ,Munich District Two,Student
+1059,3,92,9,11,Salami,Small,2,Chef 1,Saturday,12,Feedera SE,Munich District One,Student
+1768,3,93,9,15,Calzone,Small,2,Chef 2,Saturday,13,Deliver Now Holding,Munich District One,Student
+1585,3,215,9,7,Salami,Large,0,Delivery Guy 1 ,Friday,11,Deliver Now Holding,Munich District Three,Student
+282,3,30,43,46,Funghi,Small,1,Phone Bill,Saturday,14,Deliver Now Holding,Munich District One,Student
+377,3,126,56,10,Funghi,Small,1,Delivery Guy 2,Friday,12,BestOrder Inc.,Munich District Two,Teenager
+1984,3,128,37,11,Salami,Medium,1,Ingredients,Wednesday,19,Orderly SE,Munich District One,Senior
+1037,3,38,28,16,Salami,Large,2,Phone Bill,Sunday,18,Feedera SE,Munich District Two,Adult
+405,3,222,10,7,Paprika,Large,0,Chef 1,Friday,18,Deliver Now Holding,Munich District Two,Student
+254,3,45,17,4,Funghi,Small,1,Ingredients,Tuesday,19,Feedera SE,Munich District One,Senior
+1243,3,219,22,33,Paprika,Large,4,Delivery Guy 1 ,Friday,18,BestOrder Inc.,Munich District One,Student
+457,3,227,39,44,Salami,Medium,4,Chef 2,Sunday,19,TownExpress Inc. ,Munich District One,Adult
+1877,3,127,30,2,Calzone,Large,5,Delivery Scooters ,Wednesday,11,Feedera SE,Munich District One,Adult
+364,3,232,21,1,Salami,Medium,5,Waiter,Friday,14,Orderly SE,Munich District One,Student
+736,3,196,6,10,Funghi,Large,4,Ingredients,Friday,19,Feedera SE,Munich District Three,Student
+1300,3,49,43,5,Funghi,Medium,1,Ingredients,Monday,18,BestOrder Inc.,Munich District One,Student
+786,3,274,19,8,Funghi,Medium,0,Delivery Scooters ,Wednesday,12,Orderly SE,Munich District Two,Teenager
+1296,3,126,35,13,Salami,Small,1,Chef 2,Thursday,18,Deliver Now Holding,Munich District Three,Student
+211,3,292,28,11,Calzone,Large,0,Delivery Guy 1 ,Thursday,12,BestOrder Inc.,Munich District Four,Student
+1222,3,97,21,7,Funghi,Small,0,Delivery Scooters ,Sunday,18,Orderly SE,Munich District One,Student
+1961,3,160,29,10,Magherita,Medium,1,Delivery Guy 1 ,Sunday,20,Orderly SE,Munich District One,Teenager
+1234,3,204,32,29,Salami,Small,1,Delivery Guy 1 ,Wednesday,12,BestOrder Inc.,Munich District Two,Student
+1761,3,18,49,16,Funghi,Small,5,Chef 1,Sunday,19,Feedera SE,Munich District Three,Student
+1631,3,53,31,9,Funghi,Medium,1,Delivery Guy 2,Saturday,13,Feedera SE,Munich District One,Teenager
+1093,3,222,49,17,Salami,Large,4,Chef 2,Saturday,13,TownExpress Inc. ,Munich District One,Student
+1095,3,274,33,11,Salami,Medium,0,Chef 1,Friday,14,BestOrder Inc.,Munich District One,Teenager
+1642,3,74,21,9,Salami,Medium,3,Chef 2,Sunday,17,Deliver Now Holding,Munich District One,Student
+865,3,243,4,31,Funghi,Large,0,Delivery Guy 2,Friday,21,Deliver Now Holding,Munich District Four,Senior
+960,3,186,25,38,Magherita,Medium,2,Waiter,Saturday,13,Feedera SE,Munich District Three,Student
+1441,3,233,47,43,Veggie,Small,0,Waiter,Friday,18,Feedera SE,Munich District Three,Student
+586,3,130,39,11,Magherita,Small,3,Delivery Guy 2,Tuesday,13,Feedera SE,Munich District One,Student
+1040,3,164,10,30,Calzone,Small,0,Chef 1,Sunday,18,Feedera SE,Munich District Four,Student
+1831,3,208,46,8,Salami,Medium,0,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Student
+555,3,164,10,10,Speciale,Large,5,Phone Bill,Monday,11,Feedera SE,Munich District Three,Senior
+1539,3,242,29,9,Funghi,Large,1,Chef 1,Sunday,15,Deliveruu Inc.,Munich District One,Student
+1211,3,254,21,46,Veggie,Large,0,Waiter,Wednesday,21,Deliver Now Holding,Munich District Five,Senior
+1733,3,105,21,30,Salami,Medium,3,Delivery Guy 1 ,Sunday,13,Deliver Now Holding,Munich District One,Teenager
+1248,3,280,16,8,Calzone,Small,0,Chef 2,Sunday,18,BestOrder Inc.,Munich District One,Adult
+1207,3,158,21,2,Salami,Large,2,Delivery Scooters ,Sunday,10,Heropizza Lmtd.,Munich District Three,Student
+184,3,4,38,39,Funghi,Medium,2,Phone Bill,Saturday,18,Feedera SE,Munich District Two,Student
+1897,3,183,10,43,Funghi,Small,1,Chef 2,Saturday,18,Feedera SE,Munich District Two,Student
+813,3,224,10,11,Calzone,Small,1,Delivery Scooters ,Sunday,20,TownExpress Inc. ,Munich District One,Senior
+1855,3,193,36,47,Salami,Small,0,Waiter,Friday,13,Deliver Now Holding,Munich District One,Teenager
+164,3,152,32,12,Salami,Large,0,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Student
+1692,4,112,9,15,Speciale,Large,0,Waiter,Saturday,11,Deliver Now Holding,Munich District One,Student
+1274,4,74,29,2,Salami,Large,1,Chef 1,Saturday,13,Feedera SE,Munich District One,Adult
+1552,4,261,33,16,Funghi,Medium,2,Delivery Scooters ,Saturday,13,TownExpress Inc. ,Munich District One,Teenager
+1866,4,152,54,47,Funghi,Large,0,Chef 1,Sunday,13,Orderly SE,Munich District One,Senior
+1056,4,71,9,10,Speciale,Small,0,Chef 2,Friday,18,Deliveruu Inc.,Munich District One,Student
+139,4,123,18,11,Magherita,Medium,0,Waiter,Friday,18,Feedera SE,Munich District One,Adult
+1917,4,15,36,44,Magherita,Small,2,Chef 2,Friday,18,Feedera SE,Munich District One,Adult
+1417,4,274,29,2,Magherita,Small,0,Delivery Scooters ,Wednesday,18,BestOrder Inc.,Munich District One,Student
+1796,4,84,21,8,Speciale,Small,2,Delivery Guy 2,Friday,13,Deliver Now Holding,Munich District One,Teenager
+463,4,130,60,9,Salami,Large,1,Ingredients,Friday,12,Feedera SE,Munich District Two,Student
+1974,4,206,34,10,Funghi,Large,0,Chef 2,Saturday,18,Heropizza Lmtd.,Munich District Two,Student
+1972,4,203,8,16,Funghi,Small,1,Chef 1,Saturday,12,Feedera SE,Munich District Two,Senior
+1390,4,181,36,7,Funghi,Large,1,Chef 2,Sunday,18,Deliver Now Holding,Munich District Five,Student
+1315,4,11,28,16,Funghi,Medium,0,Ingredients,Sunday,14,Feedera SE,Munich District Two,Student
+1510,4,191,15,2,Speciale,Small,0,Ingredients,Sunday,18,Feedera SE,Munich District One,Student
+869,4,154,50,5,Funghi,Large,3,Chef 1,Wednesday,14,Feedera SE,Munich District Three,Student
+484,4,250,52,5,Funghi,Large,2,Delivery Scooters ,Saturday,12,Deliver Now Holding,Munich District Two,Student
+1189,4,124,56,7,Funghi,Large,0,Waiter,Saturday,12,Deliveruu Inc.,Munich District Three,Student
+1684,4,74,43,13,Calzone,Medium,0,Chef 2,Friday,19,Deliver Now Holding,Munich District One,Adult
+1717,4,171,21,1,Magherita,Small,2,Chef 1,Sunday,17,Deliver Now Holding,Munich District One,Student
+1507,4,263,46,10,Funghi,Small,2,Phone Bill,Saturday,12,Deliver Now Holding,Munich District Three,Student
+410,4,156,22,1,Funghi,Small,2,Waiter,Sunday,12,BestOrder Inc.,Munich District One,Student
+1445,4,255,6,2,Veggie,Large,2,Delivery Guy 1 ,Wednesday,18,Feedera SE,Munich District One,Teenager
+1824,4,38,35,5,Magherita,Small,2,Ingredients,Friday,19,BestOrder Inc.,Munich District Four,Teenager
+307,4,20,29,9,Funghi,Large,0,Chef 2,Friday,21,Feedera SE,Munich District Two,Student
+721,4,44,5,37,Salami,Large,1,Ingredients,Tuesday,14,Feedera SE,Munich District One,Student
+389,4,38,24,16,Funghi,Large,1,Chef 1,Thursday,19,Feedera SE,Munich District Five,Teenager
+1227,4,78,36,11,Calzone,Small,0,Delivery Scooters ,Friday,18,Deliveruu Inc.,Munich District One,Teenager
+1670,4,262,5,44,Funghi,Medium,3,Phone Bill,Friday,18,TownExpress Inc. ,Munich District Three,Student
+1872,4,285,30,3,Calzone,Small,0,Chef 1,Sunday,12,Feedera SE,Munich District One,Student
+1652,4,222,47,5,Veggie,Small,0,Delivery Guy 1 ,Saturday,20,Feedera SE,Munich District Three,Student
+1921,4,116,10,1,Calzone,Small,1,Delivery Guy 2,Tuesday,18,BestOrder Inc.,Munich District One,Student
+1159,4,178,17,3,Funghi,Medium,0,Phone Bill,Friday,12,Orderly SE,Munich District One,Student
+416,4,134,36,10,Calzone,Small,2,Waiter,Wednesday,18,Deliveruu Inc.,Munich District Two,Student
+1577,4,248,11,3,Salami,Medium,0,Ingredients,Saturday,18,Feedera SE,Munich District One,Adult
+1433,4,194,6,5,Salami,Medium,1,Delivery Scooters ,Friday,12,Deliveruu Inc.,Munich District One,Adult
+7,4,97,50,7,Speciale,Medium,0,Ingredients,Friday,16,Feedera SE,Munich District Five,Student
+542,4,131,47,43,Funghi,Small,2,Waiter,Sunday,12,Feedera SE,Munich District Three,Student
+550,4,2,50,2,Salami,Small,1,Phone Bill,Friday,19,BestOrder Inc.,Munich District Five,Student
+1953,4,235,18,16,Magherita,Small,2,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District Four,Student
+627,4,157,6,10,Magherita,Small,3,Distribution channel fees,Saturday,13,Feedera SE,Munich District Three,Student
+1616,4,158,39,11,Magherita,Large,1,Ingredients,Sunday,14,Deliver Now Holding,Munich District One,Adult
+344,4,148,10,2,Magherita,Large,0,Delivery Scooters ,Sunday,12,Deliver Now Holding,Munich District Five,Student
+977,4,118,10,13,Magherita,Large,2,Chef 1,Friday,20,BestOrder Inc.,Munich District One,Teenager
+858,4,166,38,7,Funghi,Small,3,Waiter,Saturday,18,BestOrder Inc.,Munich District One,Senior
+75,4,167,35,7,Calzone,Large,1,Chef 2,Friday,13,BestOrder Inc.,Munich District Two,Student
+58,4,13,10,56,Magherita,Small,0,Delivery Scooters ,Friday,14,Feedera SE,Munich District One,Student
+843,4,204,43,3,Speciale,Medium,2,Chef 1,Friday,20,Deliver Now Holding,Munich District Two,Adult
+699,4,253,50,32,Salami,Small,0,Delivery Guy 1 ,Friday,12,BestOrder Inc.,Munich District Two,Teenager
+634,4,36,36,38,Salami,Small,0,Ingredients,Sunday,20,Deliveruu Inc.,Munich District One,Student
+1621,4,139,36,17,Funghi,Large,0,Waiter,Sunday,13,Feedera SE,Munich District Two,Student
+194,4,173,8,9,Magherita,Medium,1,Waiter,Saturday,12,BestOrder Inc.,Munich District Two,Student
+1769,4,212,51,11,Funghi,Small,0,Ingredients,Friday,18,Feedera SE,Munich District One,Student
+1995,4,43,49,3,Magherita,Small,1,Ingredients,Saturday,11,Deliveruu Inc.,Munich District Four,Student
+97,4,148,52,7,Salami,Small,0,Waiter,Wednesday,12,BestOrder Inc.,Munich District Four,Teenager
+337,4,291,37,1,Speciale,Small,2,Chef 2,Saturday,13,Orderly SE,Munich District One,Student
+614,4,245,29,13,Salami,Large,1,Waiter,Wednesday,18,Heropizza Lmtd.,Munich District One,Student
+1672,4,64,23,8,Veggie,Large,1,Waiter,Tuesday,18,Feedera SE,Munich District Two,Adult
+1469,4,268,50,1,Veggie,Small,0,Chef 2,Friday,15,BestOrder Inc.,Munich District Five,Senior
+175,4,160,36,10,Veggie,Small,0,Delivery Guy 2,Saturday,17,BestOrder Inc.,Munich District One,Student
+486,4,182,9,60,Salami,Medium,2,Delivery Guy 2,Sunday,13,Deliver Now Holding,Munich District Three,Student
+1834,4,230,56,28,Speciale,Large,0,Delivery Guy 1 ,Tuesday,13,Feedera SE,Munich District One,Student
+1551,4,153,21,9,Calzone,Medium,1,Delivery Scooters ,Friday,11,Deliver Now Holding,Munich District One,Student
+1739,4,202,11,8,Magherita,Small,1,Chef 2,Saturday,18,BestOrder Inc.,Munich District Four,Student
+1078,4,297,10,3,Magherita,Small,0,Ingredients,Wednesday,11,Deliveruu Inc.,Munich District Two,Senior
+306,4,189,10,7,Funghi,Medium,0,Ingredients,Saturday,17,Deliver Now Holding,Munich District Two,Teenager
+346,4,93,52,11,Funghi,Small,0,Chef 2,Sunday,19,BestOrder Inc.,Munich District Three,Student
+221,4,285,10,11,Funghi,Large,3,Phone Bill,Saturday,14,Deliveruu Inc.,Munich District Three,Student
+619,4,182,10,56,Magherita,Small,1,Chef 2,Saturday,18,Deliveruu Inc.,Munich District One,Student
+1673,4,35,5,11,Speciale,Large,1,Chef 2,Saturday,18,Deliver Now Holding,Munich District One,Student
+803,4,34,36,10,Magherita,Large,0,Delivery Scooters ,Friday,12,Deliveruu Inc.,Munich District Three,Student
+1782,4,230,8,16,Salami,Small,0,Phone Bill,Monday,12,Orderly SE,Munich District One,Student
+1400,4,204,6,32,Magherita,Small,0,Delivery Guy 2,Monday,21,BestOrder Inc.,Munich District One,Teenager
+1482,4,57,5,7,Veggie,Small,1,Chef 2,Thursday,13,Deliver Now Holding,Munich District Four,Teenager
+321,4,294,21,51,Speciale,Small,1,Delivery Scooters ,Saturday,18,BestOrder Inc.,Munich District Three,Student
+1036,4,70,10,4,Funghi,Medium,1,Delivery Guy 2,Saturday,11,Deliver Now Holding,Munich District One,Student
+1895,4,226,55,5,Magherita,Small,2,Waiter,Wednesday,11,Feedera SE,Munich District One,Teenager
+624,4,195,36,4,Salami,Large,0,Chef 1,Friday,18,Deliveruu Inc.,Munich District Three,Adult
+802,4,126,16,35,Salami,Small,2,Delivery Guy 2,Wednesday,18,Deliveruu Inc.,Munich District Five,Adult
+1795,4,11,25,25,Magherita,Medium,1,Chef 1,Sunday,13,Deliveruu Inc.,Munich District Four,Teenager
+67,4,102,8,29,Funghi,Small,2,Delivery Guy 2,Sunday,19,BestOrder Inc.,Munich District Four,Teenager
+1055,4,122,21,11,Funghi,Small,2,Delivery Scooters ,Friday,19,Feedera SE,Munich District One,Adult
+1566,4,91,54,5,Salami,Small,3,Distribution channel fees,Saturday,19,Deliver Now Holding,Munich District One,Student
+454,4,134,10,7,Funghi,Large,0,Chef 2,Wednesday,14,Feedera SE,Munich District Three,Student
+360,4,183,19,13,Salami,Small,1,Waiter,Friday,18,Feedera SE,Munich District Two,Student
+125,4,104,21,15,Veggie,Large,3,Waiter,Sunday,13,Deliver Now Holding,Munich District One,Adult
+413,4,145,11,2,Magherita,Large,0,Delivery Scooters ,Friday,10,Orderly SE,Munich District One,Teenager
+473,4,53,23,2,Calzone,Large,0,Chef 1,Sunday,17,BestOrder Inc.,Munich District Two,Student
+304,4,85,4,2,Veggie,Small,1,Delivery Guy 2,Friday,20,BestOrder Inc.,Munich District Four,Student
+734,4,278,10,8,Funghi,Large,2,Chef 2,Friday,11,BestOrder Inc.,Munich District Three,Senior
+1018,4,164,15,10,Salami,Large,2,Chef 1,Friday,20,BestOrder Inc.,Munich District Five,Teenager
+1132,4,186,38,7,Salami,Medium,2,Delivery Guy 1 ,Saturday,13,Deliver Now Holding,Munich District Three,Student
+214,4,148,51,10,Speciale,Large,0,Chef 1,Saturday,18,Deliver Now Holding,Munich District Two,Student
+256,4,28,29,34,Speciale,Small,1,Ingredients,Saturday,19,BestOrder Inc.,Munich District Four,Teenager
+811,4,19,50,5,Speciale,Small,2,Delivery Guy 2,Sunday,12,BestOrder Inc.,Munich District Four,Teenager
+1145,4,62,10,10,Magherita,Large,0,Phone Bill,Sunday,12,Deliver Now Holding,Munich District Three,Student
+1233,4,174,9,37,Speciale,Small,0,Phone Bill,Saturday,20,Heropizza Lmtd.,Munich District Four,Adult
+72,4,214,21,9,Calzone,Small,0,Phone Bill,Friday,15,Deliver Now Holding,Munich District Three,Teenager
+1990,4,97,5,56,Speciale,Small,1,Delivery Guy 2,Thursday,19,Feedera SE,Munich District Three,Student
+1979,4,105,21,2,Funghi,Small,0,Ingredients,Saturday,18,Deliveruu Inc.,Munich District Two,Student
+1743,4,98,29,16,Magherita,Large,2,Ingredients,Wednesday,15,Deliver Now Holding,Munich District Three,Adult
+692,4,186,10,13,Salami,Small,2,Ingredients,Sunday,13,Deliver Now Holding,Munich District One,Adult
+1707,4,294,23,35,Magherita,Small,2,Chef 1,Sunday,15,Deliveruu Inc.,Munich District One,Student
+1790,4,206,10,28,Paprika,Medium,2,Delivery Guy 2,Friday,19,Deliver Now Holding,Munich District Two,Student
+159,4,43,23,33,Salami,Medium,1,Chef 2,Wednesday,10,BestOrder Inc.,Munich District Two,Teenager
+19,4,128,20,13,Salami,Small,0,Chef 2,Saturday,14,Heropizza Lmtd.,Munich District Two,Adult
+461,4,230,21,23,Funghi,Small,1,Phone Bill,Thursday,18,Feedera SE,Munich District Four,Adult
+1359,4,288,11,7,Funghi,Large,0,Chef 2,Saturday,19,Feedera SE,Munich District One,Student
+1357,4,240,17,23,Speciale,Medium,2,Chef 1,Wednesday,19,Heropizza Lmtd.,Munich District Four,Student
+1475,4,283,29,11,Salami,Medium,2,Delivery Guy 2,Wednesday,12,BestOrder Inc.,Munich District Four,Teenager
+1214,4,118,5,7,Speciale,Small,1,Chef 1,Friday,12,BestOrder Inc.,Munich District Four,Senior
+507,4,190,36,11,Salami,Small,1,Phone Bill,Sunday,16,BestOrder Inc.,Munich District One,Student
+1068,4,300,47,10,Magherita,Small,1,Chef 1,Saturday,12,Deliver Now Holding,Munich District One,Student
+1135,4,234,5,16,Speciale,Small,0,Delivery Guy 2,Friday,12,Feedera SE,Munich District Three,Teenager
+922,4,32,30,15,Calzone,Large,1,Ingredients,Friday,19,BestOrder Inc.,Munich District Three,Student
+902,4,244,23,11,Funghi,Large,1,Delivery Scooters ,Friday,16,Feedera SE,Munich District Three,Student
+1366,4,101,44,10,Magherita,Small,1,Phone Bill,Saturday,16,BestOrder Inc.,Munich District Four,Student
+603,4,113,39,37,Veggie,Small,2,Chef 1,Friday,14,TownExpress Inc. ,Munich District Two,Student
+92,4,273,29,46,Funghi,Small,1,Phone Bill,Wednesday,15,BestOrder Inc.,Munich District One,Student
+694,4,28,5,39,Magherita,Medium,2,Chef 2,Friday,19,BestOrder Inc.,Munich District Four,Teenager
+1840,4,114,29,2,Salami,Small,2,Chef 2,Friday,18,Feedera SE,Munich District Five,Senior
+177,4,225,36,20,Magherita,Medium,0,Delivery Scooters ,Sunday,11,Feedera SE,Munich District One,Teenager
+381,4,41,36,46,Salami,Large,1,Ingredients,Sunday,21,TownExpress Inc. ,Munich District One,Student
+284,4,58,8,2,Magherita,Large,1,Phone Bill,Friday,12,BestOrder Inc.,Munich District One,Teenager
+596,4,9,8,5,Calzone,Small,0,Ingredients,Wednesday,12,Orderly SE,Munich District Two,Teenager
+1898,4,296,6,9,Salami,Small,0,Distribution channel fees,Friday,11,BestOrder Inc.,Munich District Four,Student
+1597,4,222,6,50,Salami,Large,1,Ingredients,Friday,12,Heropizza Lmtd.,Munich District Two,Student
+1109,4,126,25,10,Salami,Small,0,Phone Bill,Wednesday,19,BestOrder Inc.,Munich District Four,Student
+1363,4,221,29,5,Salami,Large,2,Delivery Scooters ,Wednesday,18,Feedera SE,Munich District One,Student
+1514,4,29,47,25,Magherita,Small,0,Ingredients,Saturday,18,TownExpress Inc. ,Munich District One,Student
+633,4,256,36,47,Paprika,Large,0,Waiter,Sunday,18,Deliver Now Holding,Munich District Three,Student
+1379,4,101,30,11,Magherita,Small,1,Waiter,Wednesday,18,BestOrder Inc.,Munich District One,Student
+643,4,41,10,39,Salami,Large,2,Waiter,Sunday,14,Feedera SE,Munich District Five,Adult
+313,4,237,29,16,Salami,Large,0,Ingredients,Sunday,18,Feedera SE,Munich District One,Student
+1785,4,265,5,5,Salami,Large,2,Ingredients,Friday,18,BestOrder Inc.,Munich District One,Teenager
+1773,4,94,38,31,Salami,Medium,2,Chef 2,Wednesday,18,Heropizza Lmtd.,Munich District One,Senior
+720,4,295,6,11,Calzone,Large,2,Waiter,Thursday,19,Deliver Now Holding,Munich District One,Senior
+509,4,129,29,16,Salami,Small,2,Waiter,Friday,18,Feedera SE,Munich District One,Teenager
+992,4,179,56,2,Magherita,Large,2,Phone Bill,Saturday,19,Orderly SE,Munich District One,Adult
+1573,4,282,49,22,Magherita,Small,2,Chef 2,Saturday,17,TownExpress Inc. ,Munich District One,Student
+1402,4,46,36,35,Magherita,Large,3,Ingredients,Saturday,18,BestOrder Inc.,Munich District One,Senior
+373,4,139,8,20,Magherita,Medium,0,Delivery Guy 2,Friday,13,Feedera SE,Munich District Five,Teenager
+193,4,194,5,2,Magherita,Large,2,Chef 2,Wednesday,12,Deliver Now Holding,Munich District Three,Adult
+1316,4,236,21,5,Salami,Small,1,Chef 2,Sunday,12,Deliver Now Holding,Munich District One,Adult
+877,4,242,39,11,Speciale,Large,1,Chef 2,Wednesday,12,Deliver Now Holding,Munich District One,Student
+1020,4,69,53,47,Calzone,Large,1,Chef 2,Saturday,19,Feedera SE,Munich District One,Student
+444,4,42,36,9,Funghi,Small,2,Ingredients,Saturday,18,Heropizza Lmtd.,Munich District One,Teenager
+1978,4,256,13,37,Veggie,Medium,2,Waiter,Saturday,13,Feedera SE,Munich District Three,Student
+821,4,99,21,32,Salami,Large,2,Chef 1,Friday,12,BestOrder Inc.,Munich District One,Student
+1623,4,111,19,10,Salami,Small,0,Delivery Guy 2,Saturday,13,Feedera SE,Munich District Two,Student
+1889,4,238,5,16,Funghi,Large,2,Phone Bill,Saturday,17,BestOrder Inc.,Munich District One,Student
+140,4,103,10,8,Magherita,Small,2,Chef 1,Sunday,13,Deliver Now Holding,Munich District Five,Student
+1344,4,190,10,32,Salami,Medium,0,Chef 1,Friday,18,Deliver Now Holding,Munich District One,Student
+1706,4,106,9,5,Funghi,Small,2,Ingredients,Sunday,12,Deliver Now Holding,Munich District Three,Student
+1948,4,167,36,7,Magherita,Large,2,Chef 2,Friday,19,Feedera SE,Munich District One,Student
+207,4,107,11,2,Salami,Small,0,Distribution channel fees,Saturday,14,BestOrder Inc.,Munich District One,Adult
+1548,4,47,31,29,Paprika,Small,2,Delivery Scooters ,Thursday,18,Orderly SE,Munich District Three,Student
+1874,4,125,56,3,Salami,Small,2,Waiter,Friday,13,Feedera SE,Munich District One,Student
+1847,4,271,38,56,Salami,Medium,0,Chef 1,Friday,13,BestOrder Inc.,Munich District One,Teenager
+1428,4,297,36,16,Salami,Large,0,Delivery Guy 2,Wednesday,19,BestOrder Inc.,Munich District Two,Student
+884,4,288,5,10,Calzone,Medium,2,Chef 1,Sunday,12,Deliver Now Holding,Munich District One,Adult
+878,4,17,53,56,Speciale,Small,0,Delivery Scooters ,Thursday,12,Deliver Now Holding,Munich District Two,Student
+1016,4,278,5,12,Veggie,Large,0,Ingredients,Sunday,13,Deliver Now Holding,Munich District One,Adult
+1746,4,296,11,35,Magherita,Large,1,Chef 1,Saturday,12,Feedera SE,Munich District One,Teenager
+1992,4,251,5,5,Salami,Large,0,Chef 2,Wednesday,21,Deliver Now Holding,Munich District Three,Adult
+1495,4,3,11,8,Funghi,Medium,0,Ingredients,Sunday,18,Orderly SE,Munich District One,Senior
+64,4,141,35,7,Magherita,Small,2,Delivery Scooters ,Friday,13,BestOrder Inc.,Munich District Five,Student
+534,4,107,9,13,Calzone,Small,0,Delivery Scooters ,Saturday,14,Feedera SE,Munich District One,Student
+273,4,111,4,34,Salami,Small,0,Phone Bill,Friday,20,Deliver Now Holding,Munich District Three,Student
+949,4,243,17,17,Speciale,Medium,2,Chef 1,Sunday,14,TownExpress Inc. ,Munich District One,Student
+1452,4,249,30,8,Funghi,Medium,2,Chef 2,Saturday,18,Deliver Now Holding,Munich District Five,Student
+1281,4,19,60,7,Funghi,Small,1,Chef 2,Wednesday,12,BestOrder Inc.,Munich District Three,Student
+1331,4,194,56,2,Speciale,Small,0,Chef 2,Friday,19,Heropizza Lmtd.,Munich District Three,Adult
+165,4,66,11,8,Calzone,Large,1,Waiter,Saturday,19,Feedera SE,Munich District One,Teenager
+708,4,180,36,13,Magherita,Large,1,Chef 2,Saturday,13,Feedera SE,Munich District Two,Senior
+1848,4,217,44,10,Funghi,Large,2,Waiter,Friday,12,Deliver Now Holding,Munich District Four,Teenager
+808,4,107,9,13,Salami,Small,0,Waiter,Friday,13,Feedera SE,Munich District Five,Teenager
+935,4,107,5,7,Salami,Large,1,Chef 1,Sunday,19,BestOrder Inc.,Munich District Three,Adult
+1144,4,140,8,11,Calzone,Medium,1,Chef 2,Monday,18,Feedera SE,Munich District One,Teenager
+101,4,187,50,2,Funghi,Small,2,Delivery Scooters ,Friday,12,Deliver Now Holding,Munich District One,Student
+1,4,17,10,47,Salami,Small,2,Chef 1,Sunday,21,Deliver Now Holding,Munich District One,Teenager
+874,4,108,21,9,Salami,Medium,2,Chef 1,Sunday,12,Deliver Now Holding,Munich District One,Senior
+921,4,15,36,29,Calzone,Large,3,Ingredients,Sunday,18,Deliver Now Holding,Munich District One,Teenager
+983,4,262,8,11,Funghi,Large,2,Ingredients,Friday,12,Deliver Now Holding,Munich District Three,Student
+1943,4,156,6,10,Salami,Small,3,Waiter,Sunday,14,Deliver Now Holding,Munich District Four,Student
+1887,4,24,36,4,Speciale,Large,1,Chef 1,Sunday,11,Deliver Now Holding,Munich District One,Student
+976,4,207,9,34,Salami,Medium,0,Chef 2,Friday,13,TownExpress Inc. ,Munich District Two,Student
+1431,4,161,16,3,Funghi,Small,2,Phone Bill,Saturday,19,Deliver Now Holding,Munich District One,Student
+817,4,5,36,15,Calzone,Small,3,Waiter,Friday,14,Feedera SE,Munich District Three,Student
+1263,4,15,29,15,Funghi,Large,2,Phone Bill,Thursday,12,Deliver Now Holding,Munich District Four,Student
+894,4,11,32,9,Funghi,Medium,2,Phone Bill,Thursday,19,BestOrder Inc.,Munich District Two,Student
+1810,4,239,12,7,Veggie,Small,1,Ingredients,Sunday,15,Feedera SE,Munich District One,Adult
+703,4,51,46,9,Speciale,Large,0,Ingredients,Friday,12,BestOrder Inc.,Munich District Five,Student
+1240,4,128,44,47,Magherita,Medium,0,Phone Bill,Friday,12,BestOrder Inc.,Munich District Two,Student
+866,4,216,29,3,Veggie,Medium,1,Delivery Scooters ,Friday,21,Feedera SE,Munich District One,Student
+642,4,73,49,39,Magherita,Small,1,Delivery Scooters ,Sunday,17,BestOrder Inc.,Munich District Four,Student
+1528,4,291,16,8,Funghi,Small,1,Delivery Guy 2,Monday,13,Deliver Now Holding,Munich District Two,Teenager
+1111,4,108,13,5,Magherita,Small,1,Waiter,Sunday,13,Deliver Now Holding,Munich District Three,Student
+328,4,98,36,9,Magherita,Large,0,Ingredients,Friday,19,Feedera SE,Munich District Three,Teenager
+1141,4,129,29,29,Funghi,Medium,2,Chef 2,Thursday,12,Deliver Now Holding,Munich District One,Teenager
+632,4,145,11,60,Salami,Medium,1,Phone Bill,Friday,18,BestOrder Inc.,Munich District One,Student
+248,4,198,34,2,Magherita,Small,0,Phone Bill,Friday,18,Feedera SE,Munich District Four,Student
+1867,4,15,12,8,Funghi,Small,1,Delivery Scooters ,Saturday,19,BestOrder Inc.,Munich District Four,Teenager
+80,4,131,46,10,Calzone,Large,1,Delivery Scooters ,Friday,19,BestOrder Inc.,Munich District Three,Senior
+108,4,121,8,2,Speciale,Large,0,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Student
+1929,4,224,39,10,Salami,Small,2,Ingredients,Wednesday,11,Feedera SE,Munich District Two,Teenager
+560,4,96,21,1,Funghi,Small,1,Phone Bill,Saturday,12,Feedera SE,Munich District Two,Student
+35,4,30,8,43,Magherita,Medium,1,Delivery Guy 2,Saturday,14,Deliver Now Holding,Munich District One,Student
+1319,4,168,15,38,Salami,Small,2,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Student
+1235,4,27,32,44,Salami,Small,3,Waiter,Wednesday,21,Feedera SE,Munich District One,Adult
+172,4,274,9,49,Magherita,Small,2,Chef 2,Sunday,13,Deliver Now Holding,Munich District One,Student
+1226,4,84,21,50,Magherita,Small,1,Chef 1,Saturday,13,BestOrder Inc.,Munich District Three,Student
+206,4,243,9,17,Magherita,Small,2,Chef 2,Saturday,20,Deliveruu Inc.,Munich District Four,Student
+1072,4,43,15,11,Calzone,Large,2,Chef 1,Sunday,18,Deliveruu Inc.,Munich District One,Adult
+766,4,226,44,25,Funghi,Large,1,Waiter,Tuesday,19,BestOrder Inc.,Munich District Two,Adult
+1085,4,48,44,7,Salami,Medium,0,Chef 2,Sunday,13,BestOrder Inc.,Munich District Two,Student
+1483,4,228,6,4,Paprika,Small,1,Chef 1,Friday,13,BestOrder Inc.,Munich District One,Teenager
+732,4,211,12,33,Funghi,Small,0,Waiter,Sunday,12,Feedera SE,Munich District Four,Teenager
+1735,4,292,21,38,Salami,Medium,3,Chef 1,Saturday,17,BestOrder Inc.,Munich District One,Adult
+11,4,287,9,2,Salami,Large,2,Chef 1,Sunday,12,Deliver Now Holding,Munich District One,Senior
+825,4,122,21,29,Funghi,Large,1,Delivery Scooters ,Sunday,21,Orderly SE,Munich District Five,Student
+1931,4,284,20,56,Calzone,Small,0,Chef 2,Friday,18,Heropizza Lmtd.,Munich District Three,Teenager
+1971,4,296,8,33,Paprika,Small,1,Ingredients,Saturday,13,Heropizza Lmtd.,Munich District Four,Student
+806,4,282,36,5,Funghi,Medium,2,Chef 2,Friday,12,Deliver Now Holding,Munich District Three,Student
+1494,4,2,34,25,Funghi,Small,0,Delivery Guy 1 ,Thursday,20,Feedera SE,Munich District Three,Teenager
+1301,4,178,37,3,Magherita,Medium,1,Phone Bill,Wednesday,18,TownExpress Inc. ,Munich District One,Adult
+899,4,184,60,35,Salami,Medium,1,Delivery Scooters ,Sunday,19,Heropizza Lmtd.,Munich District Two,Student
+333,4,290,6,7,Calzone,Large,1,Chef 1,Sunday,21,Feedera SE,Munich District One,Adult
+1343,4,83,51,60,Salami,Medium,1,Delivery Scooters ,Sunday,21,Orderly SE,Munich District Three,Student
+1695,4,91,33,60,Salami,Small,0,Waiter,Sunday,12,TownExpress Inc. ,Munich District One,Adult
+1653,4,145,23,5,Funghi,Large,1,Delivery Guy 2,Tuesday,17,Deliver Now Holding,Munich District Three,Student
+1330,4,132,24,2,Calzone,Medium,1,Ingredients,Sunday,12,Feedera SE,Munich District Two,Adult
+1932,4,35,5,35,Speciale,Small,1,Waiter,Friday,20,BestOrder Inc.,Munich District Four,Teenager
+1811,4,2,10,1,Funghi,Medium,0,Chef 1,Wednesday,17,Feedera SE,Munich District One,Student
+1740,4,212,21,10,Speciale,Small,2,Distribution channel fees,Monday,10,Deliver Now Holding,Munich District Three,Teenager
+1846,4,274,5,16,Calzone,Large,2,Delivery Scooters ,Saturday,21,Deliver Now Holding,Munich District One,Student
+334,4,232,6,56,Salami,Large,2,Waiter,Friday,18,Deliver Now Holding,Munich District One,Adult
+1212,4,169,9,16,Calzone,Medium,2,Waiter,Saturday,18,Feedera SE,Munich District Four,Teenager
+119,4,207,54,29,Magherita,Small,0,Ingredients,Sunday,19,Heropizza Lmtd.,Munich District Three,Adult
+1052,4,142,56,47,Salami,Large,0,Phone Bill,Sunday,18,Deliver Now Holding,Munich District Two,Adult
+1265,4,199,38,11,Salami,Large,0,Ingredients,Wednesday,18,BestOrder Inc.,Munich District Three,Teenager
+204,4,219,31,8,Salami,Small,0,Delivery Scooters ,Friday,12,Deliver Now Holding,Munich District One,Student
+224,4,205,30,11,Speciale,Medium,1,Delivery Guy 2,Sunday,19,Orderly SE,Munich District One,Student
+1268,4,161,36,10,Funghi,Large,1,Ingredients,Friday,12,Deliver Now Holding,Munich District One,Teenager
+617,4,40,8,16,Magherita,Large,2,Ingredients,Sunday,21,Feedera SE,Munich District Four,Teenager
+1314,4,27,36,9,Magherita,Large,1,Delivery Guy 1 ,Wednesday,12,Deliver Now Holding,Munich District One,Student
+1912,4,152,29,5,Funghi,Medium,0,Ingredients,Saturday,12,Orderly SE,Munich District One,Teenager
+314,4,126,55,7,Salami,Small,2,Chef 1,Friday,21,Deliveruu Inc.,Munich District Three,Student
+804,4,126,56,3,Paprika,Small,1,Phone Bill,Friday,19,BestOrder Inc.,Munich District Two,Student
+1021,4,182,4,49,Veggie,Large,3,Ingredients,Saturday,19,Deliver Now Holding,Munich District Three,Student
+427,4,251,9,5,Magherita,Medium,0,Chef 1,Sunday,21,Deliver Now Holding,Munich District One,Teenager
+1779,4,112,5,2,Speciale,Large,0,Delivery Scooters ,Sunday,18,Feedera SE,Munich District Two,Student
+537,4,167,10,20,Veggie,Small,0,Waiter,Saturday,18,BestOrder Inc.,Munich District One,Student
+68,4,72,6,11,Salami,Medium,1,Chef 1,Tuesday,18,Feedera SE,Munich District Two,Student
+1728,4,292,9,2,Salami,Small,2,Chef 2,Friday,19,Orderly SE,Munich District Four,Teenager
+143,4,93,4,8,Calzone,Large,1,Ingredients,Thursday,17,Orderly SE,Munich District One,Student
+170,4,24,12,8,Salami,Large,3,Chef 2,Saturday,19,TownExpress Inc. ,Munich District Three,Student
+109,4,72,29,5,Magherita,Large,1,Delivery Scooters ,Friday,18,Feedera SE,Munich District One,Student
+713,5,153,43,38,Salami,Small,2,Chef 2,Sunday,11,Deliver Now Holding,Munich District One,Teenager
+1404,5,245,52,13,Salami,Small,5,Ingredients,Saturday,13,Feedera SE,Munich District One,Student
+611,5,95,4,2,Veggie,Small,1,Chef 2,Sunday,12,Deliver Now Holding,Munich District One,Student
+1450,5,18,44,8,Funghi,Small,1,Chef 1,Friday,18,Deliver Now Holding,Munich District One,Teenager
+847,5,237,34,51,Salami,Small,1,Ingredients,Tuesday,18,Orderly SE,Munich District Two,Student
+1182,5,249,24,10,Paprika,Small,3,Ingredients,Saturday,13,Heropizza Lmtd.,Munich District Three,Student
+1567,5,83,12,17,Salami,Medium,3,Chef 2,Friday,19,Deliver Now Holding,Munich District One,Teenager
+779,5,228,5,30,Funghi,Large,1,Waiter,Friday,21,Feedera SE,Munich District Four,Student
+458,5,127,9,10,Magherita,Medium,3,Waiter,Sunday,13,Feedera SE,Munich District One,Adult
+1659,5,82,55,46,Funghi,Small,1,Phone Bill,Friday,12,Feedera SE,Munich District Two,Student
+1702,5,139,8,7,Speciale,Small,2,Chef 2,Friday,21,Feedera SE,Munich District Five,Senior
+47,5,17,10,7,Funghi,Small,0,Ingredients,Sunday,18,BestOrder Inc.,Munich District One,Senior
+1688,5,46,36,10,Funghi,Large,1,Delivery Scooters ,Friday,16,Deliveruu Inc.,Munich District Five,Student
+1285,5,140,8,9,Salami,Small,3,Delivery Guy 2,Saturday,16,Deliver Now Holding,Munich District One,Adult
+759,5,124,10,38,Funghi,Medium,5,Delivery Guy 1 ,Sunday,21,BestOrder Inc.,Munich District Three,Student
+1236,5,282,10,13,Funghi,Medium,0,Delivery Scooters ,Tuesday,12,Feedera SE,Munich District One,Student
+1038,5,157,21,56,Funghi,Large,3,Chef 2,Sunday,11,Feedera SE,Munich District One,Teenager
+1883,5,255,10,29,Salami,Small,4,Chef 1,Monday,14,Deliver Now Holding,Munich District Five,Teenager
+1256,5,290,9,34,Salami,Large,4,Ingredients,Sunday,12,Feedera SE,Munich District Four,Teenager
+299,5,132,28,4,Magherita,Small,1,Phone Bill,Friday,18,Deliver Now Holding,Munich District One,Adult
+1454,5,141,8,16,Funghi,Medium,1,Delivery Guy 1 ,Friday,16,Feedera SE,Munich District One,Student
+1323,5,153,37,9,Funghi,Large,0,Delivery Guy 1 ,Sunday,20,BestOrder Inc.,Munich District Five,Teenager
+1477,5,188,36,3,Magherita,Large,1,Chef 1,Friday,13,Deliver Now Holding,Munich District Three,Student
+1832,5,204,21,10,Magherita,Large,1,Chef 1,Friday,19,Deliver Now Holding,Munich District One,Student
+1916,5,250,6,4,Salami,Medium,0,Phone Bill,Sunday,11,Feedera SE,Munich District One,Student
+1164,5,287,29,29,Salami,Medium,1,Chef 2,Sunday,14,BestOrder Inc.,Munich District Two,Student
+1115,5,250,10,13,Speciale,Large,5,Delivery Scooters ,Friday,12,BestOrder Inc.,Munich District Five,Student
+1396,5,141,5,3,Speciale,Medium,4,Chef 2,Sunday,20,TownExpress Inc. ,Munich District Three,Student
+1346,5,6,11,10,Magherita,Small,2,Phone Bill,Friday,19,Feedera SE,Munich District Two,Teenager
+1090,5,185,11,10,Paprika,Large,2,Ingredients,Friday,19,Deliver Now Holding,Munich District One,Adult
+872,5,290,11,10,Salami,Small,0,Ingredients,Wednesday,18,BestOrder Inc.,Munich District One,Teenager
+258,5,32,13,11,Magherita,Medium,3,Waiter,Sunday,12,Deliver Now Holding,Munich District One,Student
+1806,5,52,36,7,Salami,Large,3,Delivery Guy 2,Sunday,13,Heropizza Lmtd.,Munich District Two,Student
+466,5,151,43,10,Salami,Small,2,Delivery Scooters ,Sunday,13,Deliver Now Holding,Munich District One,Teenager
+771,5,152,8,9,Salami,Large,5,Phone Bill,Saturday,18,Feedera SE,Munich District Four,Student
+1711,5,263,29,10,Salami,Medium,4,Delivery Scooters ,Saturday,19,Deliveruu Inc.,Munich District One,Student
+1637,5,227,11,4,Funghi,Large,4,Chef 2,Sunday,14,Deliveruu Inc.,Munich District Two,Student
+1104,5,201,35,8,Magherita,Small,4,Delivery Guy 2,Saturday,10,BestOrder Inc.,Munich District One,Adult
+1731,5,213,21,11,Speciale,Large,4,Chef 2,Sunday,12,Deliveruu Inc.,Munich District Three,Adult
+1888,5,118,21,8,Veggie,Large,0,Waiter,Wednesday,13,Feedera SE,Munich District One,Student
+886,5,136,6,3,Magherita,Medium,5,Delivery Guy 2,Monday,19,Deliveruu Inc.,Munich District Three,Student
+746,5,79,17,7,Salami,Small,3,Chef 2,Friday,11,Feedera SE,Munich District Two,Student
+1913,5,32,55,11,Salami,Large,1,Delivery Scooters ,Friday,16,Deliveruu Inc.,Munich District Two,Student
+985,5,176,8,43,Magherita,Medium,0,Ingredients,Saturday,17,Feedera SE,Munich District One,Teenager
+893,5,293,11,43,Speciale,Medium,2,Phone Bill,Sunday,12,Deliver Now Holding,Munich District One,Teenager
+1634,5,78,9,37,Magherita,Small,0,Chef 1,Monday,18,Deliveruu Inc.,Munich District One,Student
+348,5,113,29,2,Magherita,Large,0,Chef 1,Saturday,13,Heropizza Lmtd.,Munich District One,Adult
+1661,5,191,8,11,Magherita,Large,1,Chef 1,Sunday,12,TownExpress Inc. ,Munich District Two,Student
+1119,5,25,10,10,Funghi,Small,4,Chef 1,Friday,18,Deliver Now Holding,Munich District Five,Teenager
+437,5,60,34,60,Funghi,Small,4,Delivery Guy 1 ,Friday,19,Deliveruu Inc.,Munich District Two,Adult
+124,5,194,6,9,Paprika,Small,2,Waiter,Saturday,18,Feedera SE,Munich District One,Student
+1745,5,56,4,9,Salami,Small,2,Ingredients,Sunday,18,BestOrder Inc.,Munich District Five,Student
+570,5,262,21,5,Salami,Small,1,Delivery Scooters ,Sunday,11,Feedera SE,Munich District Two,Teenager
+1712,5,294,60,46,Speciale,Large,1,Ingredients,Thursday,19,Feedera SE,Munich District Four,Adult
+1000,5,227,54,2,Salami,Large,1,Ingredients,Sunday,11,BestOrder Inc.,Munich District Two,Student
+1025,5,172,55,22,Calzone,Large,1,Delivery Guy 2,Saturday,12,Feedera SE,Munich District Four,Adult
+141,5,174,6,7,Magherita,Large,3,Delivery Guy 1 ,Sunday,11,Deliver Now Holding,Munich District Three,Student
+470,5,158,54,5,Funghi,Small,1,Chef 1,Saturday,18,Deliver Now Holding,Munich District One,Senior
+1691,5,82,24,7,Speciale,Small,4,Chef 2,Saturday,13,Feedera SE,Munich District One,Student
+1655,5,24,11,4,Salami,Small,1,Ingredients,Thursday,21,Feedera SE,Munich District One,Student
+824,5,50,4,10,Funghi,Small,1,Waiter,Monday,17,Deliveruu Inc.,Munich District One,Senior
+1599,5,30,23,13,Speciale,Large,2,Chef 1,Sunday,12,TownExpress Inc. ,Munich District Two,Student
+82,5,269,10,10,Calzone,Large,1,Chef 1,Wednesday,20,Deliver Now Holding,Munich District Four,Student
+1447,5,140,21,3,Funghi,Large,5,Delivery Scooters ,Friday,19,Orderly SE,Munich District Five,Student
+775,5,135,10,7,Funghi,Small,4,Delivery Guy 2,Saturday,12,TownExpress Inc. ,Munich District Two,Student
+630,5,296,10,46,Veggie,Large,2,Ingredients,Wednesday,11,Deliver Now Holding,Munich District One,Student
+1377,5,43,35,10,Salami,Large,1,Delivery Scooters ,Friday,12,Feedera SE,Munich District One,Student
+1919,5,205,22,4,Salami,Small,4,Ingredients,Sunday,13,BestOrder Inc.,Munich District Three,Student
+379,5,285,51,34,Salami,Small,1,Phone Bill,Saturday,18,TownExpress Inc. ,Munich District Three,Student
+1110,5,84,5,10,Calzone,Medium,0,Chef 2,Sunday,20,Deliver Now Holding,Munich District One,Student
+670,5,131,29,8,Speciale,Small,5,Chef 2,Sunday,18,Feedera SE,Munich District One,Senior
+247,5,175,9,1,Magherita,Small,2,Chef 1,Saturday,12,BestOrder Inc.,Munich District Two,Adult
+1394,5,232,8,3,Magherita,Small,0,Delivery Guy 1 ,Sunday,18,Orderly SE,Munich District One,Adult
+908,5,266,44,16,Calzone,Large,3,Chef 1,Sunday,19,Feedera SE,Munich District One,Teenager
+1736,5,29,10,13,Salami,Medium,1,Chef 1,Monday,18,BestOrder Inc.,Munich District Four,Adult
+747,5,140,5,3,Funghi,Small,1,Ingredients,Sunday,17,BestOrder Inc.,Munich District One,Senior
+1930,5,236,21,13,Funghi,Medium,2,Chef 2,Friday,18,Deliver Now Holding,Munich District Five,Student
+1466,5,243,5,17,Magherita,Small,2,Waiter,Friday,13,BestOrder Inc.,Munich District One,Adult
+1963,5,251,25,39,Salami,Large,1,Delivery Guy 2,Saturday,19,Deliver Now Holding,Munich District Two,Student
+23,5,118,36,16,Calzone,Large,1,Delivery Guy 2,Thursday,13,Heropizza Lmtd.,Munich District One,Student
+253,5,251,8,44,Calzone,Large,0,Delivery Guy 2,Friday,12,Deliver Now Holding,Munich District One,Student
+1983,5,93,21,13,Funghi,Large,1,Ingredients,Friday,21,Deliver Now Holding,Munich District Four,Student
+1011,5,182,36,9,Funghi,Large,1,Chef 2,Thursday,18,TownExpress Inc. ,Munich District One,Student
+1442,5,243,49,3,Salami,Small,2,Ingredients,Thursday,12,BestOrder Inc.,Munich District Four,Adult
+25,5,135,9,11,Calzone,Small,3,Chef 2,Sunday,20,BestOrder Inc.,Munich District One,Teenager
+162,5,159,32,7,Speciale,Large,2,Chef 2,Friday,18,Heropizza Lmtd.,Munich District Two,Student
+816,5,249,36,9,Salami,Small,1,Chef 2,Friday,12,Deliver Now Holding,Munich District Two,Student
+1197,5,125,4,29,Magherita,Small,1,Chef 2,Wednesday,19,Deliveruu Inc.,Munich District Two,Senior
+236,5,244,11,44,Speciale,Medium,5,Chef 1,Saturday,20,Feedera SE,Munich District One,Student
+853,5,28,43,7,Salami,Medium,2,Chef 2,Friday,11,BestOrder Inc.,Munich District Two,Teenager
+297,5,193,10,44,Veggie,Small,0,Chef 2,Saturday,20,Orderly SE,Munich District One,Adult
+417,5,15,11,7,Funghi,Small,5,Phone Bill,Friday,12,BestOrder Inc.,Munich District Two,Student
+1264,5,253,9,28,Paprika,Large,2,Chef 2,Friday,14,BestOrder Inc.,Munich District One,Student
+60,5,49,53,5,Magherita,Small,0,Waiter,Friday,14,Heropizza Lmtd.,Munich District One,Student
+1910,5,188,37,9,Speciale,Small,1,Waiter,Saturday,18,Feedera SE,Munich District Three,Adult
+668,5,163,18,35,Magherita,Small,4,Ingredients,Sunday,17,Feedera SE,Munich District One,Student
+1238,5,241,10,8,Speciale,Small,1,Waiter,Friday,19,Feedera SE,Munich District One,Student
+683,5,187,6,43,Magherita,Large,1,Phone Bill,Saturday,17,Feedera SE,Munich District One,Senior
+227,5,147,22,1,Funghi,Small,1,Ingredients,Saturday,19,Deliveruu Inc.,Munich District Two,Adult
+969,5,274,33,44,Funghi,Small,3,Delivery Scooters ,Friday,13,TownExpress Inc. ,Munich District Four,Student
+1789,5,216,9,2,Funghi,Small,1,Ingredients,Sunday,18,Deliver Now Holding,Munich District One,Student
+1005,5,75,6,5,Funghi,Small,3,Distribution channel fees,Sunday,11,BestOrder Inc.,Munich District Two,Student
+1719,5,113,10,29,Salami,Large,1,Waiter,Friday,11,BestOrder Inc.,Munich District Two,Teenager
+260,5,186,36,33,Salami,Large,1,Waiter,Monday,21,BestOrder Inc.,Munich District One,Adult
+265,5,194,21,16,Funghi,Large,3,Delivery Scooters ,Friday,13,BestOrder Inc.,Munich District One,Teenager
+1403,5,280,36,49,Paprika,Small,3,Chef 1,Friday,13,Deliver Now Holding,Munich District One,Student
+800,5,195,6,35,Salami,Medium,1,Waiter,Saturday,19,Feedera SE,Munich District One,Student
+1449,5,126,19,12,Speciale,Medium,3,Delivery Guy 1 ,Thursday,12,BestOrder Inc.,Munich District One,Student
+29,5,13,36,11,Magherita,Large,1,Phone Bill,Saturday,17,Deliver Now Holding,Munich District One,Student
+1041,5,202,9,38,Funghi,Small,1,Chef 1,Sunday,15,BestOrder Inc.,Munich District Three,Student
+1496,5,103,29,5,Veggie,Medium,4,Delivery Guy 1 ,Saturday,14,Deliver Now Holding,Munich District Two,Adult
+422,5,191,10,5,Funghi,Small,1,Delivery Guy 2,Sunday,18,BestOrder Inc.,Munich District Four,Teenager
+1987,5,177,51,29,Paprika,Medium,3,Waiter,Sunday,20,Deliveruu Inc.,Munich District Three,Student
+494,5,117,10,2,Funghi,Medium,5,Delivery Scooters ,Saturday,13,BestOrder Inc.,Munich District Two,Student
+901,5,5,38,9,Salami,Small,5,Distribution channel fees,Friday,14,BestOrder Inc.,Munich District Four,Student
+428,5,85,23,46,Calzone,Large,0,Waiter,Friday,19,Feedera SE,Munich District Three,Student
+367,5,95,19,23,Funghi,Large,2,Delivery Scooters ,Saturday,21,Orderly SE,Munich District Three,Student
+179,5,98,54,43,Magherita,Small,0,Ingredients,Friday,12,Deliver Now Holding,Munich District Two,Student
+1486,5,184,5,32,Funghi,Large,2,Ingredients,Friday,19,Feedera SE,Munich District One,Student
+15,5,129,29,23,Funghi,Medium,5,Chef 1,Friday,16,Feedera SE,Munich District One,Student
+1632,5,88,4,13,Speciale,Small,4,Phone Bill,Saturday,20,BestOrder Inc.,Munich District One,Student
+532,5,128,29,49,Magherita,Small,2,Ingredients,Saturday,17,Feedera SE,Munich District Three,Teenager
+1099,5,223,36,2,Salami,Small,1,Delivery Guy 2,Wednesday,14,TownExpress Inc. ,Munich District Five,Student
+1823,5,163,38,39,Speciale,Large,1,Delivery Guy 2,Saturday,12,BestOrder Inc.,Munich District One,Adult
+465,5,111,10,9,Magherita,Small,1,Ingredients,Saturday,12,Feedera SE,Munich District Five,Teenager
+1086,5,2,8,10,Speciale,Small,2,Ingredients,Saturday,12,BestOrder Inc.,Munich District Two,Student
+1753,5,266,29,3,Funghi,Small,1,Chef 1,Monday,17,Feedera SE,Munich District One,Student
+1386,5,84,19,16,Funghi,Small,1,Phone Bill,Saturday,11,Deliver Now Holding,Munich District Two,Adult
+561,5,15,11,8,Calzone,Medium,2,Delivery Guy 2,Sunday,12,TownExpress Inc. ,Munich District Three,Teenager
+1826,5,283,18,2,Speciale,Medium,4,Chef 2,Friday,13,BestOrder Inc.,Munich District One,Student
+468,5,235,8,16,Salami,Small,5,Delivery Guy 1 ,Saturday,14,Deliver Now Holding,Munich District Four,Student
+651,5,6,29,2,Funghi,Large,1,Phone Bill,Sunday,18,Orderly SE,Munich District Two,Adult
+725,5,223,30,7,Speciale,Small,1,Chef 2,Friday,19,Feedera SE,Munich District One,Student
+1630,5,82,6,1,Funghi,Medium,1,Ingredients,Friday,18,Feedera SE,Munich District One,Student
+988,5,169,6,49,Calzone,Large,2,Chef 2,Wednesday,16,TownExpress Inc. ,Munich District One,Student
+1230,5,150,36,4,Funghi,Large,2,Waiter,Friday,13,Deliver Now Holding,Munich District One,Student
+863,5,296,23,1,Funghi,Medium,4,Delivery Guy 1 ,Monday,18,Deliver Now Holding,Munich District One,Student
+312,5,46,38,2,Magherita,Large,3,Chef 2,Wednesday,18,Deliveruu Inc.,Munich District One,Student
+1797,5,245,13,7,Funghi,Medium,0,Ingredients,Sunday,12,BestOrder Inc.,Munich District One,Student
+331,5,45,8,11,Salami,Small,1,Ingredients,Friday,19,BestOrder Inc.,Munich District One,Teenager
+1470,5,162,9,44,Calzone,Small,3,Chef 2,Sunday,20,Deliver Now Holding,Munich District One,Student
+933,5,170,36,3,Salami,Large,1,Chef 1,Saturday,19,Deliver Now Holding,Munich District One,Student
+686,5,297,35,5,Magherita,Medium,0,Chef 2,Sunday,12,BestOrder Inc.,Munich District Five,Teenager
+773,5,118,36,2,Salami,Medium,1,Delivery Scooters ,Friday,19,BestOrder Inc.,Munich District Two,Student
+350,5,284,10,31,Magherita,Small,0,Ingredients,Friday,18,Feedera SE,Munich District One,Student
+1444,5,295,11,7,Salami,Small,5,Waiter,Saturday,18,BestOrder Inc.,Munich District One,Student
+525,5,50,9,10,Magherita,Large,1,Waiter,Thursday,12,BestOrder Inc.,Munich District Four,Adult
+1438,5,168,5,13,Salami,Large,4,Delivery Guy 2,Wednesday,14,BestOrder Inc.,Munich District Three,Senior
+1555,5,43,47,16,Salami,Small,1,Ingredients,Sunday,17,TownExpress Inc. ,Munich District Three,Student
+1863,5,143,43,32,Magherita,Medium,4,Delivery Scooters ,Sunday,19,Feedera SE,Munich District Two,Student
+1934,5,201,53,17,Salami,Large,4,Chef 1,Friday,12,Deliveruu Inc.,Munich District One,Student
+1530,5,87,37,33,Magherita,Small,1,Ingredients,Friday,18,Feedera SE,Munich District One,Student
+1280,5,243,12,2,Funghi,Medium,2,Phone Bill,Sunday,13,Feedera SE,Munich District Three,Student
+403,5,183,50,13,Paprika,Small,1,Waiter,Friday,11,Deliver Now Holding,Munich District One,Student
+1903,5,277,24,2,Salami,Medium,3,Delivery Guy 1 ,Saturday,13,Deliver Now Holding,Munich District Four,Adult
+559,5,282,29,9,Funghi,Medium,4,Delivery Guy 2,Sunday,19,BestOrder Inc.,Munich District Two,Student
+1952,5,207,10,38,Magherita,Large,2,Chef 2,Sunday,21,Feedera SE,Munich District Three,Adult
+1058,5,254,9,39,Funghi,Small,5,Waiter,Saturday,12,BestOrder Inc.,Munich District One,Teenager
+1304,5,170,29,43,Magherita,Small,2,Chef 2,Wednesday,18,Feedera SE,Munich District One,Student
+1828,5,39,15,3,Salami,Small,1,Distribution channel fees,Thursday,12,BestOrder Inc.,Munich District One,Student
+1561,5,217,4,29,Salami,Medium,3,Phone Bill,Saturday,12,Feedera SE,Munich District One,Adult
+1724,5,269,51,31,Paprika,Large,0,Delivery Guy 2,Sunday,12,Deliver Now Holding,Munich District Three,Teenager
+1713,5,197,37,5,Calzone,Medium,0,Phone Bill,Saturday,14,BestOrder Inc.,Munich District One,Student
+1880,5,85,6,9,Funghi,Small,2,Delivery Guy 2,Sunday,21,Feedera SE,Munich District One,Student
+1418,5,296,36,2,Magherita,Large,5,Phone Bill,Sunday,20,Deliveruu Inc.,Munich District Three,Teenager
+1322,5,166,6,29,Speciale,Large,0,Chef 1,Wednesday,18,Feedera SE,Munich District One,Student
+790,5,90,8,10,Magherita,Small,1,Waiter,Sunday,12,Deliver Now Holding,Munich District One,Student
+1499,5,144,10,5,Salami,Large,3,Chef 1,Tuesday,18,Deliver Now Holding,Munich District Three,Student
+905,5,229,29,7,Speciale,Large,1,Phone Bill,Sunday,18,Deliver Now Holding,Munich District One,Student
+228,5,240,10,16,Salami,Medium,2,Chef 1,Sunday,14,Feedera SE,Munich District One,Student
+1669,5,71,9,3,Salami,Large,5,Delivery Guy 2,Friday,21,Deliver Now Holding,Munich District Five,Student
+1619,5,261,29,39,Salami,Small,2,Phone Bill,Saturday,18,Orderly SE,Munich District Four,Adult
+932,6,65,13,4,Salami,Small,3,Distribution channel fees,Saturday,19,Feedera SE,Munich District One,Student
+557,6,23,51,16,Salami,Large,1,Chef 1,Sunday,14,Deliver Now Holding,Munich District Four,Teenager
+674,6,46,11,7,Magherita,Small,3,Delivery Guy 1 ,Saturday,12,Deliveruu Inc.,Munich District One,Student
+27,6,188,56,16,Salami,Medium,0,Delivery Scooters ,Friday,17,Feedera SE,Munich District Four,Student
+693,6,191,23,9,Magherita,Small,3,Ingredients,Friday,19,Orderly SE,Munich District One,Student
+1481,6,114,36,29,Salami,Large,1,Chef 2,Wednesday,21,Feedera SE,Munich District Four,Adult
+626,6,5,44,11,Calzone,Small,0,Ingredients,Friday,13,Deliver Now Holding,Munich District Three,Teenager
+745,6,274,5,2,Funghi,Large,1,Waiter,Friday,18,Deliveruu Inc.,Munich District Three,Student
+604,6,294,44,10,Salami,Small,2,Chef 1,Wednesday,13,Feedera SE,Munich District One,Teenager
+1388,6,219,54,10,Speciale,Large,3,Chef 2,Wednesday,12,Feedera SE,Munich District Five,Student
+889,6,19,28,2,Calzone,Large,0,Delivery Scooters ,Wednesday,12,BestOrder Inc.,Munich District Five,Student
+434,6,136,8,60,Funghi,Small,3,Chef 1,Friday,11,TownExpress Inc. ,Munich District Three,Adult
+1361,6,202,11,39,Salami,Medium,4,Chef 2,Sunday,18,Feedera SE,Munich District Two,Student
+355,6,224,29,2,Funghi,Large,5,Chef 2,Friday,12,Feedera SE,Munich District Two,Senior
+819,6,62,6,43,Calzone,Medium,3,Delivery Scooters ,Friday,19,Deliver Now Holding,Munich District Four,Student
+1675,6,167,50,9,Salami,Large,1,Chef 2,Saturday,16,Deliveruu Inc.,Munich District One,Student
+199,6,180,29,5,Speciale,Small,1,Delivery Guy 2,Friday,21,Deliver Now Holding,Munich District Three,Student
+1766,6,257,36,9,Magherita,Small,5,Delivery Guy 2,Sunday,10,Deliver Now Holding,Munich District One,Student
+1283,6,79,29,39,Funghi,Large,5,Waiter,Saturday,12,Deliveruu Inc.,Munich District Two,Student
+324,6,200,49,11,Salami,Medium,4,Delivery Guy 2,Saturday,18,TownExpress Inc. ,Munich District One,Student
+471,6,277,21,11,Salami,Large,2,Delivery Scooters ,Friday,11,BestOrder Inc.,Munich District Four,Student
+455,6,22,29,13,Funghi,Small,4,Delivery Guy 2,Sunday,18,Orderly SE,Munich District Five,Teenager
+432,6,206,36,7,Calzone,Small,4,Phone Bill,Saturday,19,Feedera SE,Munich District Two,Senior
+1413,6,34,51,44,Salami,Large,3,Delivery Scooters ,Saturday,18,Feedera SE,Munich District Three,Adult
+335,6,80,4,50,Salami,Small,3,Delivery Scooters ,Saturday,19,BestOrder Inc.,Munich District One,Student
+764,6,293,16,39,Magherita,Small,1,Distribution channel fees,Tuesday,19,Feedera SE,Munich District Four,Student
+1134,6,191,8,5,Funghi,Small,3,Delivery Scooters ,Wednesday,11,Deliver Now Holding,Munich District Three,Student
+62,6,71,21,8,Speciale,Medium,3,Chef 1,Sunday,13,Feedera SE,Munich District Three,Student
+453,6,270,30,3,Salami,Large,2,Delivery Guy 2,Wednesday,10,Deliver Now Holding,Munich District Five,Student
+726,6,117,44,10,Calzone,Small,2,Chef 2,Saturday,13,Feedera SE,Munich District One,Senior
+129,6,268,6,10,Funghi,Small,1,Delivery Guy 1 ,Tuesday,12,BestOrder Inc.,Munich District One,Student
+163,6,181,10,1,Veggie,Medium,0,Ingredients,Sunday,14,Feedera SE,Munich District Three,Adult
+1195,6,24,10,29,Salami,Medium,3,Chef 2,Sunday,13,Deliver Now Holding,Munich District One,Student
+181,6,73,9,10,Funghi,Small,3,Delivery Scooters ,Friday,11,BestOrder Inc.,Munich District One,Student
+493,6,26,21,29,Salami,Small,3,Chef 2,Friday,21,Feedera SE,Munich District Five,Student
+85,6,78,28,4,Salami,Small,5,Chef 1,Sunday,21,Deliver Now Holding,Munich District One,Teenager
+3,6,128,36,7,Salami,Medium,2,Chef 1,Sunday,12,TownExpress Inc. ,Munich District Four,Student
+74,6,144,37,8,Magherita,Small,1,Delivery Guy 1 ,Wednesday,12,Feedera SE,Munich District Five,Teenager
+826,6,39,36,7,Funghi,Small,1,Chef 2,Friday,18,Feedera SE,Munich District Two,Adult
+158,6,252,17,15,Funghi,Medium,1,Chef 2,Sunday,14,Deliver Now Holding,Munich District Two,Student
+1259,6,4,21,5,Funghi,Large,0,Chef 2,Thursday,19,Orderly SE,Munich District One,Student
+818,6,251,10,12,Salami,Small,3,Phone Bill,Saturday,18,Feedera SE,Munich District Five,Student
+1163,6,104,10,16,Magherita,Medium,1,Chef 1,Sunday,14,TownExpress Inc. ,Munich District Three,Student
+600,6,298,36,25,Magherita,Small,3,Chef 2,Friday,12,Heropizza Lmtd.,Munich District Four,Student
+1716,6,185,30,11,Veggie,Small,5,Delivery Scooters ,Saturday,13,BestOrder Inc.,Munich District One,Adult
+1457,6,247,4,2,Salami,Large,3,Ingredients,Saturday,12,Deliver Now Holding,Munich District One,Student
+919,6,193,44,3,Funghi,Small,5,Waiter,Sunday,12,Deliver Now Holding,Munich District Three,Student
+43,6,95,29,32,Salami,Small,1,Waiter,Saturday,13,Feedera SE,Munich District Two,Adult
+1117,6,220,25,5,Speciale,Small,3,Ingredients,Sunday,18,Deliver Now Holding,Munich District One,Student
+107,6,25,10,9,Salami,Large,3,Ingredients,Saturday,11,Deliver Now Holding,Munich District One,Student
+1302,6,30,21,9,Calzone,Large,1,Ingredients,Friday,13,Deliver Now Holding,Munich District One,Teenager
+936,6,248,29,44,Magherita,Small,5,Delivery Scooters ,Friday,12,BestOrder Inc.,Munich District Two,Adult
+45,6,48,11,13,Funghi,Large,3,Chef 2,Wednesday,12,BestOrder Inc.,Munich District One,Student
+9,6,154,29,37,Salami,Small,3,Ingredients,Thursday,13,Deliveruu Inc.,Munich District One,Student
+438,6,229,5,5,Magherita,Small,1,Chef 1,Wednesday,13,Deliver Now Holding,Munich District Three,Teenager
+1538,6,204,8,8,Veggie,Medium,1,Waiter,Saturday,12,Feedera SE,Munich District Three,Student
+1643,6,158,11,5,Funghi,Small,1,Waiter,Saturday,12,TownExpress Inc. ,Munich District Three,Student
+801,6,266,54,8,Speciale,Large,2,Chef 1,Sunday,19,Deliver Now Holding,Munich District Five,Teenager
+763,6,169,17,5,Salami,Large,1,Ingredients,Wednesday,11,Feedera SE,Munich District Three,Teenager
+1491,6,33,8,13,Speciale,Medium,2,Delivery Scooters ,Sunday,18,Deliver Now Holding,Munich District Three,Student
+1572,6,225,18,7,Magherita,Small,1,Chef 1,Friday,14,BestOrder Inc.,Munich District Three,Student
+880,6,298,11,10,Magherita,Medium,3,Waiter,Tuesday,13,Deliveruu Inc.,Munich District One,Student
+1003,6,226,36,15,Magherita,Large,2,Ingredients,Friday,14,Feedera SE,Munich District Two,Student
+173,6,179,10,20,Salami,Medium,5,Chef 2,Sunday,13,Deliver Now Holding,Munich District Three,Adult
+1143,6,138,29,56,Salami,Small,1,Chef 2,Saturday,13,BestOrder Inc.,Munich District One,Student
+374,6,185,36,8,Calzone,Small,4,Delivery Scooters ,Thursday,14,TownExpress Inc. ,Munich District Two,Adult
+1918,6,24,9,3,Calzone,Small,4,Chef 2,Friday,18,Orderly SE,Munich District Five,Student
+522,6,162,39,12,Salami,Medium,3,Chef 1,Sunday,14,BestOrder Inc.,Munich District Four,Student
+956,6,93,53,17,Salami,Medium,5,Chef 1,Monday,13,TownExpress Inc. ,Munich District Two,Student
+677,6,123,21,5,Funghi,Large,1,Delivery Scooters ,Wednesday,13,Deliver Now Holding,Munich District One,Student
+666,6,271,21,4,Speciale,Large,5,Waiter,Tuesday,18,Deliver Now Holding,Munich District Two,Student
+1458,6,255,29,2,Funghi,Small,1,Waiter,Wednesday,13,Deliver Now Holding,Munich District Two,Student
+1478,6,131,11,11,Calzone,Small,1,Waiter,Saturday,14,Orderly SE,Munich District One,Teenager
+650,6,194,36,3,Speciale,Medium,4,Delivery Guy 1 ,Friday,19,Feedera SE,Munich District Three,Student
+1589,6,103,46,56,Speciale,Large,5,Delivery Guy 2,Friday,12,Deliver Now Holding,Munich District One,Student
+1871,6,151,21,1,Calzone,Large,1,Chef 1,Saturday,18,Orderly SE,Munich District One,Student
+1326,6,199,29,10,Funghi,Large,0,Chef 1,Saturday,13,Deliveruu Inc.,Munich District One,Adult
+685,6,252,29,2,Salami,Large,3,Delivery Scooters ,Saturday,12,Feedera SE,Munich District One,Student
+1120,6,296,29,9,Salami,Small,4,Delivery Scooters ,Friday,13,Feedera SE,Munich District Five,Teenager
+1511,6,87,5,10,Magherita,Small,0,Waiter,Saturday,12,Heropizza Lmtd.,Munich District One,Teenager
+362,6,14,9,3,Magherita,Small,5,Chef 1,Friday,17,Deliver Now Holding,Munich District Three,Teenager
+1075,6,236,56,9,Funghi,Medium,4,Chef 1,Saturday,17,Deliver Now Holding,Munich District One,Adult
+530,6,197,6,10,Salami,Large,3,Chef 1,Tuesday,12,BestOrder Inc.,Munich District One,Adult
+98,6,17,24,10,Salami,Small,1,Delivery Scooters ,Friday,18,Feedera SE,Munich District One,Teenager
+1876,6,244,56,8,Funghi,Small,0,Chef 1,Sunday,12,BestOrder Inc.,Munich District Three,Adult
+116,6,244,29,2,Magherita,Small,1,Ingredients,Sunday,14,Feedera SE,Munich District Two,Adult
+127,6,37,25,13,Speciale,Small,1,Chef 2,Saturday,18,Deliver Now Holding,Munich District Four,Student
+780,6,141,21,7,Magherita,Medium,4,Chef 2,Saturday,10,Deliver Now Holding,Munich District Four,Adult
+1463,6,188,30,3,Funghi,Medium,3,Chef 1,Monday,18,Feedera SE,Munich District One,Teenager
+382,6,202,22,1,Calzone,Small,0,Chef 2,Saturday,19,Feedera SE,Munich District One,Adult
+1124,6,81,56,15,Magherita,Large,1,Delivery Scooters ,Saturday,19,BestOrder Inc.,Munich District Two,Student
+1602,6,202,18,8,Calzone,Small,1,Chef 2,Thursday,21,Deliver Now Holding,Munich District Two,Teenager
+531,6,108,15,3,Funghi,Medium,1,Waiter,Sunday,18,Feedera SE,Munich District Four,Student
+1947,6,45,6,12,Salami,Medium,2,Chef 2,Wednesday,18,Feedera SE,Munich District Four,Teenager
+94,6,88,29,47,Paprika,Small,3,Delivery Scooters ,Sunday,18,BestOrder Inc.,Munich District One,Student
+319,6,280,29,3,Funghi,Medium,1,Waiter,Saturday,19,Deliveruu Inc.,Munich District Four,Student
+904,6,4,36,7,Salami,Small,3,Delivery Guy 2,Sunday,18,BestOrder Inc.,Munich District One,Student
+757,6,136,9,8,Speciale,Small,3,Delivery Guy 2,Sunday,12,Deliver Now Holding,Munich District One,Student
+1293,6,259,9,8,Magherita,Medium,3,Waiter,Friday,12,Deliveruu Inc.,Munich District One,Student
+837,6,177,52,43,Salami,Large,3,Chef 2,Friday,14,TownExpress Inc. ,Munich District Two,Adult
+724,6,229,29,56,Paprika,Large,1,Ingredients,Saturday,12,Feedera SE,Munich District One,Student
+242,6,73,10,10,Funghi,Small,0,Ingredients,Friday,17,Feedera SE,Munich District One,Student
+1550,6,252,25,9,Salami,Large,3,Chef 1,Saturday,12,Feedera SE,Munich District One,Senior
+28,6,115,5,4,Paprika,Small,3,Waiter,Saturday,21,Feedera SE,Munich District Three,Student
+1651,6,162,47,33,Funghi,Large,1,Chef 1,Sunday,12,Deliver Now Holding,Munich District One,Student
+145,6,172,11,56,Salami,Small,5,Chef 1,Saturday,18,BestOrder Inc.,Munich District One,Adult
+1624,6,252,11,29,Salami,Large,1,Delivery Scooters ,Saturday,17,BestOrder Inc.,Munich District Three,Student
+1603,6,41,29,5,Speciale,Large,5,Delivery Guy 2,Friday,19,BestOrder Inc.,Munich District One,Teenager
+1270,6,148,43,29,Funghi,Small,2,Chef 2,Saturday,12,Feedera SE,Munich District Two,Teenager
+358,6,232,10,5,Funghi,Large,3,Phone Bill,Sunday,19,Feedera SE,Munich District Three,Student
+218,6,244,6,2,Speciale,Large,1,Chef 2,Saturday,18,TownExpress Inc. ,Munich District One,Teenager
+365,6,3,10,5,Magherita,Small,1,Phone Bill,Wednesday,19,Feedera SE,Munich District Three,Teenager
+1012,6,205,60,16,Salami,Large,5,Delivery Guy 2,Wednesday,21,BestOrder Inc.,Munich District Two,Teenager
+1569,6,190,22,38,Speciale,Small,1,Ingredients,Saturday,12,Feedera SE,Munich District Four,Student
+1193,6,177,24,8,Salami,Large,3,Ingredients,Sunday,12,Deliveruu Inc.,Munich District Two,Student
+1352,6,9,36,4,Salami,Small,3,Phone Bill,Thursday,21,BestOrder Inc.,Munich District One,Adult
+1039,6,293,11,11,Salami,Small,2,Chef 1,Friday,12,BestOrder Inc.,Munich District Five,Teenager
+597,6,294,6,13,Salami,Large,0,Phone Bill,Wednesday,18,BestOrder Inc.,Munich District Two,Student
+849,6,35,44,22,Salami,Small,3,Chef 1,Tuesday,13,Feedera SE,Munich District One,Adult
+536,6,124,51,11,Calzone,Large,3,Chef 1,Sunday,21,Deliveruu Inc.,Munich District One,Teenager
+134,6,2,6,2,Salami,Large,2,Delivery Scooters ,Saturday,18,Deliveruu Inc.,Munich District Two,Student
+411,6,139,10,5,Paprika,Medium,5,Delivery Scooters ,Sunday,12,Heropizza Lmtd.,Munich District Three,Senior
+90,6,81,51,38,Speciale,Medium,3,Ingredients,Friday,21,Heropizza Lmtd.,Munich District One,Student
+5,6,63,8,11,Salami,Small,3,Delivery Guy 2,Friday,12,BestOrder Inc.,Munich District One,Student
+1516,6,177,8,25,Salami,Medium,3,Chef 2,Wednesday,12,Deliveruu Inc.,Munich District Two,Teenager
+1942,6,178,11,5,Calzone,Medium,0,Phone Bill,Wednesday,12,Feedera SE,Munich District One,Student
+1734,6,50,5,25,Veggie,Large,0,Delivery Scooters ,Sunday,12,Feedera SE,Munich District One,Adult
+1190,6,101,21,60,Salami,Large,4,Delivery Guy 1 ,Saturday,13,Deliver Now Holding,Munich District Three,Student
+78,6,186,36,9,Paprika,Large,5,Ingredients,Saturday,12,Deliver Now Holding,Munich District One,Student
+812,7,228,5,10,Funghi,Large,2,Delivery Guy 2,Friday,13,Orderly SE,Munich District Five,Student
+1699,7,123,10,8,Speciale,Large,2,Chef 1,Tuesday,14,BestOrder Inc.,Munich District One,Adult
+408,7,164,36,16,Magherita,Small,0,Waiter,Saturday,18,BestOrder Inc.,Munich District Two,Student
+592,7,263,15,11,Salami,Large,2,Chef 1,Saturday,13,TownExpress Inc. ,Munich District Four,Student
+539,7,205,21,16,Magherita,Large,5,Chef 2,Wednesday,20,BestOrder Inc.,Munich District Two,Student
+1286,7,253,36,29,Veggie,Small,1,Chef 2,Monday,12,BestOrder Inc.,Munich District One,Adult
+186,7,19,17,2,Magherita,Small,0,Chef 2,Saturday,20,BestOrder Inc.,Munich District Three,Student
+1671,7,157,46,15,Speciale,Small,3,Delivery Scooters ,Wednesday,11,Deliver Now Holding,Munich District Two,Student
+1808,7,212,10,25,Calzone,Large,0,Delivery Guy 1 ,Friday,13,Feedera SE,Munich District Two,Adult
+1416,7,83,10,8,Speciale,Small,0,Chef 1,Saturday,18,TownExpress Inc. ,Munich District Three,Student
+1267,7,274,39,3,Veggie,Large,1,Delivery Scooters ,Sunday,14,BestOrder Inc.,Munich District One,Student
+1710,7,237,36,39,Salami,Small,2,Phone Bill,Friday,19,Feedera SE,Munich District Four,Student
+924,7,297,36,3,Salami,Small,2,Waiter,Friday,18,Feedera SE,Munich District One,Student
+860,7,43,9,1,Funghi,Small,3,Waiter,Thursday,12,BestOrder Inc.,Munich District Two,Student
+396,7,266,6,9,Funghi,Small,1,Waiter,Saturday,12,Deliver Now Holding,Munich District Three,Student
+1605,7,48,10,5,Speciale,Small,5,Chef 2,Wednesday,19,BestOrder Inc.,Munich District Three,Student
+1446,7,299,4,7,Magherita,Medium,1,Chef 1,Friday,13,Heropizza Lmtd.,Munich District Two,Teenager
+1557,7,241,16,7,Speciale,Small,3,Chef 1,Sunday,18,Deliver Now Holding,Munich District Three,Student
+1160,7,181,25,9,Calzone,Small,1,Phone Bill,Wednesday,12,TownExpress Inc. ,Munich District Three,Teenager
+226,7,52,43,8,Calzone,Medium,1,Chef 2,Sunday,13,Feedera SE,Munich District Three,Student
+1518,7,45,10,11,Salami,Small,3,Waiter,Saturday,18,Deliver Now Holding,Munich District One,Student
+660,7,65,54,7,Funghi,Large,2,Chef 1,Saturday,12,Deliver Now Holding,Munich District One,Student
+205,7,185,21,2,Funghi,Small,4,Chef 1,Saturday,21,BestOrder Inc.,Munich District One,Adult
+252,7,205,55,10,Magherita,Large,2,Delivery Guy 2,Saturday,14,Deliver Now Holding,Munich District Five,Teenager
+20,7,159,49,20,Speciale,Small,1,Ingredients,Sunday,20,BestOrder Inc.,Munich District One,Student
+171,7,41,11,7,Funghi,Small,5,Ingredients,Friday,11,BestOrder Inc.,Munich District Three,Student
+83,7,285,10,23,Salami,Small,1,Chef 1,Friday,19,Deliver Now Holding,Munich District Four,Student
+1502,7,54,6,30,Salami,Large,3,Ingredients,Sunday,12,Feedera SE,Munich District Four,Teenager
+941,7,208,5,11,Salami,Medium,3,Ingredients,Tuesday,19,Feedera SE,Munich District Four,Student
+176,7,239,9,13,Speciale,Small,1,Delivery Guy 1 ,Sunday,14,Heropizza Lmtd.,Munich District Four,Adult
+32,7,292,11,16,Magherita,Large,3,Delivery Scooters ,Friday,18,Feedera SE,Munich District One,Teenager
+1786,7,2,13,38,Magherita,Small,3,Ingredients,Friday,21,Deliveruu Inc.,Munich District One,Student
+755,7,208,21,2,Magherita,Large,1,Chef 1,Wednesday,14,Deliver Now Holding,Munich District One,Teenager
+136,7,139,10,31,Magherita,Small,0,Chef 1,Friday,18,Feedera SE,Munich District One,Teenager
+1253,7,278,29,16,Funghi,Large,3,Chef 1,Thursday,18,TownExpress Inc. ,Munich District Three,Adult
+952,7,171,49,51,Funghi,Large,3,Ingredients,Monday,18,Feedera SE,Munich District One,Adult
+613,7,24,33,2,Magherita,Large,1,Chef 2,Sunday,15,TownExpress Inc. ,Munich District Two,Student
+338,7,101,10,10,Funghi,Large,3,Delivery Scooters ,Monday,11,Feedera SE,Munich District Five,Student
+739,7,94,29,11,Calzone,Medium,3,Chef 2,Thursday,19,Deliver Now Holding,Munich District Two,Student
+735,7,97,15,2,Calzone,Small,3,Delivery Scooters ,Wednesday,12,Deliveruu Inc.,Munich District Three,Senior
+1852,7,164,25,29,Funghi,Small,2,Delivery Guy 2,Sunday,18,TownExpress Inc. ,Munich District Three,Student
+249,7,18,6,1,Veggie,Medium,3,Waiter,Friday,16,Feedera SE,Munich District Five,Teenager
+1380,7,243,47,16,Calzone,Small,3,Delivery Scooters ,Friday,14,Feedera SE,Munich District Three,Student
+1657,7,109,11,43,Funghi,Small,4,Delivery Guy 1 ,Sunday,18,Deliveruu Inc.,Munich District Two,Adult
+1146,7,155,5,20,Salami,Small,1,Delivery Scooters ,Friday,21,Deliver Now Holding,Munich District One,Teenager
+1636,7,61,39,44,Speciale,Large,0,Delivery Guy 2,Friday,19,Deliver Now Holding,Munich District One,Teenager
+1999,7,161,56,1,Veggie,Small,1,Chef 2,Friday,19,Feedera SE,Munich District One,Student
+1680,7,75,6,2,Funghi,Large,4,Chef 1,Saturday,10,Feedera SE,Munich District Two,Teenager
+591,7,123,29,29,Magherita,Small,3,Waiter,Friday,21,BestOrder Inc.,Munich District One,Student
+315,7,294,54,7,Calzone,Small,1,Phone Bill,Saturday,18,Deliver Now Holding,Munich District One,Adult
+794,7,55,10,2,Salami,Medium,1,Waiter,Saturday,18,Feedera SE,Munich District Three,Student
+1183,7,69,17,2,Magherita,Small,1,Delivery Guy 2,Friday,14,Feedera SE,Munich District Three,Student
+1167,7,239,15,11,Magherita,Large,2,Delivery Scooters ,Tuesday,17,Deliver Now Holding,Munich District Five,Student
+103,7,208,18,9,Calzone,Medium,1,Chef 2,Friday,18,BestOrder Inc.,Munich District One,Student
+986,7,265,6,29,Salami,Medium,5,Waiter,Friday,14,Orderly SE,Munich District One,Teenager
+130,7,82,35,7,Magherita,Medium,3,Chef 1,Saturday,21,Feedera SE,Munich District Two,Student
+1306,7,205,9,2,Magherita,Large,2,Phone Bill,Saturday,18,BestOrder Inc.,Munich District Two,Student
+316,7,170,10,5,Funghi,Small,1,Delivery Scooters ,Wednesday,17,Heropizza Lmtd.,Munich District One,Student
+1667,7,202,32,13,Salami,Large,1,Chef 2,Sunday,19,Feedera SE,Munich District One,Student
+1498,7,202,24,10,Veggie,Small,3,Ingredients,Saturday,18,Feedera SE,Munich District Five,Teenager
+1432,7,213,33,3,Magherita,Small,5,Delivery Scooters ,Friday,18,BestOrder Inc.,Munich District Four,Student
+1273,7,27,56,13,Funghi,Medium,3,Delivery Guy 2,Monday,19,BestOrder Inc.,Munich District Four,Student
+750,7,295,36,10,Funghi,Medium,5,Delivery Scooters ,Friday,18,Deliver Now Holding,Munich District Three,Student
+1521,7,115,34,13,Funghi,Small,2,Chef 1,Friday,10,Feedera SE,Munich District One,Student
+1583,7,25,16,2,Salami,Medium,1,Phone Bill,Wednesday,18,Deliveruu Inc.,Munich District Three,Student
+1106,7,281,36,10,Salami,Small,3,Delivery Guy 2,Saturday,20,Feedera SE,Munich District Two,Student
+1287,7,133,30,16,Magherita,Medium,5,Delivery Scooters ,Saturday,12,Feedera SE,Munich District One,Student
+958,7,11,21,16,Salami,Small,0,Chef 2,Thursday,13,Deliver Now Holding,Munich District Four,Teenager
+1229,7,293,5,7,Magherita,Large,3,Chef 2,Sunday,13,Orderly SE,Munich District One,Teenager
+1715,7,93,49,11,Speciale,Small,4,Phone Bill,Sunday,19,Deliveruu Inc.,Munich District Two,Student
+128,7,118,10,5,Calzone,Small,0,Waiter,Sunday,11,Feedera SE,Munich District One,Teenager
+697,7,199,47,11,Salami,Large,3,Chef 2,Sunday,18,Feedera SE,Munich District One,Student
+1798,7,71,43,29,Magherita,Small,1,Chef 1,Saturday,19,Deliver Now Holding,Munich District One,Teenager
+1459,7,14,4,16,Funghi,Small,0,Ingredients,Tuesday,17,Deliveruu Inc.,Munich District Three,Senior
+1613,7,172,17,7,Salami,Medium,2,Phone Bill,Sunday,15,BestOrder Inc.,Munich District Two,Teenager
+562,7,19,9,7,Magherita,Small,5,Waiter,Sunday,12,BestOrder Inc.,Munich District One,Teenager
+1108,7,232,36,2,Salami,Small,3,Chef 2,Sunday,18,Feedera SE,Munich District One,Teenager
+838,7,12,8,3,Salami,Medium,2,Chef 2,Monday,12,Feedera SE,Munich District One,Student
+268,7,214,8,7,Calzone,Large,2,Chef 1,Wednesday,13,Feedera SE,Munich District One,Senior
+1804,7,241,9,3,Magherita,Small,3,Chef 1,Friday,12,Feedera SE,Munich District One,Teenager
+1419,7,35,29,2,Magherita,Medium,3,Chef 1,Friday,20,Deliveruu Inc.,Munich District Four,Teenager
+1127,7,193,25,2,Calzone,Medium,3,Chef 1,Saturday,12,Feedera SE,Munich District One,Student
+1815,7,158,29,3,Funghi,Small,3,Chef 2,Sunday,19,TownExpress Inc. ,Munich District Three,Senior
+1360,7,296,53,7,Magherita,Medium,5,Ingredients,Friday,13,Feedera SE,Munich District Two,Teenager
+279,7,298,19,28,Paprika,Large,2,Delivery Scooters ,Saturday,17,BestOrder Inc.,Munich District One,Student
+1013,7,22,13,10,Salami,Small,5,Distribution channel fees,Sunday,19,Deliver Now Holding,Munich District Five,Student
+1096,8,184,13,2,Speciale,Medium,2,Ingredients,Thursday,12,Feedera SE,Munich District Two,Teenager
+648,8,71,43,5,Funghi,Large,1,Chef 1,Wednesday,18,Feedera SE,Munich District Three,Student
+1928,8,267,11,3,Speciale,Small,3,Chef 2,Friday,18,Deliver Now Holding,Munich District Four,Student
+740,8,284,49,10,Magherita,Medium,1,Waiter,Saturday,16,Deliver Now Holding,Munich District One,Student
+520,8,296,49,2,Magherita,Small,5,Phone Bill,Tuesday,18,Deliver Now Holding,Munich District Five,Adult
+112,8,81,34,12,Speciale,Medium,2,Ingredients,Friday,14,TownExpress Inc. ,Munich District Three,Student
+1607,8,70,13,8,Salami,Small,1,Chef 2,Wednesday,18,Feedera SE,Munich District Three,Adult
+1076,8,274,9,2,Calzone,Large,3,Chef 2,Sunday,12,Heropizza Lmtd.,Munich District One,Senior
+1310,8,66,21,32,Funghi,Large,3,Chef 2,Sunday,12,Feedera SE,Munich District Four,Student
+625,8,228,29,16,Veggie,Large,1,Ingredients,Saturday,14,Deliver Now Holding,Munich District One,Student
+529,8,196,29,7,Salami,Large,4,Delivery Scooters ,Saturday,14,TownExpress Inc. ,Munich District One,Adult
+873,8,9,6,9,Salami,Medium,5,Ingredients,Saturday,14,Deliveruu Inc.,Munich District One,Adult
+544,8,17,29,3,Salami,Medium,1,Ingredients,Wednesday,18,Deliver Now Holding,Munich District One,Student
+1148,8,174,5,8,Funghi,Small,5,Chef 1,Saturday,17,Feedera SE,Munich District Three,Adult
+336,8,76,9,44,Salami,Large,1,Delivery Guy 2,Sunday,18,Feedera SE,Munich District Three,Student
+1658,8,207,6,16,Magherita,Large,1,Chef 1,Thursday,13,BestOrder Inc.,Munich District One,Student
+1622,8,196,11,32,Speciale,Medium,3,Distribution channel fees,Sunday,21,BestOrder Inc.,Munich District One,Teenager
+1142,8,281,38,39,Salami,Small,5,Delivery Guy 2,Saturday,19,BestOrder Inc.,Munich District One,Student
+868,8,69,5,13,Magherita,Large,3,Ingredients,Friday,13,Deliveruu Inc.,Munich District Four,Student
+972,8,85,49,7,Salami,Large,5,Chef 2,Friday,15,TownExpress Inc. ,Munich District Three,Adult
+1662,8,19,6,1,Calzone,Small,3,Ingredients,Friday,12,Feedera SE,Munich District Three,Teenager
+491,8,6,52,9,Veggie,Small,2,Chef 1,Monday,15,Feedera SE,Munich District Two,Student
+1151,8,166,19,56,Magherita,Small,3,Phone Bill,Wednesday,18,BestOrder Inc.,Munich District Two,Student
+948,8,11,6,13,Salami,Small,1,Phone Bill,Monday,18,Feedera SE,Munich District One,Student
+1231,8,124,5,30,Salami,Small,1,Ingredients,Friday,12,Deliveruu Inc.,Munich District Four,Student
+100,8,232,8,10,Calzone,Small,5,Chef 1,Sunday,19,Deliver Now Holding,Munich District Three,Teenager
+1154,8,222,5,9,Paprika,Medium,2,Chef 2,Saturday,12,Feedera SE,Munich District Five,Teenager
+1515,8,188,5,22,Magherita,Small,1,Delivery Guy 1 ,Sunday,14,BestOrder Inc.,Munich District One,Senior
+657,8,170,10,7,Magherita,Medium,1,Phone Bill,Friday,15,Orderly SE,Munich District Three,Student
+429,8,264,5,9,Speciale,Medium,5,Distribution channel fees,Saturday,14,BestOrder Inc.,Munich District Four,Student
+1410,8,293,28,11,Calzone,Large,3,Delivery Scooters ,Saturday,20,Feedera SE,Munich District Three,Adult
+301,8,145,10,11,Salami,Small,2,Chef 2,Sunday,14,Deliver Now Holding,Munich District One,Adult
+1374,8,298,6,43,Funghi,Small,1,Waiter,Saturday,18,Feedera SE,Munich District Three,Teenager
+361,8,39,19,13,Magherita,Large,4,Waiter,Friday,19,Deliveruu Inc.,Munich District Three,Student
+667,8,204,29,50,Salami,Medium,5,Phone Bill,Saturday,19,Feedera SE,Munich District Four,Senior
+1103,8,249,8,34,Funghi,Large,1,Chef 2,Friday,12,Deliveruu Inc.,Munich District One,Student
+1954,8,82,5,13,Magherita,Medium,4,Chef 2,Sunday,11,Orderly SE,Munich District Five,Adult
+696,8,194,29,4,Speciale,Large,3,Ingredients,Tuesday,12,BestOrder Inc.,Munich District One,Student
+441,8,245,39,4,Speciale,Large,3,Ingredients,Friday,14,Feedera SE,Munich District One,Student
+1878,8,270,6,2,Salami,Small,5,Delivery Scooters ,Sunday,11,Deliver Now Holding,Munich District Two,Student
+1720,8,243,6,17,Salami,Large,3,Chef 2,Wednesday,12,BestOrder Inc.,Munich District One,Student
+1946,8,253,30,3,Salami,Small,3,Ingredients,Sunday,18,Deliveruu Inc.,Munich District Two,Student
+834,8,249,10,23,Veggie,Small,5,Waiter,Saturday,18,Deliver Now Holding,Munich District Four,Teenager
+1529,8,253,10,11,Salami,Medium,3,Ingredients,Sunday,21,Deliver Now Holding,Munich District One,Student
+1593,8,212,36,11,Calzone,Small,1,Chef 2,Friday,18,Deliveruu Inc.,Munich District One,Student
+342,8,143,5,2,Calzone,Small,2,Chef 1,Saturday,19,BestOrder Inc.,Munich District Three,Teenager
+286,8,192,21,8,Funghi,Medium,0,Phone Bill,Saturday,19,Deliveruu Inc.,Munich District Five,Teenager
+1364,8,95,44,8,Calzone,Medium,3,Phone Bill,Sunday,13,Feedera SE,Munich District One,Student
+665,8,296,9,51,Funghi,Medium,3,Phone Bill,Sunday,19,Deliveruu Inc.,Munich District Five,Student
+984,8,265,29,10,Paprika,Small,3,Ingredients,Saturday,14,Deliver Now Holding,Munich District One,Student
+628,8,264,52,43,Calzone,Large,3,Ingredients,Thursday,18,Deliveruu Inc.,Munich District One,Student
+881,8,125,29,8,Salami,Small,0,Ingredients,Saturday,12,BestOrder Inc.,Munich District One,Student
+1209,8,33,23,11,Paprika,Medium,3,Ingredients,Wednesday,18,Feedera SE,Munich District One,Student
+1869,8,160,33,7,Funghi,Small,3,Chef 1,Sunday,13,Deliver Now Holding,Munich District Two,Teenager
+1009,8,64,8,8,Salami,Medium,4,Waiter,Friday,18,Feedera SE,Munich District Three,Student
+571,8,120,6,9,Funghi,Small,3,Ingredients,Thursday,12,BestOrder Inc.,Munich District Two,Student
+1666,8,300,22,4,Magherita,Large,3,Ingredients,Friday,14,Feedera SE,Munich District One,Teenager
+478,8,185,16,8,Calzone,Small,1,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Adult
+1415,8,130,50,13,Salami,Large,3,Ingredients,Friday,12,BestOrder Inc.,Munich District Two,Student
+343,8,260,53,10,Salami,Large,1,Ingredients,Thursday,13,Deliveruu Inc.,Munich District One,Senior
+357,8,268,6,16,Funghi,Small,4,Chef 1,Sunday,18,TownExpress Inc. ,Munich District One,Adult
+1242,8,212,29,2,Magherita,Small,5,Waiter,Friday,11,Deliveruu Inc.,Munich District Two,Adult
+1822,8,243,36,29,Calzone,Large,3,Chef 1,Sunday,14,BestOrder Inc.,Munich District One,Teenager
+1073,8,107,29,10,Magherita,Large,5,Chef 2,Saturday,12,BestOrder Inc.,Munich District Two,Student
+1794,9,30,24,49,Salami,Small,5,Waiter,Thursday,11,BestOrder Inc.,Munich District One,Teenager
+1938,9,186,10,33,Funghi,Medium,0,Ingredients,Sunday,12,Feedera SE,Munich District Five,Teenager
+1369,9,112,6,9,Funghi,Large,0,Delivery Guy 1 ,Friday,14,BestOrder Inc.,Munich District Four,Student
+489,9,193,37,1,Funghi,Medium,0,Chef 2,Sunday,12,Feedera SE,Munich District One,Teenager
+120,9,90,36,5,Funghi,Large,5,Ingredients,Friday,16,BestOrder Inc.,Munich District Two,Student
+421,9,243,5,10,Calzone,Small,2,Chef 2,Sunday,13,Deliveruu Inc.,Munich District Four,Student
+640,9,213,10,9,Magherita,Small,1,Delivery Guy 2,Sunday,13,BestOrder Inc.,Munich District Five,Senior
+21,9,74,29,8,Salami,Small,5,Chef 2,Sunday,19,Feedera SE,Munich District Four,Student
+1203,9,73,49,2,Magherita,Large,1,Delivery Scooters ,Sunday,18,Feedera SE,Munich District Two,Student
+551,9,133,10,17,Funghi,Medium,3,Chef 1,Thursday,12,Orderly SE,Munich District Four,Teenager
+295,9,255,8,9,Speciale,Large,1,Chef 2,Friday,18,Deliver Now Holding,Munich District One,Adult
+1648,9,222,36,7,Calzone,Small,2,Delivery Scooters ,Saturday,20,Deliver Now Holding,Munich District One,Student
+1690,9,284,29,3,Magherita,Large,3,Ingredients,Thursday,14,BestOrder Inc.,Munich District Four,Student
+990,9,236,9,10,Magherita,Small,3,Delivery Guy 1 ,Saturday,14,Feedera SE,Munich District Two,Student
+1356,9,236,25,2,Funghi,Medium,1,Waiter,Sunday,14,Deliver Now Holding,Munich District Four,Student
+777,9,143,29,7,Funghi,Large,5,Phone Bill,Friday,18,Feedera SE,Munich District Four,Student
+1437,9,93,17,7,Salami,Large,3,Chef 2,Saturday,16,Feedera SE,Munich District Four,Student
+1429,9,253,24,35,Salami,Large,3,Phone Bill,Saturday,17,BestOrder Inc.,Munich District One,Teenager
+115,9,293,20,7,Calzone,Medium,3,Phone Bill,Friday,18,BestOrder Inc.,Munich District Three,Student
+415,9,233,4,13,Speciale,Large,4,Delivery Guy 1 ,Friday,14,Deliveruu Inc.,Munich District Three,Student
+376,9,141,11,5,Salami,Medium,5,Chef 1,Sunday,18,Deliveruu Inc.,Munich District One,Adult
+1162,9,190,55,35,Salami,Small,1,Ingredients,Sunday,18,BestOrder Inc.,Munich District One,Student
+182,9,267,5,2,Funghi,Small,1,Delivery Scooters ,Saturday,16,BestOrder Inc.,Munich District One,Adult
+1568,9,198,5,8,Salami,Large,5,Delivery Scooters ,Saturday,19,Deliver Now Holding,Munich District One,Student
+946,9,234,6,7,Funghi,Small,3,Chef 1,Friday,13,BestOrder Inc.,Munich District One,Student
+1309,9,182,29,11,Calzone,Large,3,Ingredients,Thursday,11,BestOrder Inc.,Munich District One,Student
+515,9,191,5,16,Paprika,Small,2,Chef 2,Friday,12,Deliver Now Holding,Munich District One,Student
+830,9,152,10,2,Funghi,Small,3,Ingredients,Thursday,20,BestOrder Inc.,Munich District Four,Student
+1941,9,296,53,5,Salami,Large,1,Chef 2,Friday,17,Feedera SE,Munich District One,Senior
+308,9,208,5,2,Magherita,Large,3,Delivery Scooters ,Friday,21,Deliver Now Holding,Munich District One,Student
+320,9,236,5,2,Speciale,Medium,5,Delivery Guy 2,Saturday,12,Deliver Now Holding,Munich District Two,Student
+909,9,132,18,3,Calzone,Small,5,Ingredients,Friday,11,TownExpress Inc. ,Munich District Four,Teenager
+245,9,98,29,9,Funghi,Large,3,Ingredients,Sunday,18,Deliver Now Holding,Munich District One,Student
+1819,9,202,10,10,Salami,Small,3,Delivery Scooters ,Monday,13,Deliveruu Inc.,Munich District One,Student
+910,9,240,36,11,Salami,Medium,1,Ingredients,Friday,12,Deliver Now Holding,Munich District One,Student
+246,9,120,44,49,Speciale,Small,3,Waiter,Wednesday,14,Deliver Now Holding,Munich District Three,Student
+1337,9,270,4,15,Magherita,Small,3,Phone Bill,Wednesday,12,Feedera SE,Munich District Three,Student
+926,9,280,35,10,Salami,Small,3,Chef 1,Wednesday,12,TownExpress Inc. ,Munich District One,Student
+1958,9,253,11,2,Speciale,Small,5,Chef 1,Saturday,18,BestOrder Inc.,Munich District Five,Student
+792,9,99,54,23,Funghi,Medium,3,Delivery Scooters ,Friday,11,Feedera SE,Munich District One,Student
+1500,9,221,29,2,Magherita,Medium,4,Delivery Guy 1 ,Friday,18,Heropizza Lmtd.,Munich District One,Teenager
+605,9,146,12,12,Funghi,Large,3,Chef 1,Tuesday,21,Deliveruu Inc.,Munich District Three,Student
+178,9,167,8,44,Salami,Large,1,Delivery Scooters ,Sunday,21,Feedera SE,Munich District Five,Student
